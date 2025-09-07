@@ -1,0 +1,8 @@
+# git ignore
+
+# mpv 日志目录
+mpv/logs/
+
+# mpv 播放信息保存目录
+mpv/watch_later
+
