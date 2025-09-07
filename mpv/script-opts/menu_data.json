@@ -1,0 +1,120 @@
+[
+    {
+        "title": "声音控制",
+        "items": [
+            {"title": "音量+10", "command": "add volume 10"},
+            {"title": "音量-10", "command": "add volume -10"},
+            {"title": "静音切换", "command": "cycle mute"}
+        ]
+    },
+    {
+        "title": "播放控制",
+        "items": [
+            {"title": "暂停/播放", "command": "cycle pause"},
+            {"title": "下一帧", "command": "frame-step"},
+            {"title": "上一帧", "command": "frame-back-step"},
+            {"title": "后退5秒", "command": "seek -5 exact"},
+            {"title": "前进5秒", "command": "seek +5 exact"},
+            {"title": "后退60秒", "command": "seek -60"},
+            {"title": "前进60秒", "command": "seek +60"}
+        ]
+    },
+    {
+        "title": "播放列表",
+        "items": [
+        {"title": "显示播放列表", "command": "script-binding playlistmanager/showplaylist"},
+        {"title": "播放列表菜单", "command": "script-binding playlistmanager/openmenu"},
+        {"title": "上一个", "command": "playlist-prev"},
+        {"title": "下一个", "command": "playlist-next"},
+        {"title": "随机播放", "command": "playlist-shuffle; show-text \"playlist-shuffle\""},
+        {"title": "单文件循环", "command": "cycle-values loop-file inf no"},
+        {"title": "播放列表循环", "command": "cycle-values loop-playlist inf no"},
+        {"title": "保存播放列表", "command": "script-binding playlistmanager/saveplaylist"},
+        {"title": "选择播放列表", "command": "script-binding playlistmanager/selectplaylist"},
+        {"title": "加载文件到播放列表", "command": "script-binding playlistmanager/loadfiles"},
+        {"title": "排序播放列表", "command": "script-binding playlistmanager/sortplaylist"},
+        {"title": "反转播放列表", "command": "script-binding playlistmanager/reverseplaylist"},
+        {"title": "打乱播放列表", "command": "script-binding playlistmanager/shuffleplaylist"},
+        {"title": "播放随机文件", "command": "script-binding playlistmanager/playlist-next-random"}
+        ]
+    },
+    {
+        "title": "播放速度",
+        "items": [
+            {"title": "加速0.1", "command": "add speed +0.1"},
+            {"title": "减速0.1", "command": "add speed -0.1"},
+            {"title": "重置为1.0", "command": "set speed 1.0"}
+        ]
+    },
+    {
+        "title": "窗口控制",
+        "items": [
+            {"title": "切换无边框", "command": "cycle border"},
+            {"title": "1/3窗口大小", "command": "set window-scale 0.333"},
+            {"title": "2/3窗口大小", "command": "set window-scale 0.667"},
+            {"title": "原始窗口大小", "command": "set window-scale 1.0"}
+        ]
+    },
+    {
+        "title": "字幕控制",
+        "items": [
+            {"title": "加载字幕文件", "command": "show-text 脚本还没写 5000"},
+            {"title": "切换字幕显示", "command": "cycle sub-visibility"},
+            {"title": "字幕fontsize+2", "command": "add sub-font-size +2"},
+            {"title": "字幕fontsize-2", "command": "add sub-font-size -2"},
+            {"title": "字幕上移0.5", "command": "add sub-pos -0.5"},
+            {"title": "字幕下移0.5", "command": "add sub-pos +0.5"},
+            {"title": "减少字幕延迟0.05", "command": "add sub-delay -0.05"},
+            {"title": "增加字幕延迟0.05", "command": "add sub-delay +0.05"}
+        ]
+    },
+    {
+        "title": "音频控制",
+        "items":[
+            {"title": "减少音频延迟0.2", "command": "add audio-delay -0.2"},
+            {"title": "增加音频延迟0.2", "command": "add audio-delay +0.2"}
+        ]
+    },
+    {
+        "title": "视频控制",
+        "items": [
+            {"title": "旋转视频", "command": "cycle-values video-rotate 90 180 270 0"},
+            {"title": "去带切换", "command": "cycle deband"},
+            {"title": "硬件解码切换", "command": "cycle-values hwdec auto no"},
+            {"title": "垂直同步切换", "command": "cycle-values video-sync audio display-resample"},
+            {"title": "平移与缩放+0.1", "command": "add panscan +0.1"},
+            {"title": "平移与缩放-0.1", "command": "add panscan -0.1"},
+            {"title": "视频缩放+0.002", "command": "add video-zoom +0.002"},
+            {"title": "视频缩放-0.002", "command": "add video-zoom -0.002"},
+            {"title": "填充视频黑边", "command": "vf toggle pad=aspect=${display-width}/${display-height}:x=-1:y=-1"},
+            {"title": "帧插值切换", "command": "cycle interpolation"}
+        ]
+    },
+    {
+        "title": "截图功能",
+        "items": [
+            {"title": "截图(带字幕)", "command": "show-text \"请耐心等待截图完成\" 60000; screenshot"},
+            {"title": "截图(窗口)", "command": "show-text \"请耐心等待截图完成\" 60000; screenshot window"},
+            {"title": "截图(纯视频)", "command": "show-text \"请耐心等待截图完成\" 60000; screenshot video"}
+        ]
+    },
+    {
+        "title": "信息显示",
+        "items": [
+            {"title": "显示播放进度", "command": "show-progress"},
+            {"title": "显示系统时间", "command": "script-message display-time"},
+            {"title": "显示视频统计", "command": "script-binding stats/display-page-1"},
+            {"title": "切换统计显示", "command": "script-binding stats/display-stats-toggle"}
+        ]
+    },
+    {
+        "title": "其他功能",
+        "items": [
+            {"title": "启用控制台", "command": "script-binding console/enable"},
+            {"title": "全屏切换", "command": "cycle fullscreen"},
+            {"title": "退出全屏", "command": "set fullscreen no"}
+        ]
+    },
+    {"title": "打开文件", "command": "show-text 假装已经打开了 5000"},
+    {"title": "退出", "command": "quit"}
+]
