@@ -1,0 +1,3097 @@
+# Rime user dictionary
+#@/db_name	rime_frost
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	16941
+#@/user_id	7e22af30-d369-4ce9-a10c-cda5c2fe31f4
+C 	C	c=4 d=3.3301e-11 t=16941
+F 	F	c=1 d=0.778801 t=16941
+G 	G	c=34 d=1.50565 t=16941
+M 	M	c=4 d=0.763379 t=16941
+S 	S	c=1 d=1.99162e-17 t=16941
+T 	T	c=5 d=0.925109 t=16941
+T T tai lao lei le 	TT太劳累了	c=1 d=5.86068e-09 t=16941
+U 	U	c=1 d=0.790571 t=16941
+Z 	Z	c=1 d=7.88236e-25 t=16941
+a 	啊	c=11 d=1.56321 t=16941
+a 	阿	c=1 d=0.000278804 t=16941
+a du 	阿杜	c=0 d=0.000111936 t=16941
+a li 	阿里	c=1 d=4.75705e-25 t=16941
+a li ba ba 	阿里巴巴	c=2 d=4.65795e-05 t=16941
+a si 	阿斯	c=0 d=0.0763379 t=16941
+ai 	爱	c=0 d=3.64653e-16 t=16941
+ai er deng fa huan 	艾尔登法环	c=1 d=0.0305009 t=16941
+ai na shi 	爱那是	c=1 d=3.66481e-15 t=16941
+ai ni 	爱你	c=0 d=1.38592e-17 t=16941
+an 	按	c=15 d=3.12885 t=16941
+an ju 	安居	c=0 d=0.0701173 t=16941
+an li 	案例	c=1 d=0.71177 t=16941
+an niu 	按钮	c=5 d=1.55475 t=16941
+an se 	暗色	c=3 d=1.68089 t=16941
+an shi gao 	安世高	c=0 d=2.53098e-14 t=16941
+an xia 	按下	c=15 d=5.5736 t=16941
+an zhao 	按照	c=2 d=1.60504e-21 t=16941
+an zhu 	按住	c=2 d=0.726149 t=16941
+an zhuang 	安装	c=159 d=8.42547 t=16941
+an zhuang bao 	安装包	c=1 d=3.53263e-24 t=16941
+an zhuang hou 	安装后	c=3 d=4.67174e-18 t=16941
+an zhuang le 	安装了	c=1 d=1.02229e-24 t=16941
+an zhuang pei zhi 	安装配置	c=1 d=0.895834 t=16941
+an zhuo 	安卓	c=14 d=0.134413 t=16941
+ang 	昂	c=0 d=2.17732e-08 t=16941
+ao ba 	奥把	c=1 d=5.11257e-20 t=16941
+ao ben 	奥本	c=0 d=0.0860708 t=16941
+ao cun 	奥村	c=1 d=0.882497 t=16941
+ao de sai 	奥德赛	c=1 d=1.30454e-10 t=16941
+ao mei 	奥美	c=1 d=0.995012 t=16941
+ao tai ling 	奥泰灵	c=1 d=0.99005 t=16941
+ba 	吧	c=8 d=1.57278 t=16941
+ba 	把	c=70 d=3.549 t=16941
+ba cha 	拔插	c=1 d=3.35805e-16 t=16941
+ba fa 	八法	c=1 d=9.15488e-21 t=16941
+ba gei wo 	把给我	c=1 d=0.701173 t=16941
+ba shang 	坝上	c=0 d=7.11021e-19 t=16941
+ba shang wan er ou 	坝上玩儿欧	c=1 d=7.14585e-18 t=16941
+ba ta 	把它	c=2 d=0.00612731 t=16941
+ba wan li 	八万里	c=1 d=3.66294e-09 t=16941
+ba xia lai 	拔下来	c=1 d=9.71768e-17 t=16941
+bai 	白	c=2 d=1.73266 t=16941
+bai chui 	摆锤	c=0 d=0.00816756 t=16941
+bai du 	百度	c=8 d=0.767393 t=16941
+bai du bai ke 	百度百科	c=1 d=0.239309 t=16941
+bai fang 	摆放	c=1 d=0.540641 t=16941
+bai fen bi 	百分比	c=2 d=0.543351 t=16941
+bai fen zhi 	百分之	c=1 d=3.09829e-10 t=16941
+bai he 	百合	c=2 d=0.0475963 t=16941
+bai ke 	百科	c=1 d=0.26054 t=16941
+bai se 	白色	c=7 d=4.22337 t=16941
+bai shuang 	白霜	c=5 d=9.30405e-22 t=16941
+bai shuang pin yin 	白霜拼音	c=2 d=8.11095e-23 t=16941
+bai wan 	百万	c=1 d=3.7183e-09 t=16941
+bai xing 	百姓	c=1 d=6.25215e-05 t=16941
+ban 	办	c=1 d=5.46632e-13 t=16941
+ban 	坂	c=0 d=3.10199e-25 t=16941
+ban 	版	c=6 d=0.877987 t=16941
+ban ben 	版本	c=29 d=5.82457 t=16941
+ban dian 	半点	c=1 d=9.50066e-16 t=16941
+ban fa 	办法	c=4 d=6.13465e-05 t=16941
+ban gong wang 	办公网	c=2 d=0.142322 t=16941
+ban sui 	伴随	c=1 d=7.77451e-10 t=16941
+ban tou ming 	半透明	c=6 d=5.80859e-11 t=16941
+bang 	帮	c=3 d=1.25065 t=16941
+bang ding 	绑定	c=5 d=2.54202 t=16941
+bang wo 	帮我	c=88 d=8.50901 t=16941
+bao 	包	c=25 d=2.73644 t=16941
+bao 	宝	c=1 d=1.89255e-05 t=16941
+bao chu 	爆出	c=1 d=0.755784 t=16941
+bao cun 	保存	c=20 d=6.19075 t=16941
+bao cun zai 	保存在	c=2 d=0.99005 t=16941
+bao cuo 	报错	c=23 d=4.25848 t=16941
+bao guo 	包裹	c=1 d=0.0100017 t=16941
+bao han 	包含	c=9 d=1.98207 t=16941
+bao jian 	保健	c=1 d=0.99005 t=16941
+bao kuo 	包括	c=1 d=1.19287e-16 t=16941
+bao liu 	保留	c=4 d=1.63452 t=16941
+bao lou 	宝楼	c=1 d=0.810584 t=16941
+bao lu 	暴露	c=1 d=0.814647 t=16941
+bao zuo 	宝座	c=1 d=1.9559e-10 t=16941
+bei 	被	c=4 d=1.71765 t=16941
+bei fen 	备份	c=16 d=1.23234 t=16941
+bei jing 	背景	c=4 d=0.927743 t=16941
+bei jing se 	背景色	c=22 d=8.5526 t=16941
+bei jing shi jian 	北京时间	c=1 d=0.729789 t=16941
+bei jing tu 	背景图	c=1 d=1.47799e-08 t=16941
+bei liang 	悲凉	c=1 d=8.42203e-10 t=16941
+bei ren wei 	被认为	c=1 d=0.0102037 t=16941
+bei shan le 	被删了	c=1 d=0.208045 t=16941
+bei yong 	备用	c=1 d=7.25138e-14 t=16941
+ben 	本	c=1 d=0.0755784 t=16941
+ben di 	本地	c=21 d=0.0030337 t=16941
+ben lai 	本来	c=2 d=0.698626 t=16941
+ben zhuang 	本庄	c=0 d=6.3674e-15 t=16941
+ben zhuang ling 	本庄铃	c=1 d=6.39932e-14 t=16941
+bi 	比	c=7 d=0.983869 t=16941
+bi a du 	比阿杜	c=2 d=0.248958 t=16941
+bi ci 	彼此	c=1 d=7.50711e-10 t=16941
+bi de shang 	比得上	c=1 d=8.25667e-12 t=16941
+bi er 	比尔	c=1 d=9.98417e-10 t=16941
+bi ji 	笔记	c=4 d=1.75827e-05 t=16941
+bi ji ben 	笔记本	c=12 d=1.57214 t=16941
+bi jiao 	比较	c=6 d=1.69198 t=16941
+bi jiao chang 	比较长	c=2 d=1.07455e-11 t=16941
+bi jiao duo 	比较多	c=2 d=4.59832e-08 t=16941
+bi jiao hao 	比较好	c=2 d=0.453845 t=16941
+bi li 	比例	c=1 d=2.0324e-24 t=16941
+bi li bi li 	哔哩哔哩	c=3 d=4.7653e-16 t=16941
+bi mian 	避免	c=1 d=1.98135e-15 t=16941
+bi ran 	必然	c=1 d=2.4305e-07 t=16941
+bi ru 	比如	c=22 d=3.05367 t=16941
+bi xiu 	必修	c=1 d=0.960789 t=16941
+bi xu 	必须	c=5 d=4.39519e-06 t=16941
+bi ying 	必应	c=1 d=0.23457 t=16941
+bi zhe ge 	比这个	c=2 d=0.00646501 t=16941
+bi zhi 	壁纸	c=26 d=5.97261 t=16941
+bi zhong zhi 	比中指	c=1 d=0.869358 t=16941
+bi zi 	鼻子	c=1 d=4.15631e-25 t=16941
+bian 	边	c=1 d=0.744532 t=16941
+bian 	遍	c=1 d=2.77603e-12 t=16941
+bian cheng 	变成	c=5 d=0.50409 t=16941
+bian cheng 	编程	c=7 d=0.501576 t=16941
+bian cheng yu yan 	编程语言	c=1 d=8.11274e-11 t=16941
+bian da 	变大	c=1 d=0.965605 t=16941
+bian ji 	编辑	c=6 d=0.853778 t=16941
+bian ji kuang 	编辑框	c=2 d=6.45711e-23 t=16941
+bian kuang 	边框	c=4 d=3.29298 t=16941
+bian liang 	变量	c=14 d=3.6337 t=16941
+bian liang lie biao 	变量列表	c=1 d=0.927743 t=16941
+bian liang ming 	变量名	c=1 d=3.35224e-25 t=16941
+bian ma 	编码	c=2 d=3.86677e-14 t=16941
+bian wei 	变为	c=1 d=0.995012 t=16941
+bian xie 	编写	c=1 d=4.35516e-16 t=16941
+bian yi 	变异	c=1 d=1.73709e-26 t=16941
+bian yi 	编译	c=9 d=0.955997 t=16941
+bian yuan 	边缘	c=2 d=0.904837 t=16941
+biao 	表	c=1 d=2.97114e-17 t=16941
+biao ge 	表格	c=1 d=0.814647 t=16941
+biao qian 	标签	c=2 d=8.69517e-24 t=16941
+biao qian ye 	标签页	c=3 d=2.38856e-08 t=16941
+biao qing 	表情	c=1 d=2.19047e-19 t=16941
+biao shi 	表示	c=2 d=0.451581 t=16941
+biao ti 	标题	c=9 d=4.18351e-20 t=16941
+biao zhi 	标志	c=3 d=2.41783 t=16941
+biao zhun 	标准	c=1 d=8.85233e-08 t=16941
+bie 	别	c=30 d=4.36218 t=16941
+bie biao 	别表	c=1 d=4.2345e-09 t=16941
+bie de 	别的	c=1 d=0.680451 t=16941
+bie ren 	别人	c=19 d=4.36187 t=16941
+bie shang wo 	别赏我	c=1 d=0.697676 t=16941
+bing 	并	c=4 d=1.62388 t=16941
+bing bu 	并不	c=2 d=0.697676 t=16941
+bing bu neng 	并不能	c=1 d=5.22401e-09 t=16941
+bing mei you 	并没有	c=1 d=1.67045e-07 t=16941
+bo duo ye jie yi 	波多野结衣	c=1 d=1.84263e-14 t=16941
+bo fang 	播放	c=31 d=8.69091 t=16941
+bo fang lie biao 	播放列表	c=13 d=5.96725 t=16941
+bo fang qi 	播放器	c=2 d=1.67162 t=16941
+bo fang yuan 	播放源	c=2 d=2.12784e-23 t=16941
+bo tong 	拨通	c=1 d=1.36129e-11 t=16941
+bu 	不	c=28 d=2.81536 t=16941
+bu an zhuang 	不安装	c=1 d=0.839457 t=16941
+bu bian 	不便	c=2 d=1.35404e-07 t=16941
+bu bian 	不变	c=3 d=0.980199 t=16941
+bu biao 	不表	c=1 d=0.763379 t=16941
+bu cun zai 	不存在	c=3 d=5.92342e-05 t=16941
+bu cuo 	不错	c=1 d=9.33823e-19 t=16941
+bu da pei 	不搭配	c=2 d=1.12104 t=16941
+bu dai 	不带	c=1 d=0.752014 t=16941
+bu dao 	不到	c=2 d=1.39647 t=16941
+bu ding 	补丁	c=8 d=9.07699e-11 t=16941
+bu dong 	不懂	c=1 d=0.618783 t=16941
+bu dui 	不对	c=3 d=2.51325 t=16941
+bu dui jin 	不对劲	c=2 d=6.596e-09 t=16941
+bu duo 	不多	c=1 d=0.0911727 t=16941
+bu duo yao 	不多要	c=1 d=1.56182e-10 t=16941
+bu fang bian 	不方便	c=1 d=3.53575e-05 t=16941
+bu fen 	部分	c=15 d=4.02781 t=16941
+bu gou 	不够	c=1 d=0.00171216 t=16941
+bu guan 	不管	c=1 d=9.53336e-27 t=16941
+bu guo 	不过	c=3 d=1.34051 t=16941
+bu guo shi 	不过是	c=2 d=0.927743 t=16941
+bu hao 	不好	c=4 d=1.24743 t=16941
+bu hao kan 	不好看	c=1 d=0.737123 t=16941
+bu hao yong 	不好用	c=1 d=2.65984e-09 t=16941
+bu he shi 	不合适	c=2 d=0.752014 t=16941
+bu huan gua er huan bu jun 	不患寡而患不均	c=1 d=4.66047e-19 t=16941
+bu hui 	不会	c=11 d=1.28786 t=16941
+bu jing zhun 	不精准	c=1 d=0.631284 t=16941
+bu jiu shi 	不就是	c=1 d=9.2136e-08 t=16941
+bu ju 	布局	c=10 d=5.35124 t=16941
+bu ka 	不卡	c=2 d=1.54881 t=16941
+bu kao lv 	不考虑	c=2 d=0.946485 t=16941
+bu ke kong 	不可控	c=1 d=6.90359e-24 t=16941
+bu liao 	不了	c=3 d=1.02682 t=16941
+bu lie jie 	不裂解	c=1 d=0.88692 t=16941
+bu neng 	不能	c=17 d=3.0016 t=16941
+bu pei zhi 	不配置	c=1 d=1.29579e-19 t=16941
+bu qu fen 	不区分	c=1 d=0.865022 t=16941
+bu quan 	不全	c=1 d=0.640824 t=16941
+bu quan 	补全	c=1 d=0.647265 t=16941
+bu que ding 	不确定	c=2 d=1.58915 t=16941
+bu she zhi 	不设置	c=1 d=1.47237e-22 t=16941
+bu shi 	不是	c=31 d=3.75726 t=16941
+bu shi o 	不是哦	c=0 d=2.99122e-09 t=16941
+bu shi o na ge 	不是哦哪个	c=1 d=3.00621e-08 t=16941
+bu shi yong 	不使用	c=2 d=0.951229 t=16941
+bu shou 	不受	c=2 d=3.49576e-10 t=16941
+bu shu 	部署	c=2 d=9.59787e-18 t=16941
+bu tai hao 	不太好	c=1 d=8.75204e-21 t=16941
+bu tong 	不同	c=9 d=2.47456 t=16941
+bu tong bu 	不同步	c=1 d=0.955997 t=16941
+bu tong tou gan 	不通透感	c=2 d=0.927743 t=16941
+bu tou ming 	不透明	c=1 d=0.932394 t=16941
+bu wan zheng 	不完整	c=2 d=1.21948e-09 t=16941
+bu wen ding 	不稳定	c=1 d=0.00213348 t=16941
+bu xi huan 	不喜欢	c=1 d=0.763379 t=16941
+bu xian su 	不限速	c=1 d=0.00067217 t=16941
+bu xiang 	不像	c=1 d=2.10859e-12 t=16941
+bu xiang 	不想	c=5 d=1.63596 t=16941
+bu xiang kan 	不想看	c=1 d=2.2502e-12 t=16941
+bu xiang xin 	不相信	c=1 d=5.83642e-19 t=16941
+bu xing 	不行	c=23 d=2.8347 t=16941
+bu xiu gai 	不修改	c=1 d=0.99005 t=16941
+bu xu yao 	不需要	c=7 d=0.870358 t=16941
+bu yao 	不要	c=35 d=8.82013 t=16941
+bu yi yang 	不一样	c=4 d=2.05564 t=16941
+bu ying xiang 	不影响	c=3 d=0.918512 t=16941
+bu yong 	不用	c=8 d=1.42457 t=16941
+bu zai 	不再	c=2 d=2.83751e-05 t=16941
+bu zai 	不在	c=3 d=6.67751e-07 t=16941
+bu zai yu 	不在于	c=1 d=0.00737249 t=16941
+bu zhao 	不找	c=1 d=0.690734 t=16941
+bu zheng chang 	不正常	c=1 d=3.77963e-25 t=16941
+bu zheng que 	不正确	c=1 d=1.14096e-22 t=16941
+bu zhi chi 	不支持	c=3 d=1.7865 t=16941
+bu zhi dao 	不知道	c=10 d=2.24162 t=16941
+bu zhi shi 	不只是	c=2 d=0.479505 t=16941
+bu zhou 	步骤	c=14 d=2.78282 t=16941
+bu zhun que 	不准确	c=1 d=2.04169e-15 t=16941
+bu zou 	不走	c=1 d=2.96095e-06 t=16941
+bu zu 	不足	c=1 d=5.56046e-08 t=16941
+bu zuo 	不做	c=2 d=1.03632 t=16941
+cai 	才	c=7 d=1.86833e-08 t=16941
+cai dan 	菜单	c=11 d=6.38507 t=16941
+cai fu 	财富	c=1 d=1.73741e-10 t=16941
+cai fu zhi you 	财富只有	c=1 d=1.07342e-10 t=16941
+cai fu zi you 	财富自由	c=1 d=1.0788e-10 t=16941
+cai hui 	才会	c=3 d=0.920417 t=16941
+cai keng 	踩坑	c=2 d=1.67002e-15 t=16941
+cai neng 	才能	c=6 d=1.81469 t=16941
+cai su 	彩塑	c=1 d=1 t=16941
+can ji 	残疾	c=1 d=3.03746e-12 t=16941
+can kan 	参看	c=1 d=0.913931 t=16941
+can kao 	参考	c=2 d=0.918512 t=16941
+can kao tu 	参考图	c=2 d=4.66008e-19 t=16941
+can shu 	参数	c=22 d=2.77957 t=16941
+can yu 	参与	c=1 d=0.869358 t=16941
+cang ku 	仓库	c=40 d=2.36415 t=16941
+cang qiong 	苍穹	c=1 d=7.28524e-10 t=16941
+cao 	草	c=1 d=1.64727e-19 t=16941
+cao di 	草地	c=2 d=3.48236e-19 t=16941
+cao zuo 	操作	c=24 d=4.51031 t=16941
+ce hua 	策划	c=0 d=0.0946485 t=16941
+ce hua shi gei ni kan 	策划是给你看	c=1 d=0.951229 t=16941
+ce shi 	测试	c=27 d=4.70175 t=16941
+ceng jiang 	曾将	c=1 d=0.00336274 t=16941
+ceng jing 	曾经	c=2 d=0.00305798 t=16941
+ceng mian 	层面	c=1 d=8.63964e-16 t=16941
+cha 	差	c=1 d=2.27321e-14 t=16941
+cha 	插	c=8 d=2.42667e-05 t=16941
+cha 	查	c=1 d=0.869358 t=16941
+cha bie 	差别	c=2 d=2.25086e-06 t=16941
+cha cao 	插槽	c=1 d=3.5657e-16 t=16941
+cha guan 	茶馆	c=0 d=1.77925e-15 t=16941
+cha hao 	插好	c=3 d=2.03161e-05 t=16941
+cha jian 	插件	c=15 d=3.44128e-05 t=16941
+cha kan 	查看	c=44 d=4.73015 t=16941
+cha kou 	插口	c=3 d=3.18077e-16 t=16941
+cha ru 	插入	c=4 d=0.276083 t=16941
+cha shang 	插上	c=1 d=1.01809e-05 t=16941
+cha tou 	插头	c=1 d=1.11955e-05 t=16941
+cha xun 	查询	c=3 d=1.03924 t=16941
+cha yi 	差异	c=0 d=0.0937067 t=16941
+cha yi xia 	查一下	c=1 d=0.946485 t=16941
+cha yi xia ci ang 	差异下次昂	c=1 d=0.941765 t=16941
+cha za hou 	查咋后	c=1 d=1 t=16941
+cha zhao 	查找	c=3 d=2.95632e-17 t=16941
+chan sheng 	产生	c=1 d=0.927743 t=16941
+chang 	唱	c=1 d=1.034e-11 t=16941
+chang 	场	c=1 d=0.509156 t=16941
+chang du 	长度	c=1 d=0.831104 t=16941
+chang he 	场合	c=0 d=0.0822835 t=16941
+chang he yong 	场合用	c=1 d=0.826959 t=16941
+chang jian 	常见	c=3 d=5.63421e-13 t=16941
+chang shi 	尝试	c=5 d=1.88365 t=16941
+chang shi jian 	长时间	c=2 d=3.85167e-11 t=16941
+chang shi pin 	长视频	c=1 d=1.15463e-15 t=16941
+chang yong 	常用	c=3 d=1.62564 t=16941
+chang yuan 	长远	c=1 d=0.11475 t=16941
+chao chu 	超出	c=3 d=2.14538 t=16941
+chao guo 	超过	c=2 d=0.83527 t=16941
+chao ji 	超级	c=1 d=0.0409665 t=16941
+chao zhu 	朝珠	c=1 d=3.88878e-07 t=16941
+che di 	彻底	c=2 d=4.13016e-05 t=16941
+che di shi 	彻底是	c=1 d=7.86201e-24 t=16941
+che xiao 	撤销	c=2 d=0.900325 t=16941
+che xing 	车型	c=1 d=0.980199 t=16941
+chen gong 	陈宫	c=1 d=5.84456e-06 t=16941
+chen mo 	沉默	c=2 d=5.65385e-09 t=16941
+chen zhong 	沉重	c=1 d=6.86098e-10 t=16941
+cheng 	城	c=2 d=1.26583 t=16941
+cheng 	成	c=5 d=1.53881 t=16941
+cheng ben 	成本	c=0 d=2.19465e-13 t=16941
+cheng chi 	城池	c=1 d=8.76574e-10 t=16941
+cheng gong 	成功	c=16 d=0.000631902 t=16941
+cheng qun 	成群	c=0 d=2.12979e-13 t=16941
+cheng wei 	成为	c=1 d=0.891366 t=16941
+cheng xu 	程序	c=7 d=2.39362 t=16941
+cheng xu yuan 	程序员	c=1 d=7.79752e-16 t=16941
+cheng yu 	成语	c=3 d=1.50205e-21 t=16941
+chi 	吃	c=2 d=0.965605 t=16941
+chi 	池	c=1 d=1.5468e-14 t=16941
+chi dun 	迟钝	c=1 d=0.0333733 t=16941
+chi fan 	吃饭	c=2 d=8.45153e-21 t=16941
+chi fan le 	吃饭了	c=1 d=5.20504e-25 t=16941
+chong 	充	c=2 d=8.83098e-10 t=16941
+chong dian 	充电	c=14 d=3.62068e-05 t=16941
+chong dian xian 	充电线	c=2 d=2.64081e-05 t=16941
+chong fu 	重复	c=2 d=5.51844e-07 t=16941
+chong gui 	重归	c=1 d=4.78838e-14 t=16941
+chong hua fei 	充话费	c=1 d=8.87524e-09 t=16941
+chong man 	充满	c=2 d=3.74398e-25 t=16941
+chong ming ming 	重命名	c=1 d=1.37615e-21 t=16941
+chong qi 	重启	c=9 d=1.8945 t=16941
+chong tu 	冲突	c=5 d=3.82928 t=16941
+chong xie 	重写	c=1 d=2.57851e-26 t=16941
+chong xin 	重新	c=17 d=3.65515 t=16941
+chong zhi 	充值	c=1 d=9.00938e-09 t=16941
+chong zhi 	重置	c=1 d=8.4335e-26 t=16941
+chong zhi mi ma 	重置密码	c=1 d=8.06816e-05 t=16941
+chong zhuang 	重装	c=1 d=3.27291e-08 t=16941
+chou 	紬	c=0 d=0.00459593 t=16941
+chou li 	抽离	c=1 d=0.937067 t=16941
+chou qi lou zi 	臭棋篓子	c=1 d=7.60219e-11 t=16941
+chu 	出	c=3 d=0.882497 t=16941
+chu 	初	c=1 d=0.000293323 t=16941
+chu chuan nan 	初川南	c=2 d=0.000577343 t=16941
+chu chun 	初春	c=1 d=6.49382e-10 t=16941
+chu guo guo 	出过国	c=1 d=5.80731e-19 t=16941
+chu jing 	处境	c=1 d=7.89604e-16 t=16941
+chu lai 	出来	c=11 d=2.90613 t=16941
+chu le 	除了	c=9 d=1.57243 t=16941
+chu li 	处理	c=1 d=1.54176e-05 t=16941
+chu ming 	出名	c=3 d=2.54408 t=16941
+chu qu 	除去	c=2 d=1.6055e-11 t=16941
+chu sheng 	出生	c=1 d=0.197899 t=16941
+chu shi 	初始	c=0 d=0.0951229 t=16941
+chu shi bi zhi 	初始壁纸	c=1 d=0.955997 t=16941
+chu shi hua 	初始化	c=2 d=4.95325e-20 t=16941
+chu xian 	出现	c=8 d=2.63058 t=16941
+chu xian zai 	出现在	c=1 d=1.08532e-22 t=16941
+chu yu 	处于	c=4 d=2.93608 t=16941
+chu yu ni er bu ran 	出淤泥而不染	c=1 d=3.39065e-12 t=16941
+chu zou 	出走	c=1 d=3.64467e-09 t=16941
+chuan 	川	c=1 d=0.00195861 t=16941
+chuan 	穿	c=1 d=2.05653e-12 t=16941
+chuan chun 	川春	c=0 d=0.00162445 t=16941
+chuan chun qian li 	川春千里	c=1 d=0.0163259 t=16941
+chuan cun qian li 	川村千里	c=1 d=0.0169922 t=16941
+chuan nan 	川南	c=0 d=2.67872e-05 t=16941
+chuan ru 	传入	c=1 d=1.36292e-25 t=16941
+chuan shu 	传输	c=7 d=1.44146e-09 t=16941
+chuan song 	传送	c=2 d=7.10658e-12 t=16941
+chuang dou 	床都	c=1 d=0.726149 t=16941
+chuang jian 	创建	c=17 d=0.835487 t=16941
+chuang kou 	窗口	c=52 d=13.3991 t=16941
+chuang kou guan li qi 	窗口管理器	c=6 d=1.77952 t=16941
+chui o wu 	吹哦无	c=1 d=0.913931 t=16941
+chun 	椿	c=5 d=2.42562e-05 t=16941
+chun 	纯	c=0 d=1.8024e-20 t=16941
+chun 	醇	c=1 d=4.74073e-14 t=16941
+chun li xiang 	椿莉香	c=2 d=3.90337e-14 t=16941
+chun lv se 	纯绿色	c=1 d=1.81143e-19 t=16941
+chun se 	纯色	c=3 d=5.1042e-16 t=16941
+chun tian 	春天	c=1 d=2.51271e-16 t=16941
+ci 	此	c=2 d=1.49803e-05 t=16941
+ci 	词	c=8 d=4.12022 t=16941
+ci hui 	词汇	c=1 d=0.786628 t=16941
+ci ji 	刺激	c=1 d=1.24735e-12 t=16941
+ci ku 	词库	c=3 d=8.35497e-22 t=16941
+ci lu jing 	此路径	c=1 d=7.34446e-17 t=16941
+ci lu jing 	词路径	c=1 d=6.38497e-17 t=16941
+ci pan 	磁盘	c=35 d=0.627797 t=16941
+ci shi 	此时	c=2 d=5.04144e-24 t=16941
+ci shu 	次数	c=2 d=1.05405e-20 t=16941
+ci wen ti 	此问题	c=1 d=5.35991e-17 t=16941
+ci yu 	词语	c=1 d=0.937067 t=16941
+ci zhang hao 	此账号	c=3 d=0.000135587 t=16941
+cong 	从	c=25 d=3.90316 t=16941
+cong ci 	从此	c=1 d=8.96597e-11 t=16941
+cong lai 	从来	c=3 d=1.47897 t=16941
+cong ling kai shi 	从零开始	c=1 d=0.995012 t=16941
+cong mei guo 	从美国	c=0 d=9.34141e-24 t=16941
+cong mei guo le 	从美国了	c=1 d=9.38823e-23 t=16941
+cong na li 	从哪里	c=1 d=0.822835 t=16941
+cong tou 	从头	c=1 d=1.04692e-10 t=16941
+cong xi ni 	从细腻	c=1 d=1.9132e-15 t=16941
+cou 	凑	c=1 d=1.88144e-14 t=16941
+cun 	村	c=3 d=0.0178543 t=16941
+cun chu 	存储	c=2 d=5.72907e-15 t=16941
+cun fang 	存放	c=1 d=2.79716e-13 t=16941
+cun zai 	存在	c=5 d=1.03909 t=16941
+cun zhen 	村镇	c=1 d=2.30317e-21 t=16941
+cun zi 	村子	c=1 d=0.0164078 t=16941
+cuo 	错	c=4 d=0.782705 t=16941
+cuo le 	错了	c=1 d=0.729789 t=16941
+cuo wu 	错误	c=18 d=1.61514 t=16941
+da 	大	c=5 d=0.00830894 t=16941
+da bai chui 	大摆锤	c=1 d=0.082085 t=16941
+da bao 	打包	c=2 d=3.35634e-10 t=16941
+da bu ding 	打补丁	c=2 d=3.15326e-11 t=16941
+da bu kai 	打不开	c=3 d=0.000992781 t=16941
+da dian hua 	打电话	c=1 d=1.34775e-11 t=16941
+da gai 	大概	c=4 d=0.36544 t=16941
+da hui lang 	大灰狼	c=1 d=0.000141247 t=16941
+da kai 	打开	c=70 d=5.58715 t=16941
+da le 	打了	c=1 d=2.00296e-25 t=16941
+da li 	打理	c=2 d=4.22057e-12 t=16941
+da lu 	大陆	c=1 d=0.000973123 t=16941
+da men 	大门	c=1 d=1.3783e-10 t=16941
+da men shi 	大门是	c=1 d=2.42752e-22 t=16941
+da mo xing 	大模型	c=1 d=6.2726e-14 t=16941
+da pei 	搭配	c=7 d=2.85931 t=16941
+da pei na ge 	搭配哪个	c=1 d=0.909373 t=16941
+da qiao 	大桥	c=1 d=0.013912 t=16941
+da qiao wei jiu 	大桥未久	c=1 d=0.0138427 t=16941
+da shu 	大树	c=1 d=1.34427e-11 t=16941
+da shu qi shi 	大树骑士	c=1 d=1.35101e-10 t=16941
+da wen jian 	大文件	c=5 d=5.22034e-11 t=16941
+da xiao 	大小	c=8 d=1.33464 t=16941
+da xiao xie 	大小写	c=3 d=1.72577 t=16941
+da xie 	大写	c=2 d=0.831104 t=16941
+da xue 	大学	c=1 d=5.95027e-11 t=16941
+da yin 	大音	c=1 d=7.6494e-25 t=16941
+da yin 	打印	c=10 d=5.18935 t=16941
+da yu 	大于	c=1 d=8.7747e-22 t=16941
+da yu 	大雨	c=1 d=2.75599e-15 t=16941
+da yue 	大约	c=1 d=8.46713e-14 t=16941
+da zhan quan jiao 	大展拳脚	c=1 d=4.9342e-14 t=16941
+dai 	代	c=1 d=7.14342e-14 t=16941
+dai 	带	c=4 d=0.964046 t=16941
+dai biao 	代表	c=1 d=0.000401622 t=16941
+dai le 	带了	c=1 d=0.00690852 t=16941
+dai li 	代理	c=19 d=2.87004 t=16941
+dai ma 	代码	c=15 d=1.84469 t=16941
+dai ti 	代替	c=2 d=3.53499e-19 t=16941
+dai wei 	代为	c=1 d=0.56836 t=16941
+dai yi ge 	带一个	c=1 d=0.839457 t=16941
+dai you 	带有	c=3 d=0.862199 t=16941
+dai zhe 	带着	c=1 d=8.38003e-10 t=16941
+dan 	单	c=1 d=1.04281 t=16941
+dan chuang kou 	单窗口	c=3 d=2.41235 t=16941
+dan ge 	单个	c=1 d=2.83404e-20 t=16941
+dan ji 	单击	c=2 d=0.983338 t=16941
+dan ji 	单机	c=2 d=0.0709055 t=16941
+dan lan se 	淡蓝色	c=1 d=1.8666e-19 t=16941
+dan mei 	耽美	c=2 d=0.262724 t=16941
+dan qi 	但其	c=0 d=8.9334e-28 t=16941
+dan qi na 	但其那	c=1 d=8.97818e-27 t=16941
+dan shi 	但是	c=54 d=4.22974 t=16941
+dan wei 	单位	c=2 d=0.57138 t=16941
+dan xin 	担心	c=4 d=0.932394 t=16941
+dang qi 	档期	c=0 d=8.8828e-20 t=16941
+dang qi na 	档期那	c=2 d=0.918512 t=16941
+dang qian 	当前	c=45 d=7.58745 t=16941
+dang wo 	当我	c=1 d=4.79245e-24 t=16941
+dang zhong 	当中	c=1 d=7.30162e-07 t=16941
+dao 	到	c=111 d=7.90968 t=16941
+dao bi 	倒闭	c=1 d=0.0148464 t=16941
+dao di 	到底	c=6 d=1.81147 t=16941
+dao feng 	刀锋	c=0 d=0.00420036 t=16941
+dao feng tie ji 	刀锋铁骑	c=1 d=0.0422141 t=16941
+dao le 	到了	c=3 d=1.61586e-07 t=16941
+dao shi 	倒是	c=1 d=0.190139 t=16941
+dao zhi 	导致	c=1 d=2.4617e-10 t=16941
+de 	的	c=820 d=25.1351 t=16941
+de bian 	得便	c=1 d=0.0213864 t=16941
+de dian dian di di 	的点点滴滴	c=0 d=8.80668e-07 t=16941
+de dian dian di di de dian dian di di de dian dian di di 	的点点滴滴的点点滴滴的点点滴滴	c=1 d=8.85082e-06 t=16941
+deng 	灯	c=1 d=0.00182715 t=16941
+deng 	等	c=12 d=1.92343 t=16941
+deng dai 	等待	c=3 d=0.932394 t=16941
+deng deng 	等等	c=3 d=1.8072e-05 t=16941
+deng deng deng deng 	等等等等	c=1 d=8.75651e-27 t=16941
+deng ji 	登基	c=1 d=4.74896e-05 t=16941
+deng kuan 	等宽	c=1 d=2.68257e-25 t=16941
+deng kuan zi ti 	等宽字体	c=1 d=2.49584e-25 t=16941
+deng lu 	登录	c=14 d=0.000651873 t=16941
+deng ta 	等他	c=2 d=1.07042e-23 t=16941
+deng yu 	等于	c=1 d=1.70536e-15 t=16941
+di 	低	c=1 d=0.0895834 t=16941
+di 	地	c=1 d=7.06009e-23 t=16941
+di 	第	c=7 d=3.42709 t=16941
+di bu 	底部	c=5 d=3.09882 t=16941
+di ceng 	底层	c=1 d=0.927743 t=16941
+di di 	滴滴	c=2 d=6.74897e-16 t=16941
+di di di 	滴滴滴	c=2 d=6.74024e-07 t=16941
+di di di di 	滴滴滴滴	c=1 d=3.1625e-16 t=16941
+di di sheng 	滴滴声	c=1 d=3.47767e-16 t=16941
+di er bu 	第二步	c=1 d=0.0017643 t=16941
+di er ge 	第二个	c=1 d=1.50211e-22 t=16941
+di er zhong 	第二种	c=1 d=0.000397625 t=16941
+di fang 	地方	c=8 d=2.21634 t=16941
+di hou 	低吼	c=1 d=8.0918e-10 t=16941
+di nian ji 	低年级	c=1 d=1.595e-22 t=16941
+di pei 	低配	c=1 d=2.07932e-24 t=16941
+di pei zhi 	低配置	c=1 d=0.900325 t=16941
+di pei zhi 	第配置	c=1 d=0.895834 t=16941
+di san 	第三	c=1 d=1.88504e-17 t=16941
+di san fang 	第三方	c=1 d=3.88469e-24 t=16941
+di tu 	地图	c=1 d=2.26888e-21 t=16941
+di wu miao 	第五秒	c=1 d=1.80178e-15 t=16941
+di yi 	第一	c=4 d=1.41344 t=16941
+di yi bu 	第一步	c=1 d=0.00174675 t=16941
+di yi ge 	第一个	c=2 d=0.625002 t=16941
+di yi hang 	第一行	c=2 d=3.2629e-23 t=16941
+di yi zhong 	第一种	c=1 d=0.000389752 t=16941
+di zhi 	地址	c=17 d=1.04124 t=16941
+dian 	点	c=6 d=0.869932 t=16941
+dian 	电	c=2 d=1.5963e-24 t=16941
+dian bu kai 	点不开	c=3 d=4.29442e-21 t=16941
+dian che 	电车	c=1 d=0.113608 t=16941
+dian chi 	电池	c=9 d=5.01918e-09 t=16941
+dian dong che 	电动车	c=1 d=0.100761 t=16941
+dian hua 	电话	c=2 d=2.75691e-11 t=16941
+dian ji 	点击	c=14 d=0.852238 t=16941
+dian jin lai 	点进来	c=1 d=2.29566e-12 t=16941
+dian liang 	电量	c=4 d=4.77584e-25 t=16941
+dian na 	点哪	c=1 d=1.13782e-19 t=16941
+dian nao 	电脑	c=61 d=3.90076 t=16941
+dian ying 	电影	c=3 d=5.65108e-16 t=16941
+dian yuan 	电源	c=3 d=4.29032e-16 t=16941
+dian yuan xian 	电源线	c=1 d=8.74906e-17 t=16941
+diao 	掉	c=3 d=8.35197e-07 t=16941
+diao du 	调度	c=1 d=0.740818 t=16941
+diao yong 	调用	c=3 d=0.0167392 t=16941
+die jia 	叠加	c=1 d=0.774916 t=16941
+die zhang 	叠嶂	c=1 d=7.46967e-10 t=16941
+ding 	定	c=1 d=1 t=16941
+ding bu 	顶部	c=2 d=1.63765 t=16941
+ding si 	定死	c=1 d=0.856415 t=16941
+ding yi 	定义	c=9 d=3.20249 t=16941
+ding yi hao 	定义好	c=1 d=0.865022 t=16941
+diu shi 	丢失	c=1 d=4.32519e-23 t=16941
+dong 	动	c=3 d=1.61337 t=16941
+dong 	懂	c=1 d=1.69161e-08 t=16941
+dong ba qu 	东八区	c=1 d=0.527292 t=16941
+dong bu 	东部	c=1 d=6.625e-10 t=16941
+dong hua 	动画	c=3 d=2.30945e-15 t=16941
+dong le 	动了	c=1 d=7.79862e-17 t=16941
+dong man 	动漫	c=1 d=2.55081e-16 t=16941
+dong man feng 	动漫风	c=1 d=1.36905e-19 t=16941
+dong xi 	东西	c=16 d=3.63478 t=16941
+dong zuo 	动作	c=3 d=0.0130898 t=16941
+dou 	都	c=43 d=5.15696 t=16941
+dou ban 	豆瓣	c=8 d=0.00078445 t=16941
+dou bao 	豆包	c=10 d=3.04692 t=16941
+dou hao 	逗号	c=1 d=0.980199 t=16941
+dou hao 	都好	c=1 d=0.97531 t=16941
+dou hui 	都会	c=1 d=1.40758e-22 t=16941
+dou ke yi 	都可以	c=4 d=0.00109724 t=16941
+dou luo da lu 	斗罗大陆	c=1 d=1.26905e-09 t=16941
+dou neng 	都能	c=2 d=1.42577e-15 t=16941
+dou shi 	都是	c=8 d=2.2619 t=16941
+dou xing 	都行	c=2 d=4.58833e-09 t=16941
+dou yao 	都要	c=4 d=0.927743 t=16941
+dou yi 	都以	c=1 d=2.88235e-13 t=16941
+dou you 	都有	c=1 d=0.856415 t=16941
+dou zai 	都在	c=2 d=1.12907 t=16941
+du 	度	c=3 d=1.6284 t=16941
+du 	读	c=2 d=0.75958 t=16941
+du li 	独立	c=5 d=0.900325 t=16941
+du li xian ka 	独立显卡	c=1 d=1.03186e-16 t=16941
+du yao 	毒药	c=1 d=0.0144798 t=16941
+duan 	短	c=2 d=1.14789e-05 t=16941
+duan 	端	c=3 d=8.5938e-12 t=16941
+duan dian 	断电	c=1 d=4.27256e-26 t=16941
+duan duan xu xu 	断断续续	c=1 d=6.8103e-11 t=16941
+duan shi pin 	短视频	c=2 d=2.66795e-15 t=16941
+duan xin 	短信	c=2 d=0.000104279 t=16941
+duan zan 	短暂	c=1 d=4.02237e-22 t=16941
+dui 	对	c=8 d=2.96732 t=16941
+dui bi 	对比	c=4 d=0.0752089 t=16941
+dui dai 	对待	c=1 d=4.89942e-19 t=16941
+dui ma dao 	对马岛	c=3 d=0.154753 t=16941
+dui ma dao zhi hun 	对马岛之魂	c=3 d=0.147666 t=16941
+dui o 	对哦	c=0 d=4.49711e-12 t=16941
+dui o zhong 	对哦中	c=1 d=0.923116 t=16941
+dui suo you 	对所有	c=1 d=5.22846e-19 t=16941
+dui ying 	对应	c=3 d=0.900325 t=16941
+dui yu 	对于	c=2 d=0.977602 t=16941
+dui zhan 	堆栈	c=1 d=0.88692 t=16941
+dui zhan 	对战	c=3 d=0.0811905 t=16941
+dui zhao 	对照	c=2 d=1.64421e-18 t=16941
+duo 	多	c=7 d=0.171234 t=16941
+duo biao qian ye 	多标签页	c=3 d=1.64956e-06 t=16941
+duo chang 	多长	c=1 d=9.88503e-12 t=16941
+duo chang shi jian 	多长时间	c=1 d=0.000405658 t=16941
+duo ci 	多次	c=1 d=6.8846e-21 t=16941
+duo da 	多大	c=4 d=1.1805e-06 t=16941
+duo ge 	多个	c=5 d=1.62563 t=16941
+duo le 	多了	c=1 d=2.4146e-18 t=16941
+duo ma 	多吗	c=1 d=8.13513e-14 t=16941
+duo nian qian 	多年前	c=1 d=1.29156e-10 t=16941
+duo ping tai 	多平台	c=1 d=1.69772e-21 t=16941
+duo ren 	多人	c=1 d=1.83344e-14 t=16941
+duo shao 	多少	c=13 d=2.46992 t=16941
+duo shao qian 	多少钱	c=1 d=0.0889216 t=16941
+duo she ji 	多设计	c=1 d=0.763379 t=16941
+duo she shi du 	多摄氏度	c=1 d=6.91087e-07 t=16941
+duo shuo 	多说	c=1 d=0.514274 t=16941
+duo shuo le yi ju 	多说了一句	c=1 d=0.97531 t=16941
+duo tui 	多退	c=0 d=9.57137e-16 t=16941
+duo tui jian 	多退剪	c=1 d=9.61935e-15 t=16941
+duo xi tong 	多系统	c=1 d=2.46807e-11 t=16941
+duo xian cheng 	多线程	c=2 d=1.01675e-09 t=16941
+duo xie 	多谢	c=1 d=1.49386e-16 t=16941
+duo zei 	多贼	c=1 d=1.48641e-16 t=16941
+duo zhao 	多找	c=1 d=5.46911e-19 t=16941
+duo zhong 	多种	c=2 d=1.32896 t=16941
+e chou 	恶臭	c=1 d=6.8764e-07 t=16941
+e yi 	恶意	c=0 d=2.43091e-10 t=16941
+er 	二	c=1 d=4.71709e-14 t=16941
+er 	儿	c=1 d=0.733447 t=16941
+er 	而	c=2 d=9.97928e-06 t=16941
+er bu shi 	而不是	c=1 d=6.76689e-24 t=16941
+er ji cai dan 	二级菜单	c=1 d=2.42463e-08 t=16941
+er qie 	而且	c=4 d=0.778809 t=16941
+er shi 	而是	c=1 d=0.600496 t=16941
+er shi duo 	二十多	c=1 d=2.2611e-10 t=16941
+er shou 	二手	c=1 d=8.77022e-16 t=16941
+er wei ma 	二维码	c=1 d=2.17355e-16 t=16941
+er wo 	而我	c=1 d=8.24376e-23 t=16941
+fa 	发	c=1 d=1.90696e-06 t=16941
+fa 	法	c=1 d=1.37783e-06 t=16941
+fa bing 	发病	c=1 d=0.00216573 t=16941
+fa bu 	发布	c=13 d=5.71738 t=16941
+fa bu qi 	发布器	c=2 d=1.48706e-13 t=16941
+fa bu shi jian 	发布时间	c=1 d=3.6302e-21 t=16941
+fa chu lai 	发出来	c=1 d=1 t=16941
+fa sheng 	发生	c=3 d=8.87508e-26 t=16941
+fa song 	发送	c=5 d=7.82971e-05 t=16941
+fa xian 	发现	c=5 d=0.00738842 t=16941
+fa xing ban 	发行版	c=9 d=1.31832 t=16941
+fa zhan 	发展	c=1 d=0.786628 t=16941
+fan chen 	凡尘	c=1 d=8.50667e-10 t=16941
+fan er 	反而	c=2 d=6.68042e-12 t=16941
+fan fan fu fu 	反反复复	c=1 d=9.81033e-11 t=16941
+fan hui 	返回	c=3 d=3.02077e-06 t=16941
+fan hui zhi 	返回值	c=1 d=1.54439e-25 t=16941
+fan kui 	反馈	c=1 d=1.05964e-05 t=16941
+fan ti 	繁体	c=1 d=8.12959e-06 t=16941
+fan wei 	范围	c=3 d=1.9738 t=16941
+fan xian 	返现	c=1 d=4.55717e-20 t=16941
+fan yi 	翻译	c=11 d=3.04314e-08 t=16941
+fan yi cheng 	翻译成	c=2 d=3.01553e-15 t=16941
+fan ying 	反应	c=4 d=1.04978 t=16941
+fang 	放	c=2 d=1.62191e-13 t=16941
+fang an 	方案	c=5 d=6.08314e-06 t=16941
+fang bian 	方便	c=1 d=0.0845849 t=16941
+fang da 	放大	c=1 d=0.00200924 t=16941
+fang dao 	放到	c=1 d=1.88407e-11 t=16941
+fang dian 	放电	c=3 d=2.32917e-06 t=16941
+fang fa 	方法	c=22 d=0.895861 t=16941
+fang fu 	仿佛	c=1 d=6.96467e-10 t=16941
+fang ge 	方格	c=1 d=0.729789 t=16941
+fang kuai 	方块	c=3 d=1.7974 t=16941
+fang le 	放了	c=3 d=0.923116 t=16941
+fang mian 	方面	c=1 d=0.99005 t=16941
+fang qi 	放弃	c=1 d=2.21784e-18 t=16941
+fang shang qu 	放上去	c=1 d=0.869358 t=16941
+fang shi 	方式	c=14 d=2.52278 t=16941
+fang wen 	访问	c=10 d=0.00952047 t=16941
+fang xin 	放心	c=2 d=0.496573 t=16941
+fang xin a 	放心啊	c=1 d=0.918512 t=16941
+fang zai 	放在	c=12 d=1.18795 t=16941
+fang zhi 	防止	c=1 d=0.806541 t=16941
+fei 	非	c=6 d=3.47898 t=16941
+fei chang 	非常	c=3 d=0.00923873 t=16941
+fei chang man 	非常慢	c=2 d=5.50669e-10 t=16941
+fei chang xiao 	非常小	c=1 d=6.13565e-19 t=16941
+fei fu dong 	非浮动	c=2 d=1.89382 t=16941
+fei hong se 	绯红色	c=1 d=7.65877e-10 t=16941
+fei pei 	非配	c=1 d=1.06292e-12 t=16941
+fei qian 	费钱	c=1 d=0.118245 t=16941
+fei xi 	肥西	c=1 d=0.985112 t=16941
+fei xu 	废墟	c=1 d=8.67852e-10 t=16941
+fen 	分	c=5 d=0.000365224 t=16941
+fen bi er 	分比尔	c=1 d=1.53115e-12 t=16941
+fen bian lv 	分辨率	c=9 d=0.000151974 t=16941
+fen bie 	分别	c=8 d=1.8434 t=16941
+fen bie wei 	分别为	c=2 d=7.52118e-20 t=16941
+fen bu 	分布	c=1 d=0.205975 t=16941
+fen bu qing 	分不清	c=1 d=5.3998e-16 t=16941
+fen chai 	分拆	c=1 d=0.637628 t=16941
+fen chu 	分出	c=1 d=2.11369e-11 t=16941
+fen e 	份额	c=2 d=1.64209e-12 t=16941
+fen ge 	分割	c=6 d=2.0198e-11 t=16941
+fen ge cheng 	分割成	c=1 d=8.22248e-22 t=16941
+fen jie 	分解	c=1 d=9.98437e-12 t=16941
+fen lei 	分类	c=1 d=4.69596e-20 t=16941
+fen li 	分离	c=1 d=1.59749e-11 t=16941
+fen miao 	分秒	c=1 d=1.60605e-15 t=16941
+fen pei 	分配	c=8 d=3.59196e-07 t=16941
+fen qu 	分区	c=36 d=1.09468e-06 t=16941
+fen wei 	分为	c=2 d=1.5566e-20 t=16941
+fen xi 	分析	c=3 d=0.932403 t=16941
+fen xiang 	分享	c=3 d=5.81541e-06 t=16941
+fen zhi 	分支	c=3 d=2.67388e-20 t=16941
+fen zhong 	分钟	c=4 d=0.000135032 t=16941
+feng 	枫	c=0 d=0.00596059 t=16941
+feng 	风	c=0 d=1.36222e-20 t=16941
+feng che 	风车	c=1 d=2.4753e-16 t=16941
+feng ge 	风格	c=3 d=2.01193 t=16941
+feng huang 	凤凰	c=2 d=0.246597 t=16941
+feng jing 	风景	c=1 d=2.46295e-16 t=16941
+feng ke lian 	枫可怜	c=1 d=0.0599047 t=16941
+feng shui 	风水	c=0 d=0.000479587 t=16941
+feng shui o 	风水哦	c=1 d=0.00481991 t=16941
+feng suo 	封锁	c=2 d=0.00931573 t=16941
+feng xian 	风险	c=1 d=0.923116 t=16941
+feng xian di 	风险低	c=1 d=0.995012 t=16941
+fo 	佛	c=0 d=4.75705e-26 t=16941
+fou 	否	c=1 d=2.87736e-22 t=16941
+fou ze 	否则	c=1 d=0.0100518 t=16941
+fu dong 	浮动	c=15 d=7.67292 t=16941
+fu dong zhuang tai 	浮动状态	c=1 d=0.763379 t=16941
+fu fei 	付费	c=1 d=0.932394 t=16941
+fu gai 	覆盖	c=1 d=0.704688 t=16941
+fu hao 	符号	c=5 d=0.843707 t=16941
+fu he 	符合	c=1 d=1.58926e-09 t=16941
+fu jia 	附加	c=1 d=5.66585e-23 t=16941
+fu jin 	附近	c=0 d=4.68622e-26 t=16941
+fu mu 	父母	c=1 d=0.203926 t=16941
+fu nv 	腐女	c=2 d=0.260749 t=16941
+fu wo 	扶我	c=1 d=4.72527e-05 t=16941
+fu wu 	服务	c=7 d=0.765163 t=16941
+fu wu qi 	服务器	c=2 d=1.75452e-12 t=16941
+fu zhi 	复制	c=40 d=7.71329 t=16941
+fu zhi dao 	复制到	c=3 d=1.29565 t=16941
+fu zhi guo lai 	复制过来	c=1 d=0.839457 t=16941
+fu zhi hang 	复制行	c=1 d=9.57532e-24 t=16941
+gai 	改	c=6 d=2.96796 t=16941
+gai bian 	改变	c=3 d=1.86071 t=16941
+gai cheng 	改成	c=3 d=1.69526 t=16941
+gai hui 	改回	c=2 d=7.15473e-22 t=16941
+gai hui lai 	改回来	c=1 d=6.13357e-15 t=16941
+gai nian 	概念	c=0 d=1.64189e-11 t=16941
+gai wei 	改为	c=18 d=1.94578 t=16941
+gai yong 	改用	c=1 d=1.09039e-18 t=16941
+gai zhu 	盖住	c=1 d=0.97531 t=16941
+gan dao 	感到	c=1 d=5.34607e-16 t=16941
+gan jing 	干净	c=2 d=4.24175e-12 t=16941
+gan jue 	感觉	c=7 d=0.0646704 t=16941
+gan sha 	干啥	c=1 d=1.09906e-23 t=16941
+gang 	刚	c=1 d=0.0923116 t=16941
+gang an zhuang 	刚安装	c=1 d=0.927743 t=16941
+gang cai 	刚才	c=1 d=0.946485 t=16941
+gang gang 	刚刚	c=1 d=1 t=16941
+gang kai shi 	刚开始	c=1 d=3.63588e-10 t=16941
+gang qu 	刚去	c=1 d=0.546074 t=16941
+gao 	搞	c=1 d=1.22857e-10 t=16941
+gao 	高	c=2 d=0.154713 t=16941
+gao bu hao 	搞不好	c=2 d=5.93288e-06 t=16941
+gao dian 	糕点	c=1 d=4.79832e-09 t=16941
+gao du 	高度	c=8 d=5.99545 t=16941
+gao dui bi 	高对比	c=1 d=0.755784 t=16941
+gao fen bian lv 	高分辨率	c=2 d=3.21231e-05 t=16941
+gao huai 	搞坏	c=1 d=0.470011 t=16941
+gao pei 	高配	c=1 d=1.24092e-10 t=16941
+gao shi bie du 	高识别度	c=1 d=0.767206 t=16941
+gao su 	告诉	c=8 d=2.80805 t=16941
+gao su wo 	告诉我	c=2 d=6.31732e-08 t=16941
+gao yu 	高于	c=1 d=3.46987e-19 t=16941
+ge 	个	c=16 d=2.83507 t=16941
+ge 	各	c=2 d=1.97804e-12 t=16941
+ge bi cun 	隔壁村	c=2 d=4.18229e-21 t=16941
+ge dou 	格斗	c=0 d=0.00450492 t=16941
+ge dou tian shi 	格斗天使	c=2 d=0.0907769 t=16941
+ge le 	隔了	c=1 d=6.02768e-16 t=16941
+ge ni 	格尼	c=1 d=1.95251e-19 t=16941
+ge ren 	个人	c=4 d=0.759572 t=16941
+ge ren yong hu 	个人用户	c=1 d=6.80682e-05 t=16941
+ge shi 	格式	c=14 d=2.38497 t=16941
+ge shi hua 	格式化	c=4 d=0.951229 t=16941
+ge shu 	个数	c=1 d=4.73252e-23 t=16941
+ge zhong 	各种	c=2 d=1.59453e-10 t=16941
+gei 	给	c=4 d=0.000105648 t=16941
+gei chu 	给出	c=4 d=0.903315 t=16941
+gei ge 	给个	c=1 d=0.960789 t=16941
+gei lv 	给率	c=1 d=4.42941e-09 t=16941
+gei ni 	给你	c=2 d=1.33411e-09 t=16941
+gei ni kan 	给你看	c=0 d=0.0946485 t=16941
+gei ren 	给人	c=1 d=3.70996e-12 t=16941
+gei wei 	给为	c=3 d=0.913931 t=16941
+gei wo 	给我	c=4 d=2.12956 t=16941
+gen 	根	c=2 d=8.06697e-17 t=16941
+gen 	跟	c=16 d=3.74051 t=16941
+gen ben 	根本	c=1 d=5.34789e-20 t=16941
+gen jian ju 	跟间距	c=1 d=0.697676 t=16941
+gen ju 	根据	c=16 d=2.71169 t=16941
+gen mai 	跟卖	c=1 d=5.32122e-20 t=16941
+gen mu lu 	根目录	c=1 d=5.95331e-17 t=16941
+gen wo 	跟我	c=1 d=0.0277367 t=16941
+gen zong 	跟踪	c=0 d=2.90578e-21 t=16941
+gen zong qi 	跟踪器	c=1 d=3.90416e-24 t=16941
+geng 	更	c=5 d=2.93282 t=16941
+geng gai 	更改	c=4 d=1.30464e-19 t=16941
+geng gao 	更高	c=1 d=1 t=16941
+geng hao 	更好	c=3 d=0.960481 t=16941
+geng huan 	更换	c=3 d=0.99005 t=16941
+geng kuai 	更快	c=5 d=0.97531 t=16941
+geng mei guan 	更美观	c=1 d=2.0322e-19 t=16941
+geng xin 	更新	c=21 d=1.68685 t=16941
+gong cun 	共存	c=1 d=0.951229 t=16941
+gong e 	共轭	c=0 d=0.0767206 t=16941
+gong gong 	公共	c=1 d=5.38311e-09 t=16941
+gong hao 	功耗	c=1 d=9.45971e-24 t=16941
+gong jiao 	公交	c=1 d=0.0837432 t=16941
+gong ju 	工具	c=60 d=5.31923 t=16941
+gong ju gong neng 	工具功能	c=1 d=0.852144 t=16941
+gong li 	公里	c=1 d=0.0953692 t=16941
+gong lve 	攻略	c=2 d=9.31313e-09 t=16941
+gong neng 	功能	c=15 d=4.32824 t=16941
+gong ping 	公平	c=2 d=1.16781e-18 t=16941
+gong si 	公司	c=4 d=0.726561 t=16941
+gong xiang 	共享	c=9 d=0.726164 t=16941
+gong yao 	公钥	c=1 d=3.12507e-23 t=16941
+gong zhu 	公主	c=1 d=2.15375e-26 t=16941
+gong zuo 	工作	c=11 d=0.0140575 t=16941
+gong zuo qu 	工作区	c=16 d=8.0755 t=16941
+gu 	古	c=1 d=0.0160829 t=16941
+gu 	谷	c=2 d=0.0316086 t=16941
+gu dai 	古代	c=2 d=3.9718e-12 t=16941
+gu ding 	固定	c=5 d=0.929651 t=16941
+gu ding shi jian 	固定时间	c=2 d=0.980561 t=16941
+gu ge 	谷歌	c=1 d=8.49193e-19 t=16941
+gu lai 	古来	c=1 d=0.722527 t=16941
+gu shi 	古时	c=3 d=6.18571e-12 t=16941
+gu tai pan 	固态盘	c=1 d=3.45797e-08 t=16941
+gu tai ying pan 	固态硬盘	c=1 d=5.05653e-08 t=16941
+gua li 	挂历	c=1 d=0.0884024 t=16941
+gua li qi 	挂历器	c=1 d=0.873716 t=16941
+gua zai 	挂载	c=23 d=0.238174 t=16941
+gua zi 	瓜子	c=0 d=1.30184e-16 t=16941
+gua zi a 	瓜子啊	c=1 d=1.30836e-15 t=16941
+guan 	官	c=0 d=1.78817e-15 t=16941
+guan 	管	c=2 d=7.2635e-26 t=16941
+guan bi 	关闭	c=4 d=2.36489e-09 t=16941
+guan ce zhe 	观测者	c=0 d=0.0240508 t=16941
+guan ce zhe wang 	观测者网	c=1 d=0.241714 t=16941
+guan fang 	官方	c=8 d=2.85793 t=16941
+guan fang yuan 	官方源	c=1 d=0.348192 t=16941
+guan ji 	关机	c=3 d=1.81004 t=16941
+guan jian zhen 	关键帧	c=1 d=1.39623e-15 t=16941
+guan jian zi 	关键字	c=1 d=0.251579 t=16941
+guan kan 	观看	c=11 d=7.41845e-06 t=16941
+guan li 	管理	c=17 d=1.44573 t=16941
+guan li qi 	管理器	c=20 d=5.5572 t=16941
+guan lian 	关联	c=2 d=1.94676e-20 t=16941
+guan wang 	官网	c=19 d=2.1175 t=16941
+guan xi 	关系	c=3 d=0.680451 t=16941
+guan yu 	关于	c=4 d=1.59639 t=16941
+guan zhu 	关注	c=0 d=4.54618e-22 t=16941
+guan zhu zhe 	关注者	c=4 d=2.02339e-20 t=16941
+guang jie 	逛街	c=1 d=8.48616e-11 t=16941
+guang mao 	光猫	c=6 d=0.00282138 t=16941
+guang mao 	广袤	c=1 d=6.21336e-20 t=16941
+guang pan 	光盘	c=1 d=1.64783e-23 t=16941
+gui hua 	规划	c=1 d=2.67408e-13 t=16941
+gui lv 	规律	c=2 d=8.83694e-09 t=16941
+gui qi 	鬼泣	c=2 d=0.0787685 t=16941
+gui ze 	规则	c=4 d=1.45597 t=16941
+gun dong 	滚动	c=2 d=0.924488 t=16941
+gun dong tiao 	滚动条	c=2 d=1.67536 t=16941
+gun gua 	滚挂	c=1 d=0.960789 t=16941
+guo 	国	c=5 d=0.522046 t=16941
+guo 	过	c=11 d=0.547201 t=16941
+guo cheng 	过程	c=5 d=1.40567e-06 t=16941
+guo cheng zhong 	过程中	c=2 d=3.39942e-13 t=16941
+guo ji 	国际	c=2 d=1.96966e-26 t=16941
+guo ji ban 	国际版	c=2 d=0.0739031 t=16941
+guo jia 	国家	c=1 d=5.92462e-19 t=16941
+guo jia tu shu guan 	国家图书馆	c=1 d=6.18994e-05 t=16941
+guo lai 	过来	c=5 d=2.12578 t=16941
+guo nei 	国内	c=7 d=1.92739 t=16941
+guo nei ban 	国内版	c=1 d=0.0746459 t=16941
+guo nei yuan 	国内源	c=1 d=0.332871 t=16941
+guo nian 	过年	c=1 d=0.101266 t=16941
+guo qu 	过去	c=3 d=0.366045 t=16941
+guo ran 	果然	c=1 d=2.31873e-12 t=16941
+ha ha 	哈哈	c=1 d=2.64793e-15 t=16941
+hai 	还	c=8 d=0.823432 t=16941
+hai hao 	还好	c=1 d=5.18719e-14 t=16941
+hai hui 	还会	c=1 d=9.39973e-08 t=16941
+hai lai de ji 	还来得及	c=1 d=5.39888e-14 t=16941
+hai mei 	还没	c=2 d=0.666977 t=16941
+hai mei you 	还没有	c=1 d=0.400517 t=16941
+hai neng 	还能	c=1 d=0.970446 t=16941
+hai shi 	还是	c=61 d=8.43616 t=16941
+hai xu yao 	还需要	c=3 d=1.94438 t=16941
+hai yao 	还要	c=2 d=9.00682e-08 t=16941
+hai yi wei 	还以为	c=1 d=0.687289 t=16941
+hai you 	还有	c=12 d=3.00846 t=16941
+hai you mei 	还有没	c=1 d=2.66582e-06 t=16941
+hai you mei you 	还有没有	c=2 d=0.860708 t=16941
+hai you xie 	还有些	c=1 d=0.759572 t=16941
+hai you yi ge 	还有一个	c=1 d=0.782705 t=16941
+hai zai 	还在	c=2 d=0.211953 t=16941
+hai zai yong 	还在用	c=1 d=0.00286554 t=16941
+hai zhen 	还真	c=1 d=1.75819e-21 t=16941
+hai zi 	孩子	c=4 d=0.0858632 t=16941
+hai zi bi li 	孩子比例	c=1 d=2.47101e-25 t=16941
+han 	寒	c=1 d=6.007e-05 t=16941
+han chao 	汉朝	c=1 d=0.211189 t=16941
+han shu 	函数	c=6 d=1.18065e-24 t=16941
+han yi 	含义	c=1 d=0.913931 t=16941
+han zi 	汉字	c=12 d=6.94551e-07 t=16941
+hang 	行	c=14 d=4.71914 t=16941
+hang hao 	行号	c=1 d=6.32467e-23 t=16941
+hang wei 	行尾	c=1 d=3.25316e-25 t=16941
+hao 	好	c=23 d=3.57966 t=16941
+hao ba 	好吧	c=1 d=5.1382e-20 t=16941
+hao hong 	好红	c=1 d=1.60884e-06 t=16941
+hao jiu 	好久	c=4 d=0.989328 t=16941
+hao kan 	好看	c=2 d=1.17305 t=16941
+hao lao 	好老	c=1 d=0.0395575 t=16941
+hao le 	好了	c=3 d=0.946826 t=16941
+hao ma 	号码	c=1 d=6.34664e-05 t=16941
+hao mi 	毫米	c=2 d=2.45366e-05 t=16941
+hao miao 	毫秒	c=5 d=0.000655574 t=16941
+hao min ao 	好民奥	c=1 d=1.7225e-15 t=16941
+hao shi 	耗时	c=2 d=7.97173e-10 t=16941
+hao si 	好似	c=1 d=8.01128e-10 t=16941
+hao wu gu lv 	毫无顾虑	c=1 d=9.64425e-16 t=16941
+hao wu sheng qi 	毫无生气	c=1 d=9.07797e-10 t=16941
+hao xiang 	好像	c=2 d=8.70839e-21 t=16941
+hao yong 	好用	c=3 d=0.955997 t=16941
+he 	何	c=1 d=3.62896e-17 t=16941
+he 	和	c=90 d=9.44204 t=16941
+he bei cai hua 	河北彩花	c=3 d=0.0182427 t=16941
+he bei cha 	喝杯茶	c=1 d=0.0142642 t=16941
+he bing 	合并	c=5 d=0.88692 t=16941
+he bing cheng 	合并成	c=1 d=9.22458e-22 t=16941
+he cheng 	合成	c=1 d=1.1205e-15 t=16941
+he cheng qi 	合成器	c=2 d=6.02909e-11 t=16941
+he ji 	合集	c=5 d=0.0249855 t=16941
+he li 	合理	c=3 d=1.21561e-07 t=16941
+he nan 	河南	c=2 d=5.96707e-07 t=16941
+he shi 	合适	c=4 d=0.609571 t=16941
+he xie 	和谐	c=1 d=0.882497 t=16941
+he xin 	核心	c=2 d=2.0958e-21 t=16941
+hei 	黑	c=4 d=8.1544e-11 t=16941
+hei bang 	黑帮	c=1 d=0.932394 t=16941
+hei kuai 	黑块	c=1 d=2.89729e-15 t=16941
+hei ping 	黑屏	c=2 d=8.31366e-22 t=16941
+hei se 	黑色	c=4 d=2.22234 t=16941
+hei zi 	黑字	c=1 d=0.895834 t=16941
+hen 	很	c=4 d=0.117255 t=16941
+hen chang shi jian 	很长时间	c=1 d=9.66427e-11 t=16941
+hen da 	很大	c=1 d=9.73289e-06 t=16941
+hen dui o 	很对哦	c=1 d=4.51966e-11 t=16941
+hen duo 	很多	c=8 d=0.0335983 t=16941
+hen duo nian 	很多年	c=0 d=2.2351e-22 t=16941
+hen duo nian hou 	很多年后	c=1 d=2.24631e-21 t=16941
+hen duo ren 	很多人	c=2 d=0.0026852 t=16941
+hen gao 	很高	c=3 d=0.837115 t=16941
+hen hao 	很好	c=1 d=5.44184e-19 t=16941
+hen jian dan 	很简单	c=1 d=1.38974e-19 t=16941
+hen jie shi 	很结实	c=1 d=1.02832e-05 t=16941
+hen ka 	很卡	c=1 d=0.565525 t=16941
+hen lao 	很老	c=1 d=0.0399551 t=16941
+hen man 	很慢	c=2 d=3.61775e-10 t=16941
+hen ming que 	很明确	c=1 d=1.04909e-05 t=16941
+hen ming xian 	很明显	c=1 d=8.85534e-12 t=16941
+hen nan 	很难	c=1 d=0.946485 t=16941
+hen nan shou 	很难受	c=1 d=7.00793e-24 t=16941
+hen piao liang 	很漂亮	c=1 d=0.909373 t=16941
+hen pu shi 	很朴实	c=1 d=2.64064e-12 t=16941
+hen qi quan 	很齐全	c=1 d=0.918512 t=16941
+hen rong yi 	很容易	c=1 d=1.02319e-05 t=16941
+hen shao 	很少	c=1 d=5.96465e-10 t=16941
+hen yong li 	很用力	c=1 d=1.23729e-05 t=16941
+hen you xiao 	很有效	c=1 d=2.66718e-12 t=16941
+hen zheng chang 	很正常	c=1 d=1.9769e-18 t=16941
+hen zhong 	很重	c=0 d=0.0527292 t=16941
+hen zhong hu gan yao 	很重护肝药	c=1 d=0.529935 t=16941
+hong 	红	c=1 d=0.918512 t=16941
+hong mi 	红米	c=1 d=1.30725e-05 t=16941
+hong se 	红色	c=2 d=0.951229 t=16941
+hou 	后	c=60 d=1.73457 t=16941
+hou bian 	后边	c=6 d=1.68478 t=16941
+hou gong 	后宫	c=1 d=4.61018e-09 t=16941
+hou lai 	后来	c=4 d=0.00225411 t=16941
+hou mian 	后面	c=2 d=1.42003e-08 t=16941
+hou xuan 	候选	c=1 d=1.75468e-09 t=16941
+hou xuan ci 	候选词	c=2 d=9.58558e-23 t=16941
+hou xuan lie biao 	候选列表	c=1 d=2.13457e-09 t=16941
+hou zhui 	后缀	c=3 d=0.99005 t=16941
+hu gan yao 	护肝药	c=0 d=0.0527292 t=16941
+hu lian wang 	互联网	c=1 d=6.71348e-19 t=16941
+hu lve 	忽略	c=4 d=2.70638 t=16941
+hu yi 	狐疑	c=1 d=0.687289 t=16941
+hu zhong he 	胡中和	c=1 d=0.937067 t=16941
+hua 	花	c=3 d=6.53837e-13 t=16941
+hua 	话	c=4 d=0.111917 t=16941
+hua duo shao qian 	花多少钱	c=1 d=0.110251 t=16941
+hua fei 	话费	c=0 d=8.83098e-10 t=16941
+hua hai 	花海	c=1 d=2.50018e-16 t=16941
+hua jing bai he 	花井百合	c=2 d=3.82608e-14 t=16941
+hua kai 	花开	c=2 d=8.12886e-05 t=16941
+hua li hu qiao 	花里胡俏	c=1 d=1.43924e-19 t=16941
+hua mian 	画面	c=1 d=0.951229 t=16941
+hua shuo 	华硕	c=11 d=2.39096 t=16941
+hua suan 	划算	c=1 d=1.08702e-11 t=16941
+hua ti 	话题	c=1 d=1.43479e-12 t=16941
+hua tu 	画图	c=8 d=7.7204e-08 t=16941
+huai yi 	怀疑	c=1 d=3.16303e-18 t=16941
+huan 	换	c=1 d=8.48327e-07 t=16941
+huan 	环	c=0 d=1.35032e-05 t=16941
+huan cheng 	换成	c=4 d=2.49448 t=16941
+huan cun 	缓存	c=2 d=0.909373 t=16941
+huan cun qu 	缓存区	c=1 d=2.19614e-20 t=16941
+huan dian nao 	换电脑	c=1 d=0.00226541 t=16941
+huan hang 	换行	c=3 d=1.5138 t=16941
+huan hang fu 	换行符	c=2 d=5.56235e-12 t=16941
+huan jing 	环境	c=32 d=3.90294 t=16941
+huan yi ge 	换一个	c=2 d=4.33597e-09 t=16941
+huang ran 	恍然	c=1 d=2.32632e-21 t=16941
+huang ran da wu 	恍然大悟	c=1 d=2.33798e-21 t=16941
+huang yan 	谎言	c=1 d=2.7347e-12 t=16941
+hui 	会	c=41 d=4.31371 t=16941
+hui 	回	c=1 d=2.10458e-19 t=16941
+hui ba 	会把	c=2 d=0.89179 t=16941
+hui bao cun zai 	会保存在	c=1 d=0.794534 t=16941
+hui bu hui 	会不会	c=6 d=0.962432 t=16941
+hui da 	回答	c=1 d=0.138761 t=16941
+hui dang 	回荡	c=1 d=8.21409e-10 t=16941
+hui dao 	回到	c=1 d=0.621885 t=16941
+hui dui 	会对	c=1 d=0.737123 t=16941
+hui fu 	回复	c=4 d=1.09734e-14 t=16941
+hui fu zheng chang 	恢复正常	c=1 d=1.10097e-14 t=16941
+hui se 	灰色	c=1 d=0.980199 t=16941
+hui suo 	会所	c=2 d=2.30335e-16 t=16941
+hui tou 	回头	c=1 d=5.37195e-14 t=16941
+hui yi 	回忆	c=0 d=9.62754e-26 t=16941
+hui yi yi xia 	回忆以下	c=1 d=9.67579e-25 t=16941
+hui yong 	会用	c=1 d=0.00360656 t=16941
+hui you 	会有	c=4 d=1.80801 t=16941
+hun cheng 	混成	c=0 d=2.32513e-16 t=16941
+hun cheng qi 	混成器	c=1 d=2.33679e-15 t=16941
+hun huang 	昏黄	c=1 d=8.85384e-10 t=16941
+hun luan 	混乱	c=1 d=0.946485 t=16941
+hun you 	魂游	c=2 d=0.0607045 t=16941
+huo 	或	c=1 d=2.84186e-23 t=16941
+huo de 	火的	c=1 d=9.59451e-14 t=16941
+huo dong 	活动	c=3 d=2.47965 t=16941
+huo mai 	活埋	c=1 d=4.67826e-05 t=16941
+huo qu 	获取	c=25 d=4.06492 t=16941
+huo qu dao 	获取到	c=2 d=0.814333 t=16941
+huo xu 	或许	c=2 d=2.44109e-13 t=16941
+huo yue 	活跃	c=2 d=1.86993 t=16941
+huo yue du 	活跃度	c=1 d=0.995012 t=16941
+huo zhe 	或者	c=20 d=2.79442 t=16941
+huo zhe shuo 	或者说	c=1 d=5.74659e-13 t=16941
+ji 	几	c=4 d=1.22043e-17 t=16941
+ji 	即	c=2 d=0.000305259 t=16941
+ji 	及	c=3 d=1.11779e-08 t=16941
+ji 	吉	c=0 d=0.00466538 t=16941
+ji 	机	c=0 d=8.77022e-17 t=16941
+ji 	记	c=1 d=0.000122182 t=16941
+ji ai 	极爱	c=0 d=0.176766 t=16941
+ji bai 	几百	c=2 d=1.53015e-16 t=16941
+ji bai mi 	几百米	c=1 d=1.8576e-21 t=16941
+ji bian 	即便	c=2 d=6.04431e-19 t=16941
+ji cheng 	集成	c=4 d=1.98617 t=16941
+ji cheng xian ka 	集成显卡	c=1 d=2.14228e-22 t=16941
+ji chu 	基础	c=1 d=0.729789 t=16941
+ji ci 	几次	c=1 d=1.9175e-12 t=16941
+ji gao ning ning 	吉高宁宁	c=2 d=0.107698 t=16941
+ji ge 	几个	c=21 d=2.80877 t=16941
+ji ge yue 	几个月	c=1 d=4.44163e-12 t=16941
+ji hang 	几行	c=2 d=2.47189e-11 t=16941
+ji jia 	几家	c=0 d=0.0927743 t=16941
+ji jian 	极简	c=1 d=0.923116 t=16941
+ji ke 	即可	c=5 d=0.873716 t=16941
+ji lu 	记录	c=4 d=2.43478 t=16941
+ji men 	几门	c=1 d=6.13148e-11 t=16941
+ji meng 	即梦	c=1 d=6.64328e-13 t=16941
+ji mi 	机密	c=1 d=0.535261 t=16941
+ji miao 	几秒	c=3 d=0.0798516 t=16941
+ji miao hou 	几秒后	c=1 d=0.802519 t=16941
+ji nian qian 	几年前	c=1 d=4.55407e-12 t=16941
+ji ran 	既然	c=1 d=0.923116 t=16941
+ji shi 	几十	c=1 d=4.55639e-18 t=16941
+ji shi 	即使	c=1 d=3.62144e-22 t=16941
+ji shu 	技术	c=1 d=2.25212e-22 t=16941
+ji suan 	计算	c=2 d=6.06374e-26 t=16941
+ji suan ji 	计算机	c=2 d=1.22968e-10 t=16941
+ji tao 	几套	c=1 d=0.767206 t=16941
+ji tian 	几天	c=1 d=0.0593087 t=16941
+ji wei 	极为	c=1 d=4.09025e-13 t=16941
+ji xie 	机械	c=1 d=0.565525 t=16941
+ji xie pan 	机械盘	c=3 d=1.42684e-07 t=16941
+ji xu 	继续	c=2 d=0.00427488 t=16941
+ji zhong 	几种	c=1 d=7.93427e-14 t=16941
+ji zhong 	集中	c=1 d=7.8947e-14 t=16941
+jia 	加	c=5 d=0.955997 t=16941
+jia ben 	甲苯	c=1 d=0.634448 t=16941
+jia ge 	价格	c=6 d=0.727317 t=16941
+jia jian cheng chu 	加减乘除	c=1 d=4.29397e-26 t=16941
+jia kuai 	加快	c=1 d=9.40293e-12 t=16941
+jia le bi 	加勒比	c=2 d=1.52845e-13 t=16941
+jia lu he 	贾鲁河	c=2 d=0.30064 t=16941
+jia qi 	假期	c=1 d=0.0590129 t=16941
+jia ru 	加入	c=2 d=1.65411e-09 t=16941
+jia shang 	加上	c=1 d=0.985112 t=16941
+jia shang qu 	加上去	c=1 d=0.878095 t=16941
+jia she 	假设	c=14 d=1.5259e-11 t=16941
+jia xia lai 	加下来	c=1 d=2.1863e-26 t=16941
+jia zhuang 	假装	c=1 d=1.30948e-25 t=16941
+jian 	兼	c=1 d=2.18407e-14 t=16941
+jian 	剪	c=1 d=2.87993e-15 t=16941
+jian 	建	c=1 d=1.20527e-20 t=16941
+jian 	键	c=30 d=10.2909 t=16941
+jian ao ben 	键奥本	c=1 d=0.865022 t=16941
+jian bang ding 	键绑定	c=2 d=1.5972 t=16941
+jian cha 	检查	c=2 d=2.69582e-20 t=16941
+jian dan 	简单	c=3 d=2.14349e-08 t=16941
+jian fei 	减肥	c=0 d=1.62611e-15 t=16941
+jian guo yun 	坚果云	c=3 d=0.00336215 t=16941
+jian hao 	建好	c=1 d=1.74853e-15 t=16941
+jian ji 	剪辑	c=2 d=4.30046e-15 t=16941
+jian ju 	间距	c=4 d=2.78561 t=16941
+jian pan 	键盘	c=2 d=0.0670663 t=16941
+jian qie 	剪切	c=4 d=0.0178634 t=16941
+jian qie ban 	剪切板	c=2 d=0.838396 t=16941
+jian qie hou 	剪切后	c=1 d=3.17781e-14 t=16941
+jian shao 	减少	c=1 d=5.9053e-10 t=16941
+jian shi pin 	剪视频	c=1 d=1.37544e-15 t=16941
+jian ti zhong wen 	简体中文	c=1 d=4.06349e-24 t=16941
+jian wei 	键位	c=1 d=0.701173 t=16941
+jian xi 	间隙	c=1 d=0.970446 t=16941
+jian xie xing 	间歇性	c=2 d=0.00429909 t=16941
+jian yi 	建议	c=3 d=1.76578 t=16941
+jian yi 	简易	c=2 d=4.09095e-15 t=16941
+jiang 	将	c=3 d=7.03467e-10 t=16941
+jiang 	酱	c=1 d=2.17318e-14 t=16941
+jiang o ben 	将哦本	c=1 d=2.59144e-26 t=16941
+jiang you 	江油	c=4 d=0.952583 t=16941
+jiang you ling ba 	江油凌霸	c=1 d=0.236928 t=16941
+jiao 	叫	c=4 d=2.34416 t=16941
+jiao ben 	脚本	c=71 d=11.5293 t=16941
+jiao che 	轿车	c=1 d=0.99005 t=16941
+jiao cheng 	教程	c=1 d=1.18466e-23 t=16941
+jiao gei 	交给	c=1 d=2.15119e-12 t=16941
+jiao huan 	交换	c=1 d=4.13994e-08 t=16941
+jiao huan ji 	交换机	c=1 d=2.1901e-17 t=16941
+jiao rong 	交融	c=1 d=7.54474e-10 t=16941
+jiao shen me 	叫什么	c=1 d=2.084e-21 t=16941
+jiao zuo 	叫做	c=1 d=0.00236968 t=16941
+jie 	接	c=5 d=3.86195e-16 t=16941
+jie cheng 	结成	c=3 d=0.0605068 t=16941
+jie du 	解读	c=1 d=0.143704 t=16941
+jie duan 	阶段	c=1 d=5.3185e-14 t=16941
+jie fu 	姐夫	c=1 d=0.0043831 t=16941
+jie gou 	结构	c=1 d=6.7821e-21 t=16941
+jie jue 	解决	c=22 d=0.923153 t=16941
+jie kou 	接口	c=1 d=8.89519e-06 t=16941
+jie mian 	界面	c=10 d=0.756638 t=16941
+jie qu 	截取	c=1 d=8.96902e-15 t=16941
+jie ru 	接入	c=14 d=3.85778e-15 t=16941
+jie ru dian yuan 	接入电源	c=1 d=6.76805e-26 t=16941
+jie shao 	介绍	c=2 d=1.09838e-09 t=16941
+jie shi 	解释	c=11 d=1.59136 t=16941
+jie shou 	接收	c=3 d=4.22011e-11 t=16941
+jie shu 	结束	c=3 d=0.215516 t=16941
+jie song 	接送	c=2 d=0.190292 t=16941
+jie suo 	解锁	c=1 d=0.0925506 t=16941
+jie tu 	截图	c=20 d=10.2923 t=16941
+jie xia 	接下	c=1 d=2.48898e-22 t=16941
+jie xia lai 	接下来	c=3 d=1.73311 t=16941
+jie ya 	解压	c=2 d=0.000284437 t=16941
+jie ya suo 	解压缩	c=3 d=0.000288735 t=16941
+jin 	进	c=1 d=3.20146e-13 t=16941
+jin bu liao 	进不了	c=1 d=3.76731e-16 t=16941
+jin die 	金蝶	c=1 d=0.000115643 t=16941
+jin du 	进度	c=2 d=1.39284 t=16941
+jin du tiao 	进度条	c=3 d=1.36474 t=16941
+jin ji jiang 	金鸡奖	c=1 d=5.6028e-09 t=16941
+jin qu 	进去	c=1 d=1.63004e-13 t=16941
+jin ru 	进入	c=22 d=2.31057 t=16941
+jin tian 	今天	c=3 d=0.314929 t=16941
+jin tie zhe 	紧贴着	c=1 d=0.891366 t=16941
+jin wu 	金乌	c=1 d=4.72688e-09 t=16941
+jin xing 	进行	c=3 d=1.32061e-07 t=16941
+jin yong 	禁用	c=6 d=2.5827 t=16941
+jin zhi 	禁止	c=3 d=2.41491 t=16941
+jin zhi 	进制	c=1 d=0.865022 t=16941
+jing 	井	c=0 d=1.89874e-15 t=16941
+jing 	静	c=3 d=1.57202e-24 t=16941
+jing a ni 	京阿尼	c=0 d=3.65535e-15 t=16941
+jing chang 	经常	c=1 d=7.54988e-18 t=16941
+jing dian 	经典	c=1 d=5.72279e-23 t=16941
+jing dong 	京东	c=1 d=0.985112 t=16941
+jing gao 	警告	c=4 d=4.07876e-18 t=16941
+jing ji 	经济	c=1 d=1.21028e-10 t=16941
+jing ji chang 	竞技场	c=1 d=0.0285814 t=16941
+jing jiao 	精校	c=3 d=1.26774e-08 t=16941
+jing jiao ban 	精校版	c=2 d=6.22948e-09 t=16941
+jing ran 	竟然	c=1 d=0.562705 t=16941
+jing tai 	静态	c=3 d=7.2698e-07 t=16941
+jing xiang 	镜像	c=2 d=0.759572 t=16941
+jing xiang zhan 	镜像站	c=1 d=4.53367e-18 t=16941
+jing yin 	静音	c=7 d=3.15848 t=16941
+jing zhun 	精准	c=1 d=0.0628135 t=16941
+jiu 	就	c=33 d=5.34563 t=16941
+jiu 	旧	c=1 d=2.25565e-11 t=16941
+jiu an ju 	就安居	c=1 d=0.704688 t=16941
+jiu gou 	就够	c=1 d=0.941765 t=16941
+jiu hao 	就好	c=1 d=1.76671e-19 t=16941
+jiu hui 	就会	c=1 d=1.56559e-09 t=16941
+jiu ke yi 	就可以	c=2 d=0.713043 t=16941
+jiu neng 	就能	c=2 d=1.27538 t=16941
+jiu neng yong 	就能用	c=2 d=1.15084 t=16941
+jiu pa 	就怕	c=1 d=4.99839e-19 t=16941
+jiu shi 	就是	c=23 d=3.28972 t=16941
+jiu shi yong 	就使用	c=1 d=2.90983e-07 t=16941
+jiu tiao 	九条	c=0 d=1.70948e-15 t=16941
+jiu tiao man 	九条满	c=2 d=0.000261259 t=16941
+jiu xiang 	就像	c=2 d=7.79161e-11 t=16941
+jiu xing 	就行	c=11 d=2.34098 t=16941
+jiu xu 	就绪	c=0 d=1.3061e-25 t=16941
+jiu you 	就有	c=1 d=3.35109e-21 t=16941
+jiu zai 	就在	c=1 d=9.19294e-11 t=16941
+jiu zhe yang 	就这样	c=1 d=1.65552e-19 t=16941
+ju 	橘	c=0 d=1.97623e-15 t=16941
+ju jue 	拒绝	c=1 d=1.37213e-16 t=16941
+ju li 	距离	c=4 d=1.81768 t=16941
+ju li shuo ming 	举例说明	c=2 d=2.96867e-20 t=16941
+ju ma li 	橘玛丽	c=2 d=3.98222e-14 t=16941
+ju shuo 	据说	c=1 d=0.0295994 t=16941
+ju ti 	具体	c=8 d=0.806541 t=16941
+ju xian yu 	局限于	c=1 d=0.00104891 t=16941
+ju xing 	巨星	c=1 d=0.904837 t=16941
+ju yu wang 	局域网	c=1 d=7.21398e-12 t=16941
+ju zhong 	剧中	c=1 d=0.995012 t=16941
+jue ding 	决定	c=2 d=0.00185476 t=16941
+jue dui lu jing 	绝对路径	c=1 d=0.99005 t=16941
+ka 	卡	c=2 d=1.42393 t=16941
+ka ka ka 	咔咔咔	c=1 d=5.65911e-09 t=16941
+kai 	开	c=2 d=0.100259 t=16941
+kai che 	开车	c=3 d=0.294959 t=16941
+kai feng 	开封	c=1 d=3.02859e-07 t=16941
+kai ji 	开机	c=16 d=3.27053 t=16941
+kai ji hou 	开机后	c=2 d=2.22744e-10 t=16941
+kai ji qi dong 	开机启动	c=2 d=1.80227 t=16941
+kai ju 	开局	c=1 d=4.63171e-05 t=16941
+kai le 	开了	c=1 d=4.83321e-06 t=16941
+kai qi 	开启	c=6 d=0.946712 t=16941
+kai shi 	开始	c=8 d=0.970446 t=16941
+kai tou 	开头	c=16 d=1.75017 t=16941
+kai tuo 	开脱	c=1 d=1.63032e-15 t=16941
+kai xin 	开心	c=2 d=9.85348e-25 t=16941
+kai yuan 	开源	c=6 d=2.19009e-08 t=16941
+kan 	看	c=25 d=4.18319 t=16941
+kan bu 	看不	c=1 d=0.923116 t=16941
+kan bu dao 	看不到	c=5 d=1.34328 t=16941
+kan bu qing 	看不清	c=2 d=0.756272 t=16941
+kan bu tai 	看不太	c=1 d=0.657047 t=16941
+kan chu 	看出	c=1 d=2.62702e-10 t=16941
+kan dao 	看到	c=34 d=4.76393 t=16941
+kan dao guo 	看到过	c=2 d=0.161299 t=16941
+kan de qi 	看得起	c=1 d=0.449329 t=16941
+kan dian ying 	看电影	c=1 d=8.57144e-11 t=16941
+kan fen qu 	看分区	c=1 d=1.08983e-12 t=16941
+kan kan 	看看	c=4 d=0.955997 t=16941
+kan le 	看了	c=1 d=5.56519e-18 t=16941
+kan qi 	看齐	c=3 d=1.78281 t=16941
+kan qi lai 	看起来	c=3 d=1.8481 t=16941
+kan qing chu 	看清楚	c=1 d=0.666977 t=16941
+kan shi fou 	看是否	c=1 d=0.000109455 t=16941
+kan si 	看似	c=2 d=9.70943e-11 t=16941
+kan tong 	崁酮	c=1 d=6.27901e-26 t=16941
+kan tu 	看图	c=4 d=9.73403e-15 t=16941
+kan yi xia 	看一下	c=2 d=0.99005 t=16941
+kan you 	堪忧	c=1 d=2.94769e-12 t=16941
+kao jin kou 	靠进口	c=2 d=6.89958e-07 t=16941
+kao lv 	考虑	c=2 d=0.551822 t=16941
+ke 	可	c=9 d=0.000260875 t=16941
+ke cheng 	课程	c=1 d=6.1931e-11 t=16941
+ke du xie 	可读写	c=1 d=0.063609 t=16941
+ke hu duan 	客户端	c=1 d=1.04763e-18 t=16941
+ke ke 	可可	c=0 d=0.000386807 t=16941
+ke ke shu ba 	可可书吧	c=1 d=0.00388746 t=16941
+ke li 	颗粒	c=1 d=4.92649e-25 t=16941
+ke lian 	可怜	c=0 d=0.00596059 t=16941
+ke neng 	可能	c=13 d=2.63731 t=16941
+ke shi 	科室	c=1 d=5.15325e-25 t=16941
+ke xing 	可行	c=2 d=3.87331e-11 t=16941
+ke xuan 	可选	c=3 d=0.97531 t=16941
+ke xue 	科学	c=2 d=0.0307508 t=16941
+ke yi 	可以	c=124 d=7.47892 t=16941
+ke yi yong 	可以用	c=1 d=0.932394 t=16941
+ke yong 	可用	c=8 d=1.37148 t=16941
+ke zhi xing 	可执行	c=2 d=2.25526e-09 t=16941
+ken 	啃	c=1 d=4.82319e-11 t=16941
+ken ding 	肯定	c=4 d=0.843673 t=16941
+keng 	坑	c=1 d=6.8989e-16 t=16941
+kong 	空	c=3 d=0.946485 t=16941
+kong bai 	空白	c=3 d=3.82532e-12 t=16941
+kong chu 	空出	c=1 d=0.869358 t=16941
+kong gai nian 	空概念	c=1 d=1.65012e-10 t=16941
+kong ge 	空格	c=6 d=0.0303769 t=16941
+kong hang 	空行	c=1 d=0.516851 t=16941
+kong jian 	空间	c=34 d=0.00116867 t=16941
+kong jian an 	空间按	c=1 d=0.000893825 t=16941
+kong xi 	空隙	c=1 d=1.85824e-25 t=16941
+kong xian 	空闲	c=1 d=1.96537e-08 t=16941
+kong yu 	空余	c=1 d=1.94581e-08 t=16941
+kong zhi 	控制	c=10 d=1.78665 t=16941
+kou yin 	口音	c=1 d=1.78477e-21 t=16941
+ku 	库	c=4 d=0.00274019 t=16941
+ku yin 	库银	c=0 d=1.32768e-12 t=16941
+kuai 	块	c=2 d=5.72024e-10 t=16941
+kuai 	快	c=1 d=2.88883e-10 t=16941
+kuai chong 	快充	c=1 d=1.34034e-05 t=16941
+kuai jie jian 	快捷键	c=54 d=8.23729 t=16941
+kuai le 	快乐	c=1 d=1.55482e-16 t=16941
+kuai le 	快了	c=1 d=1.56262e-16 t=16941
+kuai su 	快速	c=5 d=4.87054e-05 t=16941
+kuan du 	宽度	c=10 d=5.17737 t=16941
+kuang 	框	c=2 d=1.26385 t=16941
+kui si 	葵司	c=2 d=1.73532e-14 t=16941
+kuo zhan 	扩展	c=4 d=8.53391e-19 t=16941
+la 	啦	c=2 d=0.722527 t=16941
+la bu dao 	拉不到	c=1 d=1.83818e-15 t=16941
+la ding zi mu 	拉丁字母	c=1 d=2.77216e-25 t=16941
+la kai ju li 	拉开距离	c=0 d=5.80237e-10 t=16941
+la kai ju li ke 	拉开距离可	c=1 d=5.83145e-09 t=16941
+la qu 	拉取	c=1 d=9.62426e-21 t=16941
+lai 	来	c=4 d=0.952447 t=16941
+lai hu 	濑户	c=0 d=1.35032e-05 t=16941
+lai hu huan nai 	濑户环奈	c=3 d=0.000714055 t=16941
+lai kan 	来看	c=1 d=0.115325 t=16941
+lai lai lai 	来来来	c=1 d=8.84452e-27 t=16941
+lai shuo 	来说	c=2 d=4.83253e-25 t=16941
+lai yuan 	来源	c=2 d=0.543351 t=16941
+lai yuan yu 	来源于	c=2 d=3.88812e-05 t=16941
+lan 	栏	c=3 d=1.81618 t=16941
+lan 	烂	c=1 d=0.726149 t=16941
+lan qi 	兰奇	c=0 d=3.22419e-09 t=16941
+lan ren 	懒人	c=0 d=0.099005 t=16941
+lan ren bao 	懒人包	c=2 d=1.99501 t=16941
+lang jiu 	郎酒	c=1 d=2.11952e-14 t=16941
+lao 	老	c=4 d=0.0937067 t=16941
+lao ban niang 	老板娘	c=1 d=0.060205 t=16941
+lao cheng xu yuan 	老程序员	c=1 d=5.11083e-16 t=16941
+lao dian nao 	老电脑	c=1 d=4.60454e-24 t=16941
+lao jiu 	老旧	c=0 d=0.0941765 t=16941
+lao shi 	老师	c=5 d=3.42545e-13 t=16941
+lao tai tai 	老太太	c=1 d=5.07394e-19 t=16941
+lao tou huan 	老头环	c=1 d=1.35778e-10 t=16941
+lao xian sheng 	老先生	c=1 d=5.20238e-19 t=16941
+lao ying 	老鹰	c=1 d=1.29468e-09 t=16941
+le 	了	c=205 d=15.222 t=16941
+le ku yin 	了库银	c=1 d=1.33434e-11 t=16941
+le wo 	了我	c=0 d=4.75705e-26 t=16941
+lei biao 	类表	c=1 d=0.718924 t=16941
+lei bie 	类别	c=1 d=1.63537e-22 t=16941
+lei chu 	勒出	c=1 d=0.97531 t=16941
+lei sheng 	雷声	c=3 d=1.39069e-08 t=16941
+lei si 	类似	c=16 d=2.36665 t=16941
+li 	丽	c=0 d=1.75276e-15 t=16941
+li 	利	c=1 d=2.35298e-08 t=16941
+li 	力	c=1 d=9.8307e-06 t=16941
+li 	李	c=1 d=0.873716 t=16941
+li 	理	c=1 d=1.86051e-10 t=16941
+li 	立	c=1 d=0.869358 t=16941
+li 	里	c=2 d=0.0156076 t=16941
+li bian 	里边	c=6 d=2.2151 t=16941
+li ji 	立即	c=1 d=0.0359725 t=16941
+li jie 	理解	c=2 d=0.178957 t=16941
+li jie le 	理解了	c=0 d=6.77403e-08 t=16941
+li ke jiu 	立刻就	c=0 d=6.77403e-08 t=16941
+li ke jiu li jie le 	立刻就理解了	c=1 d=6.80798e-07 t=16941
+li li 	莉莉	c=0 d=0.00131019 t=16941
+li mian 	里面	c=2 d=2.36624e-09 t=16941
+li ou 	里欧	c=0 d=3.22419e-09 t=16941
+li ou lan qi 	里欧兰奇	c=1 d=3.24035e-08 t=16941
+li shi 	历史	c=2 d=0.852289 t=16941
+li suo dang ran 	理所当然	c=1 d=9.03731e-16 t=16941
+lian 	连	c=1 d=3.93054e-15 t=16941
+lian bu shang 	连不上	c=1 d=0.0018363 t=16941
+lian jie 	连接	c=28 d=1.86162 t=16941
+lian jie 	链接	c=5 d=7.00143e-07 t=16941
+lian tong 	联通	c=2 d=5.99698e-07 t=16941
+lian wang 	联网	c=3 d=1.51262e-19 t=16941
+lian xi 	联系	c=1 d=0.99005 t=16941
+lian xiang 	联想	c=1 d=3.19211e-08 t=16941
+lian zi fu 	连字符	c=2 d=6.73842e-25 t=16941
+liang ci 	两次	c=1 d=4.15489e-21 t=16941
+liang du 	亮度	c=14 d=8.44239e-09 t=16941
+liang du zhi 	亮度值	c=2 d=7.90809e-26 t=16941
+liang duan 	两端	c=1 d=6.81494e-19 t=16941
+liang ge 	两个	c=37 d=4.66626 t=16941
+liang kuai 	两块	c=2 d=3.40648e-08 t=16941
+liang ping 	亮屏	c=7 d=4.01142e-11 t=16941
+liang se 	亮色	c=2 d=1.72728 t=16941
+liang sen 	凉森	c=2 d=0.0273705 t=16941
+liang sen ling meng 	凉森铃梦	c=1 d=0.0130365 t=16941
+liang tai 	两台	c=1 d=6.91793e-19 t=16941
+liang tou 	两头	c=1 d=1.15761e-16 t=16941
+liang yong 	两用	c=1 d=0.955997 t=16941
+liang zhe 	两者	c=1 d=1.07583e-07 t=16941
+liang zhong 	两种	c=3 d=0.000385874 t=16941
+liang zi li xue 	量子力学	c=1 d=5.70511e-16 t=16941
+liao 	了	c=1 d=0.995012 t=16941
+liao jie liao jie 	了解了解	c=1 d=1.05888e-26 t=16941
+lie biao 	列表	c=14 d=4.04737 t=16941
+lie chu 	列出	c=1 d=0.985112 t=16941
+lie chu lai 	列出来	c=2 d=1.61476 t=16941
+lie ge 	列个	c=2 d=0.886739 t=16941
+lie jie 	裂解	c=0 d=0.0882497 t=16941
+lin lin 	凛凛	c=0 d=1.73532e-15 t=16941
+lin shi 	临时	c=2 d=0.102797 t=16941
+lin shi dong jie 	临时冻结	c=1 d=7.23019e-09 t=16941
+ling 	铃	c=0 d=0.00129715 t=16941
+ling ba 	凌霸	c=5 d=1.17705 t=16941
+ling di 	灵帝	c=1 d=4.70171e-05 t=16941
+ling hun 	灵魂	c=0 d=0.00430669 t=16941
+ling hun neng li 	灵魂能力	c=1 d=0.0432828 t=16941
+ling wai 	另外	c=7 d=2.20705 t=16941
+ling yi ge 	另一个	c=4 d=0.0168245 t=16941
+ling yi tiao 	另一条	c=1 d=3.56267e-06 t=16941
+ling yi zhong 	另一种	c=1 d=7.23266e-13 t=16941
+ling you 	另有	c=1 d=0.000432902 t=16941
+liu 	溜	c=1 d=5.60613e-13 t=16941
+liu cheng 	流程	c=3 d=0.937067 t=16941
+liu ci 	六次	c=2 d=1.34226e-14 t=16941
+liu fen zhong 	六分钟	c=1 d=1.5201e-15 t=16941
+liu lan 	浏览	c=1 d=5.89608e-21 t=16941
+liu lan ci shu 	浏览次数	c=2 d=9.92631e-21 t=16941
+liu lan qi 	浏览器	c=26 d=3.01559 t=16941
+liu liang 	流量	c=5 d=0.00513307 t=16941
+liu na qi 	溜拿起	c=1 d=5.47954e-12 t=16941
+liu wei 	六位	c=0 d=3.97625e-05 t=16941
+liu wei shu zi 	六位数字	c=1 d=0.000399619 t=16941
+liu xing hu die jian 	流星蝴蝶剑	c=1 d=0.0596059 t=16941
+liu yi fei 	刘亦菲	c=1 d=1.17411e-06 t=16941
+liu yuan 	留园	c=0 d=0.000384878 t=16941
+liu yuan wang 	留园网	c=1 d=0.00386807 t=16941
+long long 	隆隆	c=3 d=1.176e-06 t=16941
+long zhi gu 	龙之谷	c=1 d=0.0258615 t=16941
+lu chuan 	撸串	c=1 d=8.52869e-11 t=16941
+lu dai ma 	撸代码	c=1 d=8.87675e-11 t=16941
+lu jing 	路径	c=16 d=1.90298 t=16941
+lu yin 	录音	c=2 d=2.66871e-11 t=16941
+lu yin ji 	录音机	c=1 d=1.31447e-11 t=16941
+lu you 	路由	c=4 d=0.0062845 t=16941
+lu you qi 	路由器	c=25 d=0.00656643 t=16941
+lu zhi 	录制	c=1 d=1.38187e-11 t=16941
+lu zi 	路子	c=1 d=2.8463e-12 t=16941
+luan 	乱	c=1 d=1.10363e-13 t=16941
+luan ma 	乱码	c=3 d=0.65377 t=16941
+luan qi ba zao 	乱七八糟	c=1 d=0.264477 t=16941
+luan xiang 	乱想	c=1 d=0.995012 t=16941
+luan xiang 	乱象	c=1 d=0.99005 t=16941
+lun dun 	伦敦	c=2 d=0.000769597 t=16941
+lun kuo 	轮廓	c=1 d=1.74913e-19 t=16941
+lun wen ji 	论文集	c=1 d=2.70933e-20 t=16941
+luo xia 	落下	c=1 d=8.46425e-10 t=16941
+lv 	率	c=1 d=1.17267e-21 t=16941
+lv se 	绿色	c=4 d=0.740818 t=16941
+lv se ban 	绿色版	c=1 d=0.904837 t=16941
+lve wei 	略微	c=1 d=0.0317456 t=16941
+ma 	吗	c=112 d=6.40788 t=16941
+ma 	妈	c=2 d=9.43365e-12 t=16941
+ma 	码	c=1 d=1.52642e-05 t=16941
+ma li 	玛丽	c=0 d=1.97623e-15 t=16941
+ma li ao 	马里奥	c=1 d=0.0411719 t=16941
+ma lu 	马路	c=1 d=3.70227e-17 t=16941
+mai 	买	c=4 d=9.3048e-06 t=16941
+mai bu qi 	买不起	c=1 d=1.85155e-12 t=16941
+mai dang na 	麦当娜	c=2 d=2.97265e-14 t=16941
+mai dao 	买到	c=1 d=0.965605 t=16941
+man 	慢	c=3 d=3.56417e-10 t=16941
+man 	满	c=1 d=1.70948e-15 t=16941
+mang 	忙	c=2 d=2.0371e-10 t=16941
+mang wan 	忙完	c=1 d=1.0365e-10 t=16941
+mao bu 	猫步	c=1 d=0.0144076 t=16941
+me 	麼	c=1 d=0.460704 t=16941
+mei 	没	c=19 d=1.95452 t=16941
+mei 	美	c=1 d=0.0158434 t=16941
+mei cha hao 	没插好	c=2 d=1.79447e-16 t=16941
+mei ci 	每次	c=5 d=1.45027 t=16941
+mei e yi 	没恶意	c=4 d=0.00016826 t=16941
+mei fan ying 	没反应	c=2 d=0.71177 t=16941
+mei ge 	每个	c=1 d=2.89276e-26 t=16941
+mei ge 	每隔	c=4 d=0.895834 t=16941
+mei ge xing qi 	每个星期	c=1 d=0.0963276 t=16941
+mei gu zhu yin 	美谷朱音	c=2 d=0.108237 t=16941
+mei guan 	美观	c=0 d=2.02206e-20 t=16941
+mei guo 	美国	c=6 d=2.03275 t=16941
+mei hua 	美化	c=1 d=0.882497 t=16941
+mei jian guo 	没见过	c=1 d=0.265803 t=16941
+mei kan dao 	没看到	c=1 d=7.85131e-08 t=16941
+mei le 	没了	c=5 d=0.00260584 t=16941
+mei sha yi si 	没啥意思	c=1 d=2.33036e-12 t=16941
+mei ti 	媒体	c=5 d=0.000185029 t=16941
+mei ti ku 	媒体库	c=7 d=0.00019258 t=16941
+mei wen ti 	没问题	c=5 d=0.644036 t=16941
+mei yi zhen 	每一帧	c=1 d=1.21382e-15 t=16941
+mei yong 	没用	c=1 d=3.2577e-12 t=16941
+mei you 	没有	c=141 d=7.79917 t=16941
+mei you gei 	没有给	c=1 d=0.980199 t=16941
+mei you guo 	没有过	c=1 d=8.19846e-17 t=16941
+mei zhao dao 	没找到	c=4 d=0.993188 t=16941
+men 	们	c=1 d=1.40638e-12 t=16941
+men 	门	c=1 d=0.726149 t=16941
+meng 	梦	c=0 d=0.00129715 t=16941
+meng long 	朦胧	c=1 d=8.54931e-10 t=16941
+meng ru hu 	猛如虎	c=2 d=0.980199 t=16941
+mi 	迷	c=1 d=9.93965e-18 t=16941
+mi ma 	密码	c=9 d=0.00108154 t=16941
+mi san 	弥散	c=0 d=7.54474e-11 t=16941
+mi san chu 	弥散出	c=1 d=7.58256e-10 t=16941
+mi tang 	蜜糖	c=3 d=1.46959e-21 t=16941
+mi tu zhi fan 	迷途知返	c=1 d=4.98379e-14 t=16941
+mi yao 	密钥	c=9 d=1.73823e-17 t=16941
+mian ban 	面板	c=1 d=1.3871e-26 t=16941
+mian fei 	免费	c=3 d=1.10592e-08 t=16941
+mian qian 	面前	c=1 d=5.69231e-19 t=16941
+mian qiang 	勉强	c=1 d=6.91322e-11 t=16941
+mian su 	免俗	c=1 d=1.18631e-10 t=16941
+miao 	秒	c=20 d=0.00285115 t=16941
+miao kai 	秒开	c=1 d=3.72792e-10 t=16941
+miao shu 	描述	c=12 d=1.81337 t=16941
+mie ying 	灭蝇	c=1 d=0.778801 t=16941
+ming 	名	c=14 d=2.16903 t=16941
+ming bai 	明白	c=1 d=2.7243e-26 t=16941
+ming cheng 	名称	c=3 d=1.79805e-20 t=16941
+ming li 	明里	c=0 d=0.00459593 t=16941
+ming li chou 	明里紬	c=3 d=0.154032 t=16941
+ming liang 	明亮	c=1 d=0.715338 t=16941
+ming ling 	命令	c=67 d=6.71624 t=16941
+ming ling hang 	命令行	c=10 d=1.54218 t=16941
+ming ri 	明日	c=0 d=8.00856e-07 t=16941
+ming ri ye san ye 	明日叶三叶	c=6 d=0.000873588 t=16941
+ming shi yin 	明世隐	c=1 d=0.99005 t=16941
+ming tian 	明天	c=1 d=5.15062e-19 t=16941
+ming xia 	名下	c=1 d=2.02978e-05 t=16941
+ming zi 	名字	c=15 d=2.66746 t=16941
+mo ban 	模板	c=1 d=5.41009e-09 t=16941
+mo fa 	魔法	c=2 d=0.0150707 t=16941
+mo hu 	模糊	c=1 d=1.0095e-23 t=16941
+mo kuai 	模块	c=5 d=2.63497 t=16941
+mo ni 	模拟	c=2 d=1.36158 t=16941
+mo ni qi 	模拟器	c=2 d=4.86918e-05 t=16941
+mo ren 	默认	c=42 d=5.11915 t=16941
+mo ren zhi 	默认值	c=1 d=0.985112 t=16941
+mo shen 	魔神	c=1 d=4.84489e-05 t=16941
+mo shi 	模式	c=20 d=5.81677 t=16941
+mo shui 	墨水	c=1 d=7.06993e-10 t=16941
+mo tuo che 	摩托车	c=1 d=0.178173 t=16941
+mou ci 	某次	c=1 d=3.11382e-10 t=16941
+mou ge 	某个	c=5 d=1.71786 t=16941
+mou xie 	某些	c=1 d=0.955997 t=16941
+mou zhong 	某种	c=1 d=7.12497e-13 t=16941
+mu di 	目的	c=1 d=9.92074e-25 t=16941
+mu lu 	目录	c=98 d=6.62845 t=16941
+mu lu nei 	目录内	c=1 d=1.27936e-16 t=16941
+mu lu xia 	目录下	c=6 d=0.0205887 t=16941
+mu qian 	目前	c=2 d=0.00293808 t=16941
+mu xia 	木下	c=0 d=1.73532e-15 t=16941
+mu xia lin lin zi 	木下凛凛子	c=2 d=3.49677e-14 t=16941
+na 	那	c=4 d=0.856415 t=16941
+na ge 	哪个	c=40 d=6.13465 t=16941
+na ge 	那个	c=8 d=1.71738 t=16941
+na ke shu 	那棵树	c=1 d=2.35458e-16 t=16941
+na lai 	拿来	c=3 d=1.87151 t=16941
+na li 	哪里	c=8 d=2.53821 t=16941
+na me 	那么	c=2 d=0.0146986 t=16941
+na qi 	拿起	c=0 d=5.45221e-13 t=16941
+na shi 	那是	c=0 d=3.64653e-16 t=16941
+na wei 	那位	c=1 d=5.17644e-19 t=16941
+na wei lao shi 	哪位老师	c=1 d=1.57018e-14 t=16941
+na xie 	哪些	c=14 d=3.66404 t=16941
+na xie 	那些	c=5 d=5.67182e-06 t=16941
+na yang 	那样	c=3 d=0.000317533 t=16941
+na yi bu 	那一步	c=1 d=5.53179e-06 t=16941
+na yi xiang 	哪一项	c=1 d=0.110803 t=16941
+na zhong 	那种	c=6 d=2.24889 t=16941
+nai 	奈	c=0 d=1.35032e-05 t=16941
+nan 	南	c=1 d=6.52637e-10 t=16941
+nan 	男	c=1 d=9.98947e-18 t=16941
+nan yong 	难用	c=1 d=0.00117088 t=16941
+nao zhong 	闹钟	c=3 d=0.000315927 t=16941
+ne 	呢	c=5 d=1.70155 t=16941
+nei 	内	c=4 d=0.989813 t=16941
+nei bian ju 	内边距	c=1 d=1 t=16941
+nei cun 	内存	c=8 d=1.95421 t=16941
+nei cun tiao 	内存条	c=1 d=3.3918e-16 t=16941
+nei he 	内核	c=4 d=2.70134 t=16941
+nei rong 	内容	c=39 d=4.3191 t=16941
+nei zhi 	内置	c=7 d=3.83961 t=16941
+neng 	能	c=8 d=3.06835e-09 t=16941
+neng bu neng 	能不能	c=9 d=2.11526 t=16941
+neng li 	能力	c=1 d=0.469575 t=16941
+neng yong 	能用	c=1 d=0.946485 t=16941
+neng you 	能有	c=1 d=0.909373 t=16941
+ni 	你	c=37 d=4.15953 t=16941
+ni gan 	你敢	c=0 d=2.6884e-18 t=16941
+ni men 	你们	c=2 d=3.29212e-18 t=16941
+ni ye 	你也	c=1 d=0.444858 t=16941
+nian 	年	c=1 d=0.19593 t=16941
+nian ling 	年龄	c=1 d=0.204948 t=16941
+niang zhi 	酿制	c=1 d=3.23253e-09 t=16941
+niang zi 	娘子	c=2 d=6.5631e-09 t=16941
+nin 	您	c=1 d=3.89143e-15 t=16941
+ning ning 	宁宁	c=0 d=0.00466538 t=16941
+nong 	浓	c=2 d=4.31389e-14 t=16941
+nong cun 	农村	c=1 d=0.08291 t=16941
+nong mei le 	弄没了	c=1 d=0.00227676 t=16941
+nu pu 	奴仆	c=1 d=2.30059e-12 t=16941
+nu pu cheng qun 	奴仆成群	c=1 d=2.14046e-12 t=16941
+nv 	女	c=2 d=4.74312e-12 t=16941
+nv hai 	女孩	c=1 d=3.80388e-12 t=16941
+nv pin 	女频	c=3 d=0.000161416 t=16941
+nv sheng 	女声	c=1 d=2.1616e-10 t=16941
+nv xia 	女侠	c=0 d=2.95431e-10 t=16941
+nv xia qie man 	女侠且慢	c=3 d=9.19781e-09 t=16941
+nv you 	女优	c=3 d=0.00408677 t=16941
+o 	哦	c=1 d=0.0751885 t=16941
+ou 	欧	c=1 d=7.1122e-19 t=16941
+ou bao 	欧宝	c=1 d=2.25097e-16 t=16941
+ou mei 	欧美	c=2 d=0.00444934 t=16941
+pa 	怕	c=2 d=1.10482 t=16941
+pai chu 	排除	c=3 d=0.946485 t=16941
+pai lie 	排列	c=1 d=0.878095 t=16941
+pai ming 	排名	c=1 d=0.683861 t=16941
+pai zai 	排在	c=1 d=0.722527 t=16941
+pan 	盘	c=2 d=0.568411 t=16941
+pan duan 	判断	c=7 d=5.75944e-06 t=16941
+pang bian 	旁边	c=1 d=0.83527 t=16941
+pei he 	配合	c=1 d=0.923116 t=16941
+pei zhi 	配置	c=319 d=25.2594 t=16941
+pei zhi cheng 	配置成	c=1 d=0.923116 t=16941
+pei zhi hao 	配置好	c=2 d=4.55174e-06 t=16941
+pei zhi wen jian 	配置文件	c=2 d=1.51448 t=16941
+pei zhi zhong 	配置中	c=1 d=0.913931 t=16941
+peng pai xin wen 	澎湃新闻	c=1 d=0.242926 t=16941
+pi fu 	皮肤	c=1 d=0.737123 t=16941
+pi liang 	批量	c=1 d=2.36482e-09 t=16941
+pi liang guan bi 	批量关闭	c=1 d=2.37662e-08 t=16941
+pi shuang 	砒霜	c=3 d=1.48702e-21 t=16941
+pian 	片	c=2 d=0.913931 t=16941
+pian duan 	片段	c=2 d=0.913931 t=16941
+pin yin 	拼音	c=4 d=1.79827e-22 t=16941
+ping mu 	屏幕	c=12 d=1.22886 t=16941
+ping pu 	平铺	c=6 d=3.74218 t=16941
+ping sheng 	平生	c=1 d=5.94723e-05 t=16941
+ping tai 	平台	c=4 d=1.22017 t=16941
+ping xing shi jie 	平行世界	c=1 d=6.08825e-16 t=16941
+po sa 	泼洒	c=1 d=7.10537e-10 t=16941
+pu bian 	普遍	c=1 d=1.6998e-06 t=16941
+pu hui 	蒲惠	c=0 d=1.77037e-15 t=16941
+pu shi 	朴实	c=1 d=2.61436e-12 t=16941
+pu tong 	普通	c=3 d=4.76732e-11 t=16941
+pu tong ren 	普通人	c=1 d=1.84231e-12 t=16941
+qi 	七	c=0 d=0.00131019 t=16941
+qi 	其	c=3 d=0.00022263 t=16941
+qi 	器	c=5 d=0.783444 t=16941
+qi cai hong 	七彩虹	c=7 d=1.09757e-07 t=16941
+qi dian 	起点	c=1 d=3.44963e-09 t=16941
+qi dong 	启动	c=56 d=7.00145 t=16941
+qi dong pan 	启动盘	c=1 d=1.81051e-13 t=16941
+qi dong qu yu 	启动区域	c=1 d=7.35721e-08 t=16941
+qi lai 	起来	c=3 d=1.59492 t=16941
+qi ling 	欺凌	c=1 d=0.218712 t=16941
+qi quan 	齐全	c=0 d=0.0913931 t=16941
+qi sen li li 	七森莉莉	c=1 d=0.0131675 t=16941
+qi shi 	其实	c=1 d=9.71272e-11 t=16941
+qi shi 	骑士	c=0 d=1.34427e-11 t=16941
+qi ta 	其他	c=49 d=5.35013 t=16941
+qi te 	奇特	c=2 d=1 t=16941
+qi xiang 	七香	c=0 d=3.10199e-25 t=16941
+qi yong 	启用	c=4 d=0.687289 t=16941
+qi zhi 	弃之	c=3 d=5.03725e-14 t=16941
+qi zhong 	其中	c=1 d=3.96801e-09 t=16941
+qi zi 	弃子	c=1 d=5.44462e-25 t=16941
+qian 	前	c=1 d=0.000602152 t=16941
+qian bian 	前边	c=1 d=0.511709 t=16941
+qian li 	千里	c=1 d=0.0195597 t=16941
+qian nian 	前年	c=1 d=1.33089e-10 t=16941
+qian se 	浅色	c=3 d=2.13276 t=16941
+qian shi 	前十	c=1 d=0.00400585 t=16941
+qian tu 	前途	c=1 d=5.03388e-14 t=16941
+qian wen 	千问	c=1 d=1.76065e-08 t=16941
+qian xu 	谦虚	c=1 d=7.15947e-11 t=16941
+qian yi xie 	浅一些	c=1 d=0.891366 t=16941
+qian zhui 	前缀	c=1 d=9.94303e-22 t=16941
+qiang du 	强度	c=2 d=1.66322 t=16941
+qiang zhi 	强制	c=2 d=1.20532e-20 t=16941
+qiao jie 	桥接	c=3 d=2.56436e-19 t=16941
+qie 	切	c=3 d=4.47697e-17 t=16941
+qie dao 	切到	c=1 d=4.96316e-24 t=16941
+qie huan 	切换	c=23 d=4.0548 t=16941
+qie huan dao 	切换到	c=1 d=1.31063e-06 t=16941
+qie man 	且慢	c=0 d=2.95431e-10 t=16941
+qing 	清	c=1 d=0.941765 t=16941
+qing 	请	c=6 d=0.929423 t=16941
+qing ba 	请把	c=1 d=2.42835e-26 t=16941
+qing bao 	情报	c=1 d=0.00412784 t=16941
+qing chu 	清楚	c=1 d=3.89951e-10 t=16941
+qing chu 	清除	c=3 d=1.52943 t=16941
+qing dan 	清单	c=2 d=0.915686 t=16941
+qing hua 	清华	c=2 d=0.755784 t=16941
+qing hua yuan 	清华源	c=2 d=3.84453e-18 t=16941
+qing kuang 	情况	c=2 d=0.965605 t=16941
+qing kuang xia 	情况下	c=2 d=1.52681e-06 t=16941
+qing li 	清理	c=3 d=4.98533e-10 t=16941
+qing xi 	清晰	c=3 d=1.49299 t=16941
+qu 	区	c=0 d=2.20715e-21 t=16941
+qu 	去	c=9 d=3.56014 t=16941
+qu 	取	c=1 d=2.9289e-25 t=16941
+qu bie 	区别	c=15 d=1.87462 t=16941
+qu chu 	去除	c=1 d=0.955997 t=16941
+qu chu 	取出	c=2 d=3.26346e-25 t=16941
+qu diao 	去掉	c=5 d=0.015153 t=16941
+qu dong 	驱动	c=20 d=9.22348e-06 t=16941
+qu fan 	取反	c=1 d=3.14833e-22 t=16941
+qu fen 	区分	c=2 d=1.27376 t=16941
+qu le 	去了	c=3 d=0.965605 t=16941
+qu xiao 	取消	c=3 d=1.79453 t=16941
+qu yu 	区域	c=7 d=3.89125 t=16941
+quan 	全	c=1 d=1.04764e-11 t=16941
+quan bu 	全部	c=5 d=0.951505 t=16941
+quan guo 	全国	c=1 d=0.196912 t=16941
+quan ju 	全局	c=1 d=5.25646e-23 t=16941
+quan ping 	全屏	c=4 d=2.60335 t=16941
+quan wang le 	全忘了	c=1 d=1.0417e-10 t=16941
+quan xian 	权限	c=15 d=0.023895 t=16941
+quan zi 	圈子	c=1 d=3.22528e-12 t=16941
+que 	却	c=2 d=1.72999e-07 t=16941
+que ding 	确定	c=10 d=1.39436 t=16941
+que shi 	确实	c=2 d=9.84546e-16 t=16941
+ran hou 	然后	c=35 d=1.40077 t=16941
+rang 	让	c=16 d=5.25966 t=16941
+rang ni 	让你	c=4 d=2.16363 t=16941
+rao guo 	绕过	c=3 d=9.44366e-06 t=16941
+re dian 	热点	c=1 d=0.000198925 t=16941
+re dian xin hao 	热点信号	c=1 d=0.00199922 t=16941
+ren 	人	c=5 d=0.0287298 t=16941
+ren he 	任何	c=19 d=3.29119 t=16941
+ren jian 	人间	c=1 d=8.17312e-10 t=16941
+ren kou 	人口	c=1 d=0.198891 t=16941
+ren lei 	人类	c=1 d=9.28533e-11 t=16941
+ren li 	人力	c=0 d=2.19465e-13 t=16941
+ren li cheng ben 	人力成本	c=1 d=2.20565e-12 t=16941
+ren men 	人们	c=2 d=6.43139e-14 t=16941
+ren qing wei 	人情味	c=1 d=5.60757e-19 t=16941
+ren shi 	认识	c=1 d=1.99229e-21 t=16941
+ren wei 	认为	c=3 d=0.839457 t=16941
+ren wu 	人物	c=1 d=0.0323869 t=16941
+ren wu liang 	任务量	c=1 d=0.759572 t=16941
+ren zheng 	认证	c=0 d=2.00958e-06 t=16941
+ren zhi 	认知	c=5 d=3.04394e-15 t=16941
+ri ben 	日本	c=5 d=0.11861 t=16941
+ri yong 	日用	c=1 d=4.85826e-08 t=16941
+ri zhi 	日志	c=3 d=0.937067 t=16941
+ru ci 	如此	c=1 d=0.822835 t=16941
+ru gui 	入轨	c=0 d=1.12688e-24 t=16941
+ru gui o 	入轨哦	c=1 d=1.13253e-23 t=16941
+ru guo 	如果	c=67 d=5.47452 t=16941
+ru he 	如何	c=2 d=1.56162 t=16941
+ru mian 	入眠	c=4 d=0.94657 t=16941
+ru shang 	如上	c=3 d=2.26715 t=16941
+ru xia 	如下	c=35 d=6.62893 t=16941
+ru you 	如有	c=3 d=7.79723e-15 t=16941
+ruan jian 	软件	c=77 d=7.16086 t=16941
+ruo xian 	若仙	c=1 d=0.0812682 t=16941
+san ci 	三次	c=1 d=0.000430743 t=16941
+san fen zhong 	三分钟	c=1 d=0.000332125 t=16941
+san ge 	三个	c=9 d=1.54614 t=16941
+san guo 	三国	c=1 d=4.60861e-05 t=16941
+san nian 	三年	c=2 d=1.70411e-12 t=16941
+san shang you ya 	三上悠亚	c=1 d=1.77037e-14 t=16941
+san sheng 	三声	c=1 d=2.90479e-16 t=16941
+san sui 	三岁	c=1 d=0.0133665 t=16941
+san tian 	三天	c=3 d=2.40746e-15 t=16941
+san xing 	三星	c=1 d=1.30139e-11 t=16941
+san ye 	三叶	c=0 d=8.00856e-07 t=16941
+san yue 	三月	c=1 d=6.46143e-10 t=16941
+san zhong 	三种	c=3 d=5.40529e-19 t=16941
+se 	色	c=4 d=2.3713 t=16941
+se diao 	色调	c=1 d=0.818731 t=16941
+sen 	森	c=1 d=0.961693 t=16941
+sen ri 	森日	c=0 d=0.004573 t=16941
+sen ri xiang zi 	森日向子	c=2 d=0.107688 t=16941
+sha 	啥	c=2 d=1.51237e-10 t=16941
+sha 	纱	c=0 d=0.00475963 t=16941
+sha ye 	啥也	c=1 d=7.26767e-11 t=16941
+shan 	闪	c=3 d=2.82315e-14 t=16941
+shan bu diao 	删不掉	c=1 d=1.98647e-16 t=16941
+shan chu 	删除	c=36 d=2.94439 t=16941
+shan chu diao 	删除掉	c=1 d=3.50116e-07 t=16941
+shan dian 	闪电	c=1 d=7.73574e-10 t=16941
+shan diao 	删掉	c=2 d=4.90144e-11 t=16941
+shan ku 	删库	c=1 d=0.00242967 t=16941
+shan ku pao lu 	删库跑路	c=1 d=0.00250366 t=16941
+shan shui 	山水	c=1 d=0.0132999 t=16941
+shan shuo 	闪烁	c=1 d=4.17217e-11 t=16941
+shan xian 	闪现	c=1 d=7.6812e-15 t=16941
+shang 	上	c=32 d=2.20911 t=16941
+shang bian 	上边	c=10 d=3.64176 t=16941
+shang ceng 	上层	c=1 d=0.965605 t=16941
+shang chuan 	上传	c=4 d=1.64008 t=16941
+shang dian 	商店	c=1 d=1.01667e-18 t=16941
+shang fang 	上方	c=3 d=1.63333e-20 t=16941
+shang ji 	上级	c=0 d=5.73565e-21 t=16941
+shang ji lu you 	上级路由	c=1 d=5.7644e-20 t=16941
+shang jian tou 	上箭头	c=2 d=1.84626 t=16941
+shang wang 	上网	c=5 d=0.0337691 t=16941
+shang wo 	赏我	c=0 d=0.0694197 t=16941
+shang xia 	上下	c=2 d=2.4825e-17 t=16941
+shang xue 	上学	c=1 d=0.0862936 t=16941
+shang yi ban 	上一版	c=0 d=0.0755784 t=16941
+shang yi ban ben 	上一版本	c=1 d=0.759572 t=16941
+shang yi bu 	上一步	c=1 d=3.90761e-05 t=16941
+shang yi ci 	上一次	c=1 d=1.27715e-25 t=16941
+shang yi ge 	上一个	c=1 d=2.42002e-15 t=16941
+shao 	少	c=2 d=0.895834 t=16941
+she 	蛇	c=1 d=5.10197e-25 t=16941
+she bei 	设备	c=5 d=1.25727e-17 t=16941
+she hui 	社会	c=2 d=1.41094e-13 t=16941
+she ji 	设计	c=17 d=7.50995 t=16941
+she qu 	社区	c=4 d=3.03453e-13 t=16941
+she zhi 	设置	c=52 d=9.70575 t=16941
+she zhi cheng 	设置成	c=1 d=0.891366 t=16941
+she zhi le 	设置了	c=1 d=2.80727e-26 t=16941
+she zhi wei 	设置为	c=2 d=0.946485 t=16941
+shen fen 	身份	c=3 d=7.72981e-05 t=16941
+shen fen zheng 	身份证	c=2 d=4.63146e-05 t=16941
+shen fen zheng hao 	身份证号	c=2 d=3.7295e-05 t=16941
+shen gong si nai xu 	神宫寺奈绪	c=3 d=0.000262568 t=16941
+shen hui se 	深灰色	c=1 d=3.06215e-19 t=16941
+shen jing bing 	神经病	c=1 d=0.00355287 t=16941
+shen ling 	神灵	c=1 d=8.05144e-10 t=16941
+shen me 	什么	c=103 d=9.1253 t=16941
+shen mu 	神木	c=0 d=1.75276e-15 t=16941
+shen mu li 	神木丽	c=1 d=1.76155e-14 t=16941
+shen se 	深色	c=3 d=6.70662e-07 t=16941
+shen zhi 	甚至	c=2 d=2.34176e-10 t=16941
+sheng 	声	c=0 d=3.46032e-17 t=16941
+sheng 	生	c=0 d=6.57718e-14 t=16941
+sheng chan 	生产	c=1 d=2.94308e-23 t=16941
+sheng cheng 	生成	c=25 d=3.25305 t=16941
+sheng hua yin 	盛华银	c=2 d=0.937339 t=16941
+sheng ji 	升级	c=7 d=4.80971 t=16941
+sheng ji dao 	升级到	c=1 d=0.980199 t=16941
+sheng ji hou 	升级后	c=1 d=0.882497 t=16941
+sheng qian 	省钱	c=1 d=0.117068 t=16941
+sheng ren 	圣人	c=1 d=3.6084e-09 t=16941
+sheng xia 	剩下	c=2 d=1.02348e-07 t=16941
+sheng xiao 	生效	c=3 d=1.77193 t=16941
+sheng xin 	省心	c=1 d=1.01387e-15 t=16941
+sheng yin 	声音	c=20 d=4.18313 t=16941
+sheng yu 	剩余	c=5 d=4.56026e-11 t=16941
+shi 	事	c=2 d=1.20538e-10 t=16941
+shi 	使	c=3 d=6.61348e-11 t=16941
+shi 	式	c=1 d=8.94586e-14 t=16941
+shi 	时	c=33 d=5.82312 t=16941
+shi 	是	c=419 d=17.8511 t=16941
+shi bai 	失败	c=3 d=2.82335e-05 t=16941
+shi bie 	识别	c=2 d=0.00937227 t=16941
+shi bie du 	识别度	c=0 d=0.0763379 t=16941
+shi bu shi 	是不是	c=21 d=2.94695 t=16941
+shi cha 	时差	c=1 d=0.740818 t=16941
+shi chang 	市场	c=2 d=1.6339e-12 t=16941
+shi chang 	时长	c=3 d=1.42444e-15 t=16941
+shi dai jun feng 	时代峻峰	c=1 d=8.88885e-27 t=16941
+shi di fu 	史蒂夫	c=1 d=6.75057e-25 t=16941
+shi fen miao 	时分秒	c=2 d=0.000403635 t=16941
+shi fou 	是否	c=16 d=4.80289 t=16941
+shi ge 	是个	c=3 d=1.86529 t=16941
+shi he 	适合	c=1 d=0.467666 t=16941
+shi hou 	时候	c=14 d=3.43259 t=16941
+shi ji 	实际	c=8 d=1.69192 t=16941
+shi ji miao 	十几秒	c=4 d=2.34116e-22 t=16941
+shi ji nian 	十几年	c=1 d=6.87874e-11 t=16941
+shi ji wan 	十几万	c=1 d=5.27472e-05 t=16941
+shi jian 	事件	c=4 d=1.19841 t=16941
+shi jian 	时间	c=55 d=5.68107 t=16941
+shi jian dian 	时间点	c=1 d=2.94819e-14 t=16941
+shi jian xian 	时间线	c=2 d=3.41384e-15 t=16941
+shi jie 	世界	c=1 d=1.56506e-05 t=16941
+shi jing a ni 	是京阿尼	c=1 d=3.67367e-14 t=16941
+shi li keng die 	实力坑爹	c=0 d=1.62611e-15 t=16941
+shi li keng die jian fei 	实力坑爹减肥	c=1 d=1.63426e-14 t=16941
+shi ming ren zheng 	实名认证	c=2 d=4.64206e-05 t=16941
+shi nian 	十年	c=1 d=2.18593e-24 t=16941
+shi nian qian 	十年前	c=1 d=0.951229 t=16941
+shi o 	是哦	c=1 d=0.597501 t=16941
+shi pei 	适配	c=1 d=0.806541 t=16941
+shi pin 	视频	c=55 d=2.18571 t=16941
+shi qi 	时期	c=1 d=5.0888e-24 t=16941
+shi qing 	事情	c=5 d=0.104874 t=16941
+shi qu 	时区	c=2 d=1.40297 t=16941
+shi shen me 	是什么	c=2 d=1.60495e-07 t=16941
+shi shi 	实时	c=1 d=7.63095e-26 t=16941
+shi shi shang 	事实上	c=1 d=1.68724e-07 t=16941
+shi ti 	实体	c=0 d=8.77022e-17 t=16941
+shi ti ji 	实体机	c=1 d=8.81418e-16 t=16941
+shi xian 	实现	c=8 d=1.60604 t=16941
+shi xiao 	失效	c=1 d=0.843665 t=16941
+shi ye 	事业	c=1 d=4.23378e-07 t=16941
+shi yi 	是以	c=0 d=6.44256e-06 t=16941
+shi yi o gong neng 	是以哦功能	c=1 d=6.47485e-05 t=16941
+shi yo ni gan 	是哟你敢	c=1 d=2.70188e-17 t=16941
+shi yong 	使用	c=86 d=4.37242 t=16941
+shi you 	是有	c=1 d=0.932394 t=16941
+shi zhe 	试着	c=1 d=0.0026189 t=16941
+shi zhe yang 	是这样	c=1 d=1.99297e-25 t=16941
+shi zi 	十字	c=1 d=1.25467e-22 t=16941
+shou 	受	c=1 d=0.960789 t=16941
+shou bing 	手柄	c=1 d=0.995012 t=16941
+shou bu dao 	收不到	c=1 d=9.33029e-09 t=16941
+shou cha guan 	受茶馆	c=1 d=1.78817e-14 t=16941
+shou dao le 	受到了	c=0 d=4.68622e-26 t=16941
+shou dao le fu jin 	受到了附近	c=1 d=4.70971e-25 t=16941
+shou dong 	手动	c=12 d=1.8239 t=16941
+shou duan 	手段	c=3 d=8.7803e-12 t=16941
+shou fei 	收费	c=1 d=4.1249e-24 t=16941
+shou fou 	受否	c=1 d=0.778801 t=16941
+shou ji 	手机	c=22 d=0.135226 t=16941
+shou ji hao 	手机号	c=6 d=0.000225328 t=16941
+shou ji shang 	手机上	c=1 d=7.60736e-19 t=16941
+shou quan 	授权	c=2 d=0.000196168 t=16941
+shou xian 	首先	c=1 d=5.00537e-06 t=16941
+shou xuan 	首选	c=1 d=1.65181e-22 t=16941
+shu 	书	c=2 d=0.000106329 t=16941
+shu 	树	c=1 d=7.09688e-19 t=16941
+shu ba 	书吧	c=0 d=0.000386807 t=16941
+shu biao 	鼠标	c=11 d=3.65282 t=16941
+shu chu 	输出	c=31 d=5.99218 t=16941
+shu dan 	书单	c=2 d=2.72226e-09 t=16941
+shu dong 	树洞	c=20 d=3.18875 t=16941
+shu guan 	树冠	c=2 d=4.25232e-19 t=16941
+shu ju 	数据	c=13 d=0.540641 t=16941
+shu ju ku 	数据库	c=1 d=1.68083e-21 t=16941
+shu ju xian 	数据线	c=4 d=1.95282e-05 t=16941
+shu li 	梳理	c=2 d=1.03803e-05 t=16941
+shu lian 	熟练	c=2 d=1.58257e-10 t=16941
+shu liang 	数量	c=1 d=6.47926e-13 t=16941
+shu ming 	书名	c=1 d=3.51931e-09 t=16941
+shu nv 	熟女	c=2 d=0.176921 t=16941
+shu qian 	书签	c=2 d=0.856415 t=16941
+shu ru 	输入	c=56 d=9.56658 t=16941
+shu ru fa 	输入法	c=13 d=1.94566 t=16941
+shu ru kuang 	输入框	c=5 d=0.998252 t=16941
+shu shi 	属实	c=1 d=2.93299e-12 t=16941
+shu wo zhi yan 	恕我直言	c=1 d=2.5371e-12 t=16941
+shu xing 	属性	c=1 d=2.32513e-15 t=16941
+shu xing 	树形	c=1 d=1.93308e-19 t=16941
+shu yo you 	树哟有	c=1 d=7.41575e-13 t=16941
+shu yu 	属于	c=1 d=1.21341e-11 t=16941
+shu zhi 	数值	c=1 d=8.7339e-26 t=16941
+shu zi 	数字	c=3 d=0.000431467 t=16941
+shua xin 	刷新	c=2 d=6.01873e-23 t=16941
+shuang 	霜	c=1 d=7.04186e-22 t=16941
+shuang ji 	双击	c=2 d=0.990943 t=16941
+shuang xi tong 	双系统	c=1 d=1.00378e-15 t=16941
+shui 	谁	c=6 d=2.96357e-10 t=16941
+shui o 	谁哦	c=0 d=1.04422e-10 t=16941
+shui ping 	水平	c=1 d=2.91836e-12 t=16941
+shun xu 	顺序	c=3 d=0.865022 t=16941
+shuo 	说	c=9 d=1.4254 t=16941
+shuo che 	说车	c=1 d=0.19205 t=16941
+shuo ji ju 	说几句	c=1 d=3.53323e-26 t=16941
+shuo le yi ju 	说了一句	c=0 d=0.0970446 t=16941
+shuo ming 	说明	c=3 d=0.819697 t=16941
+shuo wo 	说我	c=1 d=0.194952 t=16941
+shuo yi xia 	说一下	c=1 d=1.93276e-17 t=16941
+si 	四	c=1 d=1.65896e-14 t=16941
+si bai duo 	四百多	c=1 d=1.20715e-09 t=16941
+si chou 	丝绸	c=1 d=1.88895e-12 t=16941
+si sheng 	四声	c=1 d=3.53022e-16 t=16941
+si shi duo 	四十多	c=1 d=3.08284e-10 t=16941
+si yao 	私钥	c=1 d=3.10949e-23 t=16941
+si ye 	四叶	c=0 d=2.30756e-15 t=16941
+si you 	私有	c=1 d=1.25164e-23 t=16941
+si zhong 	四种	c=1 d=0.00208081 t=16941
+song le 	松了	c=1 d=8.15757e-17 t=16941
+sou bu dao 	搜不到	c=1 d=9.28375e-09 t=16941
+sou cha 	搜查	c=0 d=1.78817e-15 t=16941
+sou cha guan 	搜查官	c=1 d=1.79713e-14 t=16941
+sou hu 	搜狐	c=1 d=0.245367 t=16941
+sou le 	搜了	c=1 d=0.00263203 t=16941
+sou suo 	搜索	c=9 d=2.68769 t=16941
+sou suo jie guo 	搜索结果	c=1 d=0.276651 t=16941
+sou suo kuang 	搜索框	c=1 d=0.582748 t=16941
+su cai 	素材	c=1 d=5.52408e-19 t=16941
+su du 	速度	c=12 d=2.60717 t=16941
+suan bu suan 	算不算	c=1 d=4.95894e-14 t=16941
+suan le 	算了	c=1 d=0.683861 t=16941
+sui bian 	随便	c=2 d=0.84486 t=16941
+sui ji 	随机	c=3 d=0.932394 t=16941
+sui ran 	虽然	c=1 d=0.913931 t=16941
+sui xin suo yu 	随心所欲	c=1 d=9.83907e-16 t=16941
+sun huai 	损坏	c=1 d=2.89877e-21 t=16941
+suo 	所	c=1 d=3.91093e-15 t=16941
+suo xiao 	缩小	c=1 d=2.92741e-19 t=16941
+suo xie 	缩写	c=1 d=4.7203e-22 t=16941
+suo yi 	所以	c=6 d=1.06807e-10 t=16941
+suo you 	所有	c=23 d=3.22363 t=16941
+suo you ren 	所有人	c=1 d=4.75462e-19 t=16941
+suo you zhe 	所有者	c=1 d=1.2292e-16 t=16941
+ta 	她	c=2 d=9.3866e-12 t=16941
+ta 	它	c=15 d=2.99864 t=16941
+ta men 	他们	c=9 d=0.99005 t=16941
+tai 	台	c=2 d=7.73795e-12 t=16941
+tai 	太	c=5 d=1.39335 t=16941
+tai chang 	太长	c=2 d=1.51385 t=16941
+tai da 	太大	c=3 d=0.878772 t=16941
+tai duo 	太多	c=1 d=2.44942e-10 t=16941
+tai fu za 	太复杂	c=1 d=2.07325e-19 t=16941
+tai gan jing 	台干净	c=1 d=3.82295e-12 t=16941
+tai guo 	太过	c=1 d=0.0941765 t=16941
+tai guo lao jiu 	太过老旧	c=1 d=0.946485 t=16941
+tai lao lei le 	太劳累了	c=0 d=5.83145e-10 t=16941
+tai li jie 	太理解	c=1 d=0.891366 t=16941
+tai ma fan 	太麻烦	c=1 d=0.826959 t=16941
+tai man 	太慢	c=4 d=2.10535e-17 t=16941
+tai shen 	太深	c=1 d=0.748264 t=16941
+tai shi ji 	台式机	c=1 d=5.45592e-20 t=16941
+tai xiao 	太小	c=2 d=3.26009e-05 t=16941
+tai zi 	太子	c=1 d=0.00442715 t=16941
+tan chu 	弹出	c=3 d=0.00134253 t=16941
+tan chuang 	弹窗	c=8 d=0.765746 t=16941
+tao bao 	淘宝	c=3 d=6.34056e-05 t=16941
+te bie 	特别	c=2 d=0.0850088 t=16941
+te shu 	特殊	c=2 d=1.71285 t=16941
+teng 	藤	c=0 d=1.77037e-15 t=16941
+teng da 	腾达	c=6 d=0.00869107 t=16941
+teng pu hui 	藤浦恵	c=1 d=1.80614e-14 t=16941
+teng pu hui 	藤浦惠	c=3 d=5.50995e-14 t=16941
+teng pu hui 	藤蒲惠	c=1 d=1.77925e-14 t=16941
+teng tong 	疼痛	c=0 d=0.00014018 t=16941
+teng tong da 	疼痛大	c=1 d=0.00140882 t=16941
+teng xun 	腾讯	c=2 d=0.0424257 t=16941
+teng xun wang 	腾讯网	c=1 d=0.240508 t=16941
+ti 	剃	c=1 d=0.280832 t=16941
+ti 	梯	c=1 d=3.48548e-13 t=16941
+ti 	體	c=1 d=3.73884e-15 t=16941
+ti a 	提啊	c=0 d=0.26996 t=16941
+ti a ji ai 	提啊极爱	c=1 d=0.937067 t=16941
+ti a ji jia 	提啊几家	c=1 d=0.932394 t=16941
+ti a lao 	提啊老	c=1 d=0.941765 t=16941
+ti an 	提案	c=0 d=4.11005e-12 t=16941
+ti dai 	替代	c=8 d=0.944213 t=16941
+ti dao 	提到	c=1 d=1.05199e-08 t=16941
+ti dia 	剃嗲	c=1 d=0.965605 t=16941
+ti gong 	提供	c=4 d=0.847894 t=16941
+ti huan 	替换	c=3 d=1.29728 t=16941
+ti huan cheng 	替换成	c=1 d=2.33115e-16 t=16941
+ti huan hou 	替换后	c=1 d=8.51247e-18 t=16941
+ti jiao 	提交	c=4 d=1.07431e-19 t=16941
+ti qu 	提取	c=2 d=4.25573e-09 t=16941
+ti qu chu 	提取出	c=1 d=1.04457e-13 t=16941
+ti shi 	提示	c=53 d=8.3663 t=16941
+ti wen 	提问	c=3 d=1.73513e-20 t=16941
+ti xing 	提醒	c=6 d=0.967295 t=16941
+ti zi 	梯子	c=7 d=0.0287015 t=16941
+tian 	天	c=5 d=0.000387228 t=16941
+tian chong 	填充	c=1 d=1.87595e-19 t=16941
+tian hei 	天黑	c=3 d=0.000125955 t=16941
+tian hou 	天后	c=1 d=0.000106752 t=16941
+tian ji 	天际	c=1 d=0.740818 t=16941
+tian jia 	添加	c=50 d=4.89172 t=16941
+tian kong 	天空	c=2 d=6.75884e-10 t=16941
+tian nei 	天内	c=1 d=0.000105163 t=16941
+tian qi 	天气	c=5 d=2.06628 t=16941
+tian ru 	填入	c=1 d=3.20418e-23 t=16941
+tian shi 	天使	c=0 d=0.00450492 t=16941
+tian xie 	填写	c=1 d=1.78016e-20 t=16941
+tian yi 	天意	c=0 d=0.000114197 t=16941
+tian yi yun 	天翼云	c=0 d=0.000114769 t=16941
+tian yi yun pan 	天意云盘	c=1 d=0.00114769 t=16941
+tian yi yun pan 	天翼云盘	c=1 d=0.00115345 t=16941
+tiao 	条	c=3 d=0.755784 t=16941
+tiao jian 	条件	c=1 d=1.1398e-10 t=16941
+tiao jie 	调节	c=5 d=1.86933 t=16941
+tiao jin qu 	跳进去	c=1 d=7.03826e-16 t=16941
+tiao se ban 	调色板	c=1 d=0.882497 t=16941
+tiao shi 	调试	c=1 d=3.75758e-15 t=16941
+tiao yi xia 	调一下	c=1 d=0.697676 t=16941
+tiao zheng 	调整	c=10 d=1.24391 t=16941
+tiao zhuan 	跳转	c=1 d=4.91979e-09 t=16941
+tiao zhuan dao 	跳转到	c=1 d=7.59831e-05 t=16941
+tie ji 	铁骑	c=0 d=0.00420036 t=16941
+ting 	停	c=0 d=0.0726149 t=16941
+ting 	听	c=3 d=1.8506e-06 t=16941
+ting che fei 	停车费	c=1 d=0.0898153 t=16941
+ting dong 	听懂	c=1 d=1.9431e-21 t=16941
+ting dun 	停顿	c=1 d=0.0319048 t=16941
+ting fu 	停服	c=1 d=0.0430669 t=16941
+ting ge 	听歌	c=1 d=2.15082e-10 t=16941
+ting hao 	挺好	c=2 d=0.970446 t=16941
+ting ji 	停机	c=1 d=9.23745e-09 t=16941
+ting li hai 	挺厉害	c=1 d=9.35762e-14 t=16941
+ting liu 	停留	c=1 d=7.49666e-23 t=16941
+ting ri 	听日	c=1 d=1.13686e-09 t=16941
+ting shu 	听书	c=3 d=5.43575e-06 t=16941
+ting shuo 	听说	c=1 d=9.21831e-14 t=16941
+ting yi hui 	停一会	c=1 d=0.729789 t=16941
+ting zhi 	停止	c=0 d=5.48234e-19 t=16941
+ting zhi an zhuang 	停止安装	c=1 d=5.50982e-18 t=16941
+tong 	同	c=2 d=0.802519 t=16941
+tong bu 	同步	c=2 d=1.32558e-20 t=16941
+tong guan 	通关	c=1 d=1.32426e-10 t=16941
+tong guo 	通过	c=10 d=0.00867215 t=16941
+tong hang 	通航	c=1 d=0.150318 t=16941
+tong hua 	通话	c=1 d=1.39576e-11 t=16941
+tong ji 	统计	c=2 d=0.680451 t=16941
+tong lei 	同类	c=2 d=1.38856e-09 t=16941
+tong lei xing 	同类型	c=1 d=0.955997 t=16941
+tong pei fu 	通配符	c=1 d=0.847894 t=16941
+tong tou gan 	通透感	c=0 d=9.5039e-21 t=16941
+tong xu 	通许	c=6 d=2.31526 t=16941
+tong xue 	同学	c=3 d=0.70054 t=16941
+tong yang 	同样	c=2 d=0.865031 t=16941
+tong ye wei fan 	通野未帆	c=2 d=3.9426e-14 t=16941
+tong yi 	统一	c=4 d=1.92154 t=16941
+tong yi 	通义	c=3 d=3.30565e-08 t=16941
+tong yi ge 	同一个	c=1 d=9.90893e-11 t=16941
+tong yi qian wen 	通义千问	c=6 d=3.08455e-08 t=16941
+tong yi shi yong 	统一使用	c=1 d=0.524663 t=16941
+tong yong 	通用	c=2 d=9.1693e-20 t=16941
+tong zhi 	通知	c=5 d=0.00127699 t=16941
+tou 	头	c=1 d=3.47648e-12 t=16941
+tou ming 	透明	c=4 d=2.70253 t=16941
+tou ming du 	透明度	c=6 d=2.46046 t=16941
+tou xiang 	头像	c=1 d=3.1723e-23 t=16941
+tou xu 	头绪	c=1 d=9.54828e-16 t=16941
+tou zhe 	透着	c=1 d=6.82677e-10 t=16941
+tu 	图	c=3 d=0.909373 t=16941
+tu biao 	图标	c=43 d=8.78121 t=16941
+tu biao dou 	图标都	c=1 d=0.904837 t=16941
+tu pian 	图片	c=16 d=4.85747 t=16941
+tu si 	吐司	c=1 d=7.19903e-17 t=16941
+tu xing 	图形	c=1 d=1.10078e-12 t=16941
+tuan jie 	团结	c=1 d=9.9569e-09 t=16941
+tui 	推	c=2 d=5.01194e-12 t=16941
+tui ce 	推测	c=1 d=0.843665 t=16941
+tui chi 	推迟	c=1 d=0.690734 t=16941
+tui chu 	退出	c=11 d=3.98538 t=16941
+tui dan 	退单	c=1 d=3.60031e-12 t=16941
+tui dong 	推动	c=2 d=2.95317e-20 t=16941
+tui hui 	退回	c=1 d=0.755784 t=16941
+tui jian 	推荐	c=12 d=0.977602 t=16941
+tui jian an 	推荐按	c=1 d=6.08515e-10 t=16941
+tui song 	推送	c=14 d=2.65589e-19 t=16941
+tuo guan 	托管	c=0 d=7.34946e-26 t=16941
+tuo li 	脱离	c=1 d=7.62446e-16 t=16941
+tuo pan 	托盘	c=11 d=5.0822e-07 t=16941
+wan 	万	c=3 d=0.0136113 t=16941
+wan 	完	c=3 d=4.30889e-08 t=16941
+wan 	玩	c=4 d=1.52664 t=16941
+wan ben 	完本	c=4 d=4.73027e-09 t=16941
+wan bi 	完毕	c=1 d=1.54949e-05 t=16941
+wan cheng 	完成	c=7 d=1.00243 t=16941
+wan cheng du 	完成度	c=1 d=0.474734 t=16941
+wan er 	玩儿	c=0 d=7.11021e-19 t=16941
+wan ju 	玩具	c=1 d=7.08823e-11 t=16941
+wan le 	完了	c=1 d=4.64844e-18 t=16941
+wan le nong jia 	万乐农家	c=1 d=3.26724e-17 t=16941
+wan mei 	完美	c=1 d=1.55726e-05 t=16941
+wan neng 	万能	c=0 d=0.000201931 t=16941
+wan neng zhong ji 	万能中继	c=1 d=0.00202943 t=16941
+wan qu 	弯曲	c=0 d=0.0946485 t=16941
+wan qu na 	弯曲那	c=1 d=0.951229 t=16941
+wan quan 	完全	c=8 d=1.75522 t=16941
+wan shan 	完善	c=1 d=0.00173804 t=16941
+wan you xi 	玩游戏	c=2 d=1.32762e-10 t=16941
+wan zheng 	完整	c=2 d=3.137e-09 t=16941
+wan zu zhi jie 	万族之劫	c=2 d=2.52556e-09 t=16941
+wang 	往	c=0 d=2.88834e-09 t=16941
+wang 	网	c=1 d=0.0244987 t=16941
+wang bao qiang 	王宝强	c=1 d=4.24619e-12 t=16941
+wang gou 	网购	c=3 d=3.73237e-05 t=16941
+wang gou xian 	网购线	c=1 d=1.10841e-05 t=16941
+wang guan 	网关	c=2 d=1.99082e-17 t=16941
+wang ji 	忘记	c=2 d=0.955997 t=16941
+wang ji mi ma 	忘记密码	c=1 d=6.63876e-05 t=16941
+wang ka 	网卡	c=5 d=8.68e-12 t=16941
+wang ka shu 	网卡树	c=1 d=5.40072e-18 t=16941
+wang le 	忘了	c=4 d=0.965615 t=16941
+wang liu 	望留	c=0 d=0.0748264 t=16941
+wang liu o 	望留哦	c=1 d=0.752014 t=16941
+wang luo 	网络	c=37 d=0.698619 t=16941
+wang luo chuan shu 	网络传输	c=1 d=9.045e-26 t=16941
+wang luo pei zhi 	网络配置	c=1 d=1.13138e-11 t=16941
+wang luo shang 	网络上	c=1 d=0.759572 t=16941
+wang luo tu biao 	网络图标	c=1 d=8.75502e-25 t=16941
+wang luo wen ti 	网络问题	c=1 d=1.57859e-18 t=16941
+wang nian ti 	往年题	c=1 d=0.000437252 t=16941
+wang pan 	网盘	c=5 d=0.00472156 t=16941
+wang shang 	网上	c=4 d=1.07898 t=16941
+wang su 	网速	c=8 d=1.73078e-16 t=16941
+wang xi na 	往吸纳	c=1 d=2.90281e-08 t=16941
+wang xian 	网线	c=12 d=2.91736e-08 t=16941
+wang ye 	网页	c=7 d=0.000939653 t=16941
+wang yi 	网易	c=1 d=8.46137e-06 t=16941
+wang you 	网游	c=3 d=1.07698 t=16941
+wang zhan 	网站	c=12 d=0.931584 t=16941
+wang zhi 	网址	c=1 d=0.873716 t=16941
+wei 	为	c=63 d=3.97654 t=16941
+wei 	未	c=2 d=0.0143775 t=16941
+wei bang ding 	未绑定	c=1 d=2.08116e-05 t=16941
+wei bu 	尾部	c=1 d=0.960789 t=16941
+wei e yi 	为恶意	c=1 d=2.4431e-09 t=16941
+wei gen zong 	未跟踪	c=1 d=2.92035e-20 t=16941
+wei he 	为何	c=1 d=2.67226e-05 t=16941
+wei ji lu 	未记录	c=1 d=0.00848038 t=16941
+wei jie jue 	为解决	c=1 d=0.97531 t=16941
+wei jiu xu 	未就绪	c=1 d=1.31264e-24 t=16941
+wei le 	为了	c=2 d=0.802519 t=16941
+wei le jiu ren 	为了救人	c=0 d=4.75705e-26 t=16941
+wei le jiu ren fo le wo 	为了救人佛了我	c=1 d=4.78089e-25 t=16941
+wei li 	为例	c=2 d=1.37836 t=16941
+wei ming kong jian 	未名空间	c=1 d=0.00384878 t=16941
+wei ren zheng 	未认证	c=1 d=2.01965e-05 t=16941
+wei ruan 	微软	c=1 d=0.000739157 t=16941
+wei ruan ya hei 	微软雅黑	c=1 d=4.39131e-25 t=16941
+wei shen me 	为什么	c=17 d=2.65768 t=16941
+wei shi yong 	未使用	c=1 d=1.31153e-14 t=16941
+wei tuo guan 	未托管	c=10 d=1.42151e-23 t=16941
+wei xiao 	微小	c=1 d=6.3542e-19 t=16941
+wei xin 	微信	c=6 d=0.818731 t=16941
+wei yi 	唯一	c=2 d=2.60756e-09 t=16941
+wei zhao dao 	未找到	c=2 d=6.26833e-06 t=16941
+wei zhi 	位置	c=6 d=2.50674 t=16941
+wei zhi 	未知	c=5 d=0.00427099 t=16941
+wei zhun 	为准	c=1 d=1.4093e-07 t=16941
+wen 	文	c=2 d=1.10524 t=16941
+wen 	问	c=4 d=3.48512 t=16941
+wen ben 	文本	c=7 d=0.170336 t=16941
+wen dang 	文档	c=23 d=7.84472 t=16941
+wen ding 	稳定	c=1 d=0.625002 t=16941
+wen du 	温度	c=2 d=0.220159 t=16941
+wen guo 	问过	c=1 d=0.932394 t=16941
+wen hao 	问号	c=2 d=8.09966e-25 t=16941
+wen ji 	文集	c=0 d=1.38592e-17 t=16941
+wen ji ai ni 	文集爱你	c=1 d=1.39286e-16 t=16941
+wen jian 	文件	c=234 d=9.50883 t=16941
+wen jian de 	文件的	c=1 d=0.00108086 t=16941
+wen jian guan li 	文件管理	c=1 d=2.48086e-13 t=16941
+wen jian jia 	文件夹	c=7 d=0.000292571 t=16941
+wen jian ming 	文件名	c=2 d=0.955997 t=16941
+wen shi jian 	问世间	c=2 d=1.14487e-24 t=16941
+wen shi jian qing wei he wu 	问世间情为何物	c=1 d=8.58312e-27 t=16941
+wen ti 	问题	c=80 d=5.29721 t=16941
+wen xin 	文心	c=1 d=6.71005e-13 t=16941
+wen zhang 	文章	c=1 d=0.440432 t=16941
+wen zi 	文字	c=13 d=2.27886 t=16941
+wo 	我	c=355 d=13.6316 t=16941
+wo de 	我的	c=1 d=6.07357e-17 t=16941
+wo er ma 	沃尔玛	c=1 d=4.82894e-25 t=16941
+wo guo 	我国	c=1 d=0.491644 t=16941
+wo jia 	我家	c=2 d=6.51424e-09 t=16941
+wo men 	我们	c=3 d=3.64278e-21 t=16941
+wo pa 	我怕	c=1 d=0.0267827 t=16941
+wo ye 	我也	c=1 d=0.941765 t=16941
+wo zai 	我在	c=3 d=1.46707e-09 t=16941
+wu 	无	c=3 d=0.0822843 t=16941
+wu fa 	无法	c=42 d=3.29091 t=16941
+wu fen zhong 	五分钟	c=1 d=0.900325 t=16941
+wu fu 	武夫	c=1 d=5.91757e-05 t=16941
+wu ge 	五个	c=1 d=1.17208e-15 t=16941
+wu guan 	无关	c=2 d=0.878095 t=16941
+wu lun 	无论	c=4 d=0.910164 t=16941
+wu ma 	无码	c=1 d=0.000263884 t=16941
+wu suan 	戊酸	c=1 d=4.69356e-14 t=16941
+wu ti shi 	无提示	c=1 d=0.826959 t=16941
+wu xi 	五吸	c=1 d=0.918512 t=16941
+wu xian 	无线	c=9 d=0.0665368 t=16941
+wu xian wang ka 	无线网卡	c=1 d=5.56614e-20 t=16941
+wu xian zhong ji 	无线中继	c=1 d=7.43874e-20 t=16941
+wu xiao 	无效	c=24 d=5.92088 t=16941
+wu xin hao 	无信号	c=2 d=3.87001e-16 t=16941
+wu yan liu se 	五颜六色	c=1 d=0.818731 t=16941
+wu yan zhang qi 	乌烟瘴气	c=1 d=3.19319e-12 t=16941
+wu yi 	五一	c=1 d=0.0587185 t=16941
+wu yi 	无疑	c=1 d=0.0584257 t=16941
+xi 	洗	c=1 d=1.90793e-12 t=16941
+xi 	系	c=1 d=4.56819e-19 t=16941
+xi ai 	喜爱	c=0 d=1.22182e-05 t=16941
+xi dao ai li 	希岛爱理	c=2 d=2.10583e-13 t=16941
+xi gu zhu li 	希谷朱里	c=1 d=0.0157644 t=16941
+xi guan 	习惯	c=2 d=0.901702 t=16941
+xi hao 	喜好	c=1 d=0.878095 t=16941
+xi huan 	喜欢	c=5 d=1.1762 t=16941
+xi li er 	西里尔	c=0 d=1.98749e-23 t=16941
+xi li er wen 	西里尔文	c=1 d=1.99745e-22 t=16941
+xi lie 	系列	c=1 d=0.0160027 t=16941
+xi na 	吸纳	c=0 d=2.88834e-09 t=16941
+xi ni 	细腻	c=0 d=1.90366e-16 t=16941
+xi ping 	息屏	c=11 d=3.9875e-11 t=16941
+xi ping hou 	息屏后	c=1 d=1.04727e-14 t=16941
+xi tang 	西塘	c=1 d=3.31549e-13 t=16941
+xi ti 	喜提	c=1 d=5.09937e-19 t=16941
+xi ting 	烯烃	c=1 d=1.05088e-25 t=16941
+xi tong 	系统	c=54 d=4.34007 t=16941
+xi tong pan 	系统盘	c=1 d=1.57398e-13 t=16941
+xi tong tuo pan 	系统托盘	c=2 d=1.9073e-24 t=16941
+xi wang 	希望	c=2 d=1.47087e-10 t=16941
+xi xi 	嘻嘻	c=1 d=0.995012 t=16941
+xia 	下	c=27 d=2.18301 t=16941
+xia ban le 	下班了	c=1 d=5.17908e-25 t=16941
+xia bian 	下边	c=9 d=1.84584 t=16941
+xia ci 	下次	c=0 d=2.17732e-08 t=16941
+xia ci an shi gao 	下次安世高	c=1 d=2.54367e-13 t=16941
+xia ci ang 	下次昂	c=1 d=0.162257 t=16941
+xia fang 	下方	c=5 d=0.752014 t=16941
+xia hang 	厦航	c=1 d=6.32036e-15 t=16941
+xia jian tou 	下箭头	c=2 d=1.83705 t=16941
+xia ma 	下马	c=1 d=0.0140519 t=16941
+xia mian 	下面	c=1 d=1.00864e-13 t=16941
+xia qi 	下棋	c=1 d=7.52654e-11 t=16941
+xia sang ju 	夏桑菊	c=2 d=9.85311e-25 t=16941
+xia shuo 	瞎说	c=2 d=5.8591e-05 t=16941
+xia si 	吓死	c=1 d=1.73863e-07 t=16941
+xia yi ge 	下一个	c=2 d=1.43006e-12 t=16941
+xia zai 	下载	c=65 d=7.06831 t=16941
+xia zhi 	下肢	c=0 d=7.32675e-19 t=16941
+xia zhi a 	下肢啊	c=1 d=7.36347e-18 t=16941
+xian 	先	c=4 d=0.965605 t=16941
+xian 	现	c=1 d=2.94108e-15 t=16941
+xian 	线	c=9 d=3.63175e-05 t=16941
+xian ce shi 	先测试	c=1 d=0.748264 t=16941
+xian chao 	仙朝	c=3 d=0.000134863 t=16941
+xian cheng 	县城	c=2 d=1.05539e-09 t=16941
+xian cheng 	线程	c=1 d=5.31669e-10 t=16941
+xian dai 	现代	c=1 d=5.77146e-05 t=16941
+xian de 	显得	c=1 d=3.34017e-12 t=16941
+xian guan 	县官	c=1 d=0.831104 t=16941
+xian ka 	显卡	c=35 d=3.96495 t=16941
+xian ran 	显然	c=2 d=7.10384e-21 t=16941
+xian shi 	显示	c=118 d=11.5662 t=16941
+xian shi 	现实	c=1 d=7.66268e-16 t=16941
+xian shi qi 	显示器	c=11 d=2.39683 t=16941
+xian shi she zhi 	显示设置	c=1 d=3.18332e-05 t=16941
+xian shi wei 	显示为	c=1 d=0.782705 t=16941
+xian shi zai 	显示在	c=1 d=1.42173e-22 t=16941
+xian shu 	闲书	c=2 d=0.000911882 t=16941
+xian su 	限速	c=5 d=0.00540118 t=16941
+xian xia 	闲暇	c=1 d=6.64215e-11 t=16941
+xian xue cheng 	鲜血橙	c=1 d=5.23753e-10 t=16941
+xian yan 	鲜艳	c=2 d=1.26334 t=16941
+xian you 	现有	c=1 d=1.54281e-13 t=16941
+xian zai 	现在	c=41 d=4.27968 t=16941
+xian zhi 	限制	c=7 d=0.00121259 t=16941
+xiang 	像	c=2 d=0.271173 t=16941
+xiang 	向	c=3 d=0.993367 t=16941
+xiang 	想	c=31 d=3.41916 t=16941
+xiang 	项	c=2 d=0.918512 t=16941
+xiang 	香	c=1 d=2.19502e-14 t=16941
+xiang ba 	想把	c=6 d=0.927892 t=16941
+xiang deng 	相等	c=1 d=2.82816e-25 t=16941
+xiang guan 	相关	c=11 d=2.18573 t=16941
+xiang kan 	想看	c=1 d=7.90975e-07 t=16941
+xiang ling 	响铃	c=13 d=0.00264416 t=16941
+xiang ling jie shu 	响铃结束	c=1 d=0.000599149 t=16941
+xiang mu 	项目	c=2 d=6.95579e-22 t=16941
+xiang shang 	向上	c=2 d=0.527292 t=16941
+xiang shang fu zhi hang 	向上复制行	c=1 d=8.90882e-24 t=16941
+xiang shi 	像是	c=1 d=0.951229 t=16941
+xiang shuo 	详说	c=1 d=0.774916 t=16941
+xiang su 	像素	c=2 d=0.980199 t=16941
+xiang tong 	相同	c=2 d=0.932412 t=16941
+xiang xi 	详细	c=7 d=0.00134686 t=16941
+xiang xia 	向下	c=1 d=8.64553e-24 t=16941
+xiang yao 	想要	c=31 d=2.63783 t=16941
+xiang zai 	想在	c=2 d=0.718924 t=16941
+xiang zhao 	想找	c=2 d=0.00152426 t=16941
+xiang zhe 	想着	c=1 d=0.000164106 t=16941
+xiang zhi dao 	想知道	c=3 d=0.108609 t=16941
+xiang zuo 	想做	c=1 d=1.12846e-10 t=16941
+xiao 	小	c=7 d=0.162539 t=16941
+xiao 	效	c=1 d=0.882497 t=16941
+xiao 	笑	c=1 d=2.17955e-19 t=16941
+xiao bai 	小白	c=9 d=0.937067 t=16941
+xiao ban qi xiang 	小坂七香	c=2 d=1.72666e-14 t=16941
+xiao bi 	小臂	c=0 d=6.33672e-17 t=16941
+xiao bi a 	小臂啊	c=1 d=6.36848e-16 t=16941
+xiao cou si ye 	小凑四叶	c=8 d=0.12013 t=16941
+xiao guo 	效果	c=13 d=2.25276 t=16941
+xiao hai 	小孩	c=1 d=0.0134335 t=16941
+xiao hei 	小黑	c=0 d=7.56685e-16 t=16941
+xiao hei kuai 	小黑块	c=1 d=7.60478e-15 t=16941
+xiao liang 	销量	c=1 d=0.980199 t=16941
+xiao mi 	小米	c=1 d=1.0116e-18 t=16941
+xiao mu biao 	小目标	c=1 d=1.57752e-10 t=16941
+xiao nv hai 	小女孩	c=1 d=3.05268e-12 t=16941
+xiao san xian 	小散仙	c=0 d=9.69424e-19 t=16941
+xiao shi 	小时	c=2 d=0.000356206 t=16941
+xiao shi 	消失	c=11 d=2.25444 t=16941
+xiao shou jia 	销售价	c=1 d=2.21708e-14 t=16941
+xiao shui o 	小谁哦	c=1 d=1.04945e-09 t=16941
+xiao shuo 	小说	c=26 d=0.000309768 t=16941
+xiao shuo ming 	小说名	c=1 d=4.49635e-09 t=16941
+xiao wen jian 	小文件	c=1 d=9.17858e-22 t=16941
+xiao xie 	小写	c=3 d=1.67473 t=16941
+xiao yao 	逍遥	c=0 d=9.69424e-19 t=16941
+xiao yao xiao san xian 	逍遥小散仙	c=1 d=9.74283e-18 t=16941
+xiao yin 	小音	c=1 d=7.72628e-25 t=16941
+xiao you xi 	小游戏	c=2 d=1.52846 t=16941
+xiao zei 	小贼	c=1 d=0.000300519 t=16941
+xiao zi 	小字	c=1 d=0.737123 t=16941
+xie 	些	c=18 d=5.53512 t=16941
+xie 	写	c=27 d=5.22491 t=16941
+xie cheng 	写成	c=1 d=0.865022 t=16941
+xie dai ma 	写代码	c=1 d=7.75576e-11 t=16941
+xie fa 	写法	c=2 d=1.37541 t=16941
+xie ge 	写个	c=1 d=0.70822 t=16941
+xie hao 	写好	c=4 d=2.48997 t=16941
+xie le 	写了	c=3 d=0.690734 t=16941
+xie ming 	写明	c=1 d=0.97531 t=16941
+xie ru 	写入	c=6 d=3.19363e-06 t=16941
+xie shang qu 	写上去	c=1 d=0.960789 t=16941
+xie shi 	写实	c=1 d=1.9043e-19 t=16941
+xie yi ge 	写一个	c=11 d=2.18585 t=16941
+xie zai 	卸载	c=8 d=0.831104 t=16941
+xie zhen 	写真	c=1 d=1.68054e-19 t=16941
+xin 	新	c=21 d=2.68381 t=16941
+xin a si 	新阿斯	c=2 d=1.53346 t=16941
+xin ban ben 	新版本	c=1 d=1.60354e-26 t=16941
+xin fen zhi 	新分支	c=2 d=2.53442e-20 t=16941
+xin hao 	信号	c=8 d=1.65504 t=16941
+xin jian 	新建	c=2 d=3.95791e-20 t=16941
+xin lang 	新浪	c=1 d=0.244143 t=16941
+xin mi ma 	新密码	c=2 d=0.000201856 t=16941
+xin qing 	心情	c=1 d=0.0378169 t=16941
+xin ren 	新人	c=1 d=0.000133688 t=16941
+xin sheng 	新生	c=1 d=0.20089 t=16941
+xin si 	心思	c=1 d=2.8131e-21 t=16941
+xin wen 	新闻	c=1 d=6.60902e-11 t=16941
+xin xi 	信息	c=38 d=10.5577 t=16941
+xin zeng 	新增	c=1 d=2.56434e-20 t=16941
+xin zhuang 	新装	c=1 d=2.63696e-25 t=16941
+xing 	形	c=1 d=1.26096e-22 t=16941
+xing 	性	c=1 d=0.360595 t=16941
+xing 	行	c=1 d=0.882497 t=16941
+xing ba 	行吧	c=1 d=8.3252e-21 t=16941
+xing hao 	型号	c=4 d=1.65142e-19 t=16941
+xing ming 	姓名	c=1 d=1.81834e-05 t=16941
+xing neng 	性能	c=2 d=2.23964e-06 t=16941
+xiu 	修	c=4 d=1.42979e-08 t=16941
+xiu gai 	修改	c=64 d=5.98243 t=16941
+xiu gai cheng 	修改成	c=3 d=0.985266 t=16941
+xiu gai hou 	修改后	c=1 d=0.0106202 t=16941
+xiu gai le 	修改了	c=1 d=0.913931 t=16941
+xiu gai wei 	修改为	c=3 d=0.970446 t=16941
+xiu tu 	修图	c=7 d=8.01473e-13 t=16941
+xiu xian 	休闲	c=1 d=6.70777e-09 t=16941
+xiu xian 	修仙	c=5 d=3.48108e-08 t=16941
+xu 	需	c=6 d=0.843665 t=16941
+xu bu xu yao 	需不需要	c=2 d=1.41511 t=16941
+xu gai 	需改	c=1 d=2.61303e-06 t=16941
+xu ni ji 	虚拟机	c=1 d=1.00882e-15 t=16941
+xu yao 	需要	c=43 d=4.98677 t=16941
+xuan chuan 	宣传	c=1 d=1.12031e-13 t=16941
+xuan huan 	玄幻	c=1 d=5.76244e-16 t=16941
+xuan xiang 	选项	c=21 d=2.13856 t=16941
+xuan xiang lie biao 	选项列表	c=6 d=2.31039 t=16941
+xuan ze 	选择	c=17 d=0.904982 t=16941
+xuan zhi 	宣纸	c=1 d=7.17678e-10 t=16941
+xuan zhong 	选中	c=5 d=0.91394 t=16941
+xue 	学	c=4 d=3.29461e-10 t=16941
+xue hui 	学会	c=1 d=7.34071e-11 t=16941
+xue le 	学了	c=2 d=1.64605e-10 t=16941
+xue se 	血色	c=1 d=8.25526e-10 t=16941
+xue sheng 	学生	c=1 d=0.0939493 t=16941
+xue wan 	学完	c=2 d=2.01683e-10 t=16941
+xue xi 	学习	c=3 d=1.02863e-13 t=16941
+xue xiao 	学校	c=1 d=0.0948935 t=16941
+xue yu 	血雨	c=1 d=8.94282e-10 t=16941
+xue zhe 	学者	c=1 d=1.9858e-12 t=16941
+xun huan 	循环	c=5 d=0.826959 t=16941
+xun lei 	迅雷	c=22 d=0.00420619 t=16941
+xun zhao 	寻找	c=1 d=1.06346e-18 t=16941
+ya bing 	牙病	c=0 d=5.93389e-09 t=16941
+ya li 	压力	c=1 d=1.21635e-10 t=16941
+ya suo 	压缩	c=12 d=2.88112e-09 t=16941
+ya suo hou 	压缩后	c=1 d=5.50607e-10 t=16941
+ya yi 	压抑	c=1 d=6.92994e-10 t=16941
+ya zi 	鸭子	c=1 d=5.12755e-25 t=16941
+yan chi 	延迟	c=2 d=0.734744 t=16941
+yan er 	研二	c=0 d=0.0860708 t=16941
+yan er shi 	研二是	c=1 d=0.865022 t=16941
+yan li 	眼里	c=1 d=6.14944e-16 t=16941
+yan ma 	掩码	c=1 d=9.0857e-20 t=16941
+yan qing 	言情	c=1 d=5.82947e-05 t=16941
+yan se 	颜色	c=56 d=13.6257 t=16941
+yan suan an ji pu tao tang jiao nang 	盐酸氨基葡萄糖胶囊	c=1 d=0.995012 t=16941
+yan yuan 	演员	c=1 d=1.85186e-14 t=16941
+yan zheng 	验证	c=2 d=7.1933e-05 t=16941
+yan zheng ma 	验证码	c=5 d=0.000232176 t=16941
+yan zhi 	颜值	c=1 d=1.9633e-25 t=16941
+yang 	养	c=1 d=0.0871609 t=16941
+yang 	杨	c=0 d=2.06684e-13 t=16941
+yang gu 	养蛊	c=2 d=0.951229 t=16941
+yang shi 	样式	c=3 d=2.31459 t=16941
+yang yi qun 	杨一群	c=1 d=2.0772e-12 t=16941
+yang zi 	样子	c=2 d=2.39229e-16 t=16941
+yao 	药	c=2 d=1.94111 t=16941
+yao 	要	c=112 d=7.63478 t=16941
+yao bu yao 	要不要	c=1 d=1.42715e-08 t=16941
+yao gei 	要给	c=3 d=0.869358 t=16941
+yao me 	要么	c=3 d=2.50931e-16 t=16941
+yao qiu 	要求	c=11 d=1.71104 t=16941
+yao shuo 	要说	c=1 d=5.47861e-10 t=16941
+yao you 	要有	c=1 d=0.771052 t=16941
+ye 	业	c=1 d=8.68147e-14 t=16941
+ye 	也	c=36 d=3.90268 t=16941
+ye 	叶	c=1 d=8.00856e-07 t=16941
+ye bai he 	野百合	c=0 d=0.00478349 t=16941
+ye bu xing 	也不行	c=1 d=0.00594622 t=16941
+ye bu zuo 	也不做	c=1 d=0.474734 t=16941
+ye guang 	夜光	c=1 d=0.044601 t=16941
+ye jiu shi 	也就是	c=1 d=1.34217e-21 t=16941
+ye li 	野狸	c=0 d=0.00475963 t=16941
+ye mian 	页面	c=5 d=0.000161065 t=16941
+ye shi 	也是	c=5 d=2.056 t=16941
+ye wai 	野外	c=1 d=1.57478e-19 t=16941
+ye yao 	也要	c=1 d=0.000575656 t=16941
+ye you 	也有	c=1 d=6.1009e-11 t=16941
+yi 	以	c=15 d=2.45562 t=16941
+yi 	已	c=6 d=0.0429147 t=16941
+yi 	易	c=1 d=3.44189e-12 t=16941
+yi 	衣	c=1 d=2.06684e-12 t=16941
+yi an zhao 	已按照	c=1 d=9.06687e-25 t=16941
+yi an zhuang 	已安装	c=2 d=0.683861 t=16941
+yi ban 	一般	c=10 d=2.52179 t=16941
+yi ban qing kuang xia 	一般情况下	c=1 d=6.39823e-12 t=16941
+yi bian 	一遍	c=1 d=4.95556e-06 t=16941
+yi bu fen 	一部分	c=6 d=1.46311 t=16941
+yi bu yi bu 	一步一步	c=1 d=0.00179097 t=16941
+yi ce shi 	已测试	c=3 d=1.03744e-10 t=16941
+yi chang 	异常	c=2 d=0.00479587 t=16941
+yi chang chuan 	一长串	c=1 d=9.22144e-18 t=16941
+yi chu 	移除	c=2 d=1.69598 t=16941
+yi ci 	一次	c=5 d=1.26457 t=16941
+yi dan 	一旦	c=1 d=0.822835 t=16941
+yi dao 	移到	c=1 d=5.87785e-14 t=16941
+yi dao dao 	一道道	c=1 d=7.62057e-10 t=16941
+yi dian 	一点	c=3 d=4.15207e-13 t=16941
+yi ding 	一定	c=1 d=2.44268e-07 t=16941
+yi dong 	移动	c=9 d=0.0121552 t=16941
+yi duan 	一段	c=2 d=1.38497e-08 t=16941
+yi duan shi jian 	一段时间	c=4 d=0.00334597 t=16941
+yi dun cao zuo 	一顿操作	c=2 d=0.941765 t=16941
+yi fang 	以防	c=1 d=7.28276e-06 t=16941
+yi ge 	一个	c=132 d=11.954 t=16941
+yi gen 	一根	c=4 d=3.49272e-08 t=16941
+yi gong 	一共	c=1 d=1.72608e-10 t=16941
+yi gua zai 	已挂载	c=1 d=0.000199439 t=16941
+yi guo xiang 	一锅香	c=1 d=0.763379 t=16941
+yi han 	遗憾	c=1 d=1.12283e-10 t=16941
+yi hang 	一行	c=5 d=1.47079 t=16941
+yi hao 	一号	c=1 d=0.00571306 t=16941
+yi hou 	以后	c=5 d=1.81188 t=16941
+yi hui 	一会	c=0 d=0.0726149 t=16941
+yi huo 	疑惑	c=2 d=4.17288e-13 t=16941
+yi ji cai dan 	一级菜单	c=1 d=2.46128e-08 t=16941
+yi jian 	一键	c=1 d=0.951229 t=16941
+yi jie jue 	已解决	c=1 d=3.25936e-18 t=16941
+yi jing 	已经	c=27 d=3.41715 t=16941
+yi ju 	一句	c=1 d=0.519442 t=16941
+yi kan 	一看	c=1 d=2.30717e-12 t=16941
+yi ke shu 	一棵树	c=1 d=1.62274e-19 t=16941
+yi kuai 	一块	c=1 d=5.18454e-08 t=16941
+yi lai 	依赖	c=4 d=0.734254 t=16941
+yi lian jie 	已连接	c=1 d=3.70164e-15 t=16941
+yi liang che 	一辆车	c=1 d=0.0875977 t=16941
+yi miao 	一秒	c=3 d=3.11551e-15 t=16941
+yi na 	伊娜	c=0 d=0.000571306 t=16941
+yi na hou 	伊娜后	c=1 d=0.0057417 t=16941
+yi nai kui 	一乃葵	c=2 d=0.000265207 t=16941
+yi nian 	一年	c=1 d=0.0880368 t=16941
+yi ning 	伊宁	c=1 d=7.58643e-16 t=16941
+yi pian 	一片	c=1 d=1.63905e-19 t=16941
+yi pian guang ming 	一片光明	c=1 d=5.05911e-14 t=16941
+yi pian hui 	一片灰	c=0 d=6.75884e-11 t=16941
+yi pian hui hei 	一片灰黑	c=1 d=6.79272e-10 t=16941
+yi qi 	一起	c=2 d=0.377192 t=16941
+yi qi dong 	已启动	c=1 d=2.67499e-17 t=16941
+yi qi na 	一起拿	c=1 d=0.00852289 t=16941
+yi qian 	一千	c=1 d=2.76218e-12 t=16941
+yi qian 	以前	c=4 d=0.00856561 t=16941
+yi qun 	一群	c=0 d=2.06684e-13 t=16941
+yi ran 	依然	c=1 d=2.54938e-10 t=16941
+yi ru xia 	以如下	c=1 d=0.865022 t=16941
+yi shang 	以上	c=42 d=6.51506 t=16941
+yi shen an shen gao 	益肾安神膏	c=1 d=0.687289 t=16941
+yi shi 	一是	c=1 d=2.76548e-26 t=16941
+yi shi 	意识	c=1 d=3.22474e-10 t=16941
+yi si 	意思	c=8 d=1.11693 t=16941
+yi ta hu tu 	一塌糊涂	c=1 d=9.64261e-14 t=16941
+yi tai 	一台	c=3 d=1.25083e-10 t=16941
+yi tao 	一套	c=1 d=1.70623e-21 t=16941
+yi tiao 	一条	c=1 d=0.97531 t=16941
+yi tiao he 	一条河	c=1 d=1.63088e-19 t=16941
+yi tu 	以图	c=1 d=7.2349e-13 t=16941
+yi tu sheng tu 	以图生图	c=1 d=6.61015e-13 t=16941
+yi wei 	以为	c=2 d=0.00247875 t=16941
+yi wen 	疑问	c=2 d=0.814647 t=16941
+yi wen bu zhi 	一文不值	c=1 d=5.72085e-19 t=16941
+yi wu 	翼舞	c=2 d=4.04241e-14 t=16941
+yi xia 	一下	c=37 d=4.97702 t=16941
+yi xia 	以下	c=42 d=2.74829 t=16941
+yi xiang 	一项	c=1 d=4.74557e-26 t=16941
+yi xie 	一些	c=21 d=3.43234 t=16941
+yi yan 	一眼	c=1 d=6.18027e-16 t=16941
+yi yang 	一样	c=5 d=0.965605 t=16941
+yi you 	已有	c=2 d=4.92815e-20 t=16941
+yi yu 	一隅	c=1 d=6.65821e-10 t=16941
+yi zhao 	一招	c=2 d=6.6987e-12 t=16941
+yi zhao dao 	已找到	c=1 d=1.66898e-26 t=16941
+yi zhao xian chi bian tian 	一招鲜吃遍天	c=1 d=3.06799e-12 t=16941
+yi zhi 	一直	c=6 d=0.135335 t=16941
+yi zhi 	一致	c=2 d=0.00284882 t=16941
+yi zhu xiao 	已注销	c=8 d=0.00053883 t=16941
+yi zuo 	一座	c=1 d=8.63524e-10 t=16941
+yin 	瘾	c=1 d=7.64029e-11 t=16941
+yin 	音	c=2 d=1.55689e-24 t=16941
+yin cang 	隐藏	c=8 d=4.50687 t=16941
+yin du 	印度	c=3 d=2.92669 t=16941
+yin hao 	引号	c=7 d=0.0550039 t=16941
+yin huan 	隐患	c=1 d=0.0804596 t=16941
+yin liang 	音量	c=13 d=4.25775 t=16941
+yin mai 	阴霾	c=1 d=6.69159e-10 t=16941
+yin ming 	音名	c=1 d=2.98604e-17 t=16941
+yin pin 	音频	c=2 d=0.909373 t=16941
+yin wei 	因为	c=15 d=1.40858 t=16941
+yin yi 	音译	c=6 d=0.923116 t=16941
+yin yue 	音乐	c=3 d=8.02786e-05 t=16941
+yin zhuo 	银镯	c=1 d=5.12493e-19 t=16941
+ying 	英	c=1 d=0.882497 t=16941
+ying er 	婴儿	c=1 d=0.201897 t=16941
+ying gai 	应该	c=5 d=0.000154549 t=16941
+ying jian 	硬件	c=2 d=1.19091 t=16941
+ying kong tao 	樱空桃	c=2 d=1.70096e-14 t=16941
+ying lian jie 	硬链接	c=1 d=1.0536e-26 t=16941
+ying pan 	硬盘	c=1 d=1.01108e-12 t=16941
+ying shi 	硬是	c=1 d=4.46389e-12 t=16941
+ying wen 	英文	c=6 d=0.206378 t=16941
+ying wen ming 	英文名	c=1 d=7.41828e-17 t=16941
+ying xia ci ang 	英下次昂	c=1 d=0.980199 t=16941
+ying xiang 	影响	c=4 d=1.54015 t=16941
+ying xiang ma 	影响吗	c=1 d=0.767206 t=16941
+ying yong 	应用	c=6 d=2.72396 t=16941
+ying yong ming 	应用名	c=1 d=0.909373 t=16941
+yo 	哟	c=0 d=0.0802519 t=16941
+yo yi ge 	哟一个	c=1 d=0.806541 t=16941
+yong 	用	c=38 d=4.21523 t=16941
+yong dao 	用到	c=2 d=0.790571 t=16941
+yong fa 	用法	c=1 d=1 t=16941
+yong guo 	用过	c=4 d=1.49606 t=16941
+yong hu 	用户	c=12 d=0.0050574 t=16941
+yong hu ming 	用户名	c=4 d=0.000355186 t=16941
+yong lai 	用来	c=3 d=1.79777 t=16941
+yong tu 	用途	c=1 d=1 t=16941
+yong you zhe 	拥有者	c=1 d=1.31175e-16 t=16941
+yong yu 	用于	c=5 d=0.786628 t=16941
+yong yuan 	永远	c=1 d=7.07354e-16 t=16941
+yong zai 	用在	c=1 d=3.08336e-12 t=16941
+you 	又	c=10 d=1.94128 t=16941
+you 	有	c=174 d=12.9253 t=16941
+you 	由	c=3 d=4.50805e-14 t=16941
+you ba 	又把	c=1 d=2.67317e-09 t=16941
+you bao cuo 	有报错	c=1 d=0.882497 t=16941
+you bi yao 	有必要	c=2 d=1.21464e-07 t=16941
+you bian 	右边	c=1 d=7.80127e-21 t=16941
+you bu neng 	又不能	c=1 d=2.03607e-12 t=16941
+you cai you ai wan 	又菜又爱玩	c=1 d=7.48901e-11 t=16941
+you ce 	右侧	c=7 d=5.73273e-14 t=16941
+you che 	油车	c=1 d=0.116484 t=16941
+you cuo wu 	有错误	c=1 d=0.937067 t=16941
+you dao 	有道	c=1 d=7.87834e-19 t=16941
+you dao yun bi ji 	有道云笔记	c=2 d=0.0156177 t=16941
+you ge 	有个	c=2 d=0.985112 t=16941
+you guan 	有关	c=1 d=0.755784 t=16941
+you he 	有何	c=11 d=1.27371 t=16941
+you he bu tong 	有何不同	c=1 d=0.729789 t=16941
+you he qu bie 	有何区别	c=3 d=1.45777 t=16941
+you hua 	油画	c=1 d=2.45067e-16 t=16941
+you ji ai ni 	有极爱你	c=1 d=0.937067 t=16941
+you ji ge 	有几个	c=2 d=0.151829 t=16941
+you ji lv 	有几率	c=1 d=0.748264 t=16941
+you jian 	右键	c=11 d=5.12216 t=16941
+you jian cai dan 	右键菜单	c=1 d=0.697676 t=16941
+you jian tou 	右箭头	c=1 d=1.24519e-21 t=16941
+you le 	有了	c=2 d=0.740818 t=16941
+you liang ge 	有两个	c=2 d=1.37728 t=16941
+you ma mei yue 	有马美月	c=2 d=0.00831785 t=16941
+you mei 	优美	c=2 d=0.778801 t=16941
+you mei you 	有没有	c=29 d=4.74556 t=16941
+you mi er 	尤弥尔	c=0 d=1.01074e-09 t=16941
+you mi er you 	尤弥尔有	c=1 d=1.0158e-08 t=16941
+you ming 	又名	c=1 d=0.831104 t=16941
+you na xie 	有哪些	c=9 d=4.09914 t=16941
+you qian 	有钱	c=1 d=1.86083e-12 t=16941
+you ren 	有人	c=1 d=6.99959e-10 t=16941
+you shang jiao 	右上角	c=1 d=1.77128e-20 t=16941
+you shen me 	有什么	c=2 d=1.50672 t=16941
+you shi hou 	有时候	c=2 d=9.1022e-11 t=16941
+you shi jian 	有时间	c=1 d=4.17572e-21 t=16941
+you shou jiu xing 	有手就行	c=1 d=9.08261e-16 t=16941
+you ti shi 	有提示	c=1 d=0.831104 t=16941
+you wen ti 	有问题	c=3 d=1.40208 t=16941
+you wu 	有误	c=2 d=3.81636e-21 t=16941
+you xi 	游戏	c=7 d=1.12697 t=16941
+you xi nei 	游戏内	c=1 d=0.0497871 t=16941
+you xia jiao 	右下角	c=4 d=1.52668e-07 t=16941
+you xian 	有线	c=5 d=1.20015 t=16941
+you xian ji 	优先级	c=3 d=0.995012 t=16941
+you xiang 	邮箱	c=2 d=0.000157785 t=16941
+you xiao 	有效	c=13 d=7.17729 t=16941
+you xie 	有些	c=8 d=3.04918 t=16941
+you yi ge 	有一个	c=10 d=1.80442 t=16941
+you yi xie 	有一些	c=1 d=3.5953e-25 t=16941
+you yi zhong 	有一种	c=2 d=0.0332068 t=16941
+you you 	又有	c=1 d=1.49437e-20 t=16941
+you zai 	又在	c=1 d=0.970446 t=16941
+you zhi 	有值	c=1 d=4.48779e-16 t=16941
+yu 	与	c=13 d=3.45835 t=16941
+yu 	與	c=1 d=3.0558e-24 t=16941
+yu dao 	遇到	c=1 d=4.51336e-24 t=16941
+yu dao wen ti 	遇到问题	c=1 d=5.77539e-13 t=16941
+yu fa 	语法	c=2 d=7.6335e-22 t=16941
+yu jia zai 	预加载	c=1 d=0.946485 t=16941
+yu le quan 	娱乐圈	c=1 d=3.30693e-12 t=16941
+yu ming 	域名	c=1 d=2.747e-06 t=16941
+yu qi 	预期	c=2 d=1.61331e-09 t=16941
+yu shi 	于是	c=9 d=0.00626092 t=16941
+yu shui 	雨水	c=1 d=8.33823e-10 t=16941
+yu wang 	欲望	c=1 d=1.09265e-13 t=16941
+yu xiang 	预想	c=1 d=6.80081e-24 t=16941
+yu yan 	语言	c=2 d=1.95019e-05 t=16941
+yu yan 	预言	c=1 d=6.12835e-05 t=16941
+yuan 	源	c=19 d=5.41708 t=16941
+yuan ben 	原本	c=2 d=1.61287 t=16941
+yuan cheng 	远程	c=5 d=1.09889e-19 t=16941
+yuan dai ma 	源代码	c=1 d=2.70657e-08 t=16941
+yuan jiao 	圆角	c=5 d=3.17831 t=16941
+yuan lai 	原来	c=8 d=1.51244 t=16941
+yuan li 	原理	c=2 d=0.932394 t=16941
+yuan ma 	源码	c=2 d=2.84456e-08 t=16941
+yuan shen 	原神	c=1 d=1.09813e-13 t=16941
+yuan su 	元素	c=1 d=0.955997 t=16941
+yuan wen jian 	源文件	c=3 d=1.94261 t=16941
+yuan yin 	原因	c=15 d=1.82231 t=16941
+yuan you 	原有	c=1 d=1.07433e-20 t=16941
+yuan zhuang 	原装	c=2 d=2.21071e-05 t=16941
+yuan zhuang xian 	原装线	c=1 d=1.11396e-05 t=16941
+yue 	月	c=0 d=0.00954311 t=16941
+yue 	约	c=4 d=1.15364e-05 t=16941
+yue du 	阅读	c=5 d=0.000500637 t=16941
+yue duo 	越多	c=2 d=1.46895e-11 t=16941
+yue lai yue 	越来越	c=3 d=0.00696819 t=16941
+yue man 	越慢	c=2 d=1.48371e-11 t=16941
+yue ye bai he 	月野百合	c=4 d=0.241534 t=16941
+yue ye li sha 	月野狸纱	c=1 d=0.0478349 t=16941
+yue zhan 	约占	c=1 d=3.03694e-10 t=16941
+yun 	云	c=1 d=8.46137e-07 t=16941
+yun bi ji 	云笔记	c=1 d=8.50378e-06 t=16941
+yun ceng 	云层	c=2 d=1.48277e-09 t=16941
+yun mu 	韵母	c=1 d=4.65651e-09 t=16941
+yun pan 	云盘	c=1 d=0.00112198 t=16941
+yun ran 	晕染	c=1 d=7.32176e-10 t=16941
+zai 	再	c=12 d=1.8574 t=16941
+zai 	在	c=181 d=9.19741 t=16941
+zai bang wo 	再帮我	c=1 d=0.895834 t=16941
+zai ce shi 	再测试	c=1 d=2.74411e-23 t=16941
+zai ci 	再次	c=6 d=1.82005 t=16941
+zai ci 	在此	c=4 d=0.0218817 t=16941
+zai ge ge 	在各个	c=1 d=6.22203e-07 t=16941
+zai jia yi ge 	再加一个	c=1 d=0.985112 t=16941
+zai na 	在哪	c=8 d=1.73529 t=16941
+zai na ge 	在哪个	c=1 d=0.980199 t=16941
+zai na ge 	在那个	c=1 d=0.995012 t=16941
+zai na li 	在哪里	c=12 d=1.33832 t=16941
+zai na li ge 	在哪里个	c=1 d=2.53624e-08 t=16941
+zai xian 	在线	c=1 d=1.8692e-06 t=16941
+zai you 	在右	c=1 d=0.83527 t=16941
+zai zuo jue ding 	再做决定	c=1 d=0.946485 t=16941
+zan 	咱	c=1 d=1.59337e-10 t=16941
+zan cun 	暂存	c=1 d=2.47245e-20 t=16941
+zan cun qu 	暂存区	c=6 d=1.78033e-19 t=16941
+zan shi 	暂时	c=3 d=0.960789 t=16941
+zan ting 	暂停	c=2 d=1.11282 t=16941
+zao 	早	c=1 d=0.752014 t=16941
+zao shang 	早上	c=1 d=1.50135e-16 t=16941
+ze 	则	c=3 d=0.802519 t=16941
+zen me 	怎么	c=205 d=13.228 t=16941
+zen me du 	怎么读	c=1 d=0.763379 t=16941
+zen yang 	怎样	c=1 d=3.66356e-11 t=16941
+zeng jia 	增加	c=5 d=4.97917e-20 t=16941
+zeng liang 	增量	c=1 d=7.95345e-13 t=16941
+zeng su 	增速	c=1 d=8.83398e-13 t=16941
+zhan 	站	c=0 d=4.51106e-19 t=16941
+zhan dou 	战斗	c=2 d=0.0756243 t=16941
+zhan dou zhi hun 	战斗之魂	c=1 d=0.0443785 t=16941
+zhan kai 	展开	c=1 d=0.860708 t=16941
+zhan man 	占满	c=4 d=2.94208e-19 t=16941
+zhan shen 	战神	c=1 d=0.0420036 t=16941
+zhan shi 	展示	c=3 d=1.57927 t=16941
+zhan tie 	粘贴	c=3 d=0.527873 t=16941
+zhan wei fu 	占位符	c=2 d=0.017875 t=16941
+zhan yong 	占用	c=15 d=2.44811 t=16941
+zhan yong lv 	占用率	c=1 d=0.145148 t=16941
+zhang hao 	账号	c=22 d=0.000633133 t=16941
+zhang hao bu cun zai 	账号不存在	c=2 d=3.53814e-05 t=16941
+zhang mi 	账密	c=1 d=2.41796e-05 t=16941
+zhao 	找	c=18 d=4.04407 t=16941
+zhao bu dao 	找不到	c=9 d=4.42768e-09 t=16941
+zhao chu 	找出	c=1 d=8.73093e-22 t=16941
+zhao dao 	找到	c=24 d=0.663276 t=16941
+zhao ge 	找个	c=1 d=0.951229 t=16941
+zhao guo 	找过	c=2 d=0.00648378 t=16941
+zhao guo 	赵国	c=1 d=0.00307331 t=16941
+zhao hui 	找回	c=3 d=6.04535e-05 t=16941
+zhao hui hou 	找回后	c=1 d=1.98958e-05 t=16941
+zhao hui mi ma 	找回密码	c=3 d=0.000124614 t=16941
+zhao le 	找了	c=1 d=0.00217658 t=16941
+zhao le mi 	着了迷	c=1 d=9.05608e-11 t=16941
+zhao yi ge 	找一个	c=2 d=1.16325e-14 t=16941
+zhao yi xia 	找一下	c=1 d=0.346456 t=16941
+zhe 	着	c=1 d=7.81348e-10 t=16941
+zhe 	者	c=0 d=4.54618e-22 t=16941
+zhe 	这	c=34 d=3.08415 t=16941
+zhe bu 	这部	c=1 d=1.10879e-09 t=16941
+zhe bu shi 	这不是	c=1 d=0.900325 t=16941
+zhe duan 	这段	c=2 d=6.88109e-15 t=16941
+zhe ge 	这个	c=109 d=9.53431 t=16941
+zhe ge ren 	这个人	c=1 d=1.5285e-21 t=16941
+zhe ge xie 	这个邪	c=1 d=4.11285e-19 t=16941
+zhe gen 	这跟	c=1 d=7.05768e-19 t=16941
+zhe ji 	这几	c=3 d=7.89632e-09 t=16941
+zhe ji ge 	这几个	c=11 d=2.35854 t=16941
+zhe ji hang 	这几行	c=1 d=0.895834 t=16941
+zhe lai 	这来	c=0 d=0.0767206 t=16941
+zhe lai gong e 	这来共轭	c=1 d=0.771052 t=16941
+zhe li 	这里	c=8 d=0.895834 t=16941
+zhe liang ge 	这两个	c=11 d=2.47567 t=16941
+zhe liang ge zi 	这两个字	c=1 d=0.856415 t=16941
+zhe liang hang 	这两行	c=1 d=0.786628 t=16941
+zhe liang tai 	这两台	c=1 d=2.08329e-17 t=16941
+zhe me 	这么	c=7 d=0.894594 t=16941
+zhe me nan ma 	这么难吗	c=1 d=3.92786e-07 t=16941
+zhe san ge 	这三个	c=2 d=0.99005 t=16941
+zhe shi 	这是	c=41 d=5.95854 t=16941
+zhe teng 	折腾	c=4 d=0.460994 t=16941
+zhe teng ren 	折腾人	c=1 d=0.00292342 t=16941
+zhe teng ting 	折腾听	c=1 d=8.90276e-16 t=16941
+zhe tiao 	这条	c=2 d=2.77874e-14 t=16941
+zhe xie 	这些	c=27 d=3.80247 t=16941
+zhe ya bing 	这牙病	c=1 d=5.96364e-08 t=16941
+zhe yang 	这样	c=20 d=3.46907 t=16941
+zhe yi 	这一	c=1 d=6.01801e-15 t=16941
+zhe yi bu 	这一步	c=6 d=9.4427e-06 t=16941
+zhe yi hang 	这一行	c=4 d=1.84328 t=16941
+zhe yi tiao 	这一条	c=2 d=3.92129e-12 t=16941
+zhe zhong 	这种	c=16 d=2.95665 t=16941
+zhen 	真	c=4 d=0.562705 t=16941
+zhen cheng 	真诚	c=1 d=0.771052 t=16941
+zhen dui 	针对	c=1 d=0.740818 t=16941
+zhen li 	真理	c=1 d=2.80393e-12 t=16941
+zhen neng 	真能	c=1 d=4.70731e-19 t=16941
+zheng chang 	正常	c=13 d=0.776885 t=16941
+zheng li 	整理	c=3 d=1.4373 t=16941
+zheng que 	正确	c=6 d=1.00053 t=16941
+zheng shi 	正式	c=2 d=1.39503 t=16941
+zheng shi 	正是	c=1 d=0.433874 t=16941
+zheng shu 	证书	c=2 d=8.78993e-13 t=16941
+zheng zai 	正在	c=5 d=3.77642e-15 t=16941
+zhi 	值	c=21 d=3.37826 t=16941
+zhi 	只	c=15 d=3.66639 t=16941
+zhi a 	治啊	c=4 d=1.35676 t=16941
+zhi bo 	直播	c=0 d=0.000486835 t=16941
+zhi bo yuan 	直播源	c=1 d=0.00489275 t=16941
+zhi bu si 	之不死	c=1 d=0.88692 t=16941
+zhi chi 	支持	c=19 d=6.0383 t=16941
+zhi chong dian 	只充电	c=2 d=1.39246e-15 t=16941
+zhi chu le 	指出了	c=1 d=0.946485 t=16941
+zhi dao 	直到	c=5 d=1.86573e-07 t=16941
+zhi dao 	知道	c=6 d=0.831104 t=16941
+zhi di 	之地	c=1 d=0.869358 t=16941
+zhi dia 	值嗲	c=1 d=0.0956007 t=16941
+zhi dia shu nv 	值嗲熟女	c=1 d=0.960789 t=16941
+zhi ding 	制定	c=3 d=3.77332e-05 t=16941
+zhi ding 	指定	c=3 d=1.5264 t=16941
+zhi ding mu lu 	指定目录	c=1 d=8.95196e-22 t=16941
+zhi fu 	支付	c=1 d=1.88311e-05 t=16941
+zhi fu bao 	支付宝	c=1 d=2.06045e-05 t=16941
+zhi hou 	之后	c=34 d=5.27125 t=16941
+zhi hu 	知乎	c=8 d=0.123687 t=16941
+zhi hui 	只会	c=2 d=6.26776e-12 t=16941
+zhi hui 	智慧	c=2 d=0.000237796 t=16941
+zhi hun 	之魂	c=2 d=0.0990037 t=16941
+zhi jian 	之间	c=4 d=1.98075 t=16941
+zhi jie 	直接	c=23 d=5.38284 t=16941
+zhi kan 	只看	c=2 d=1.37521e-13 t=16941
+zhi lang 	只狼	c=3 d=0.10906 t=16941
+zhi lei 	之类	c=1 d=0.463013 t=16941
+zhi lian 	直连	c=1 d=3.22364e-06 t=16941
+zhi neng 	只能	c=3 d=0.00064907 t=16941
+zhi qi 	之气	c=0 d=1.79774e-19 t=16941
+zhi qi na 	之气那	c=1 d=1.80675e-18 t=16941
+zhi qian 	之前	c=23 d=1.7718 t=16941
+zhi qing 	之情	c=0 d=5.14082e-27 t=16941
+zhi qing a 	之情啊	c=1 d=5.16659e-26 t=16941
+zhi she zhi 	只设置	c=1 d=0.965605 t=16941
+zhi shi 	只是	c=4 d=0.88692 t=16941
+zhi shu 	指数	c=1 d=5.19619e-05 t=16941
+zhi tu 	制图	c=1 d=3.48904e-25 t=16941
+zhi wai 	之外	c=1 d=0.960789 t=16941
+zhi xiang 	只想	c=2 d=0.923116 t=16941
+zhi xiang yao 	只想要	c=1 d=0.927743 t=16941
+zhi xing 	执行	c=43 d=3.97512 t=16941
+zhi xiu gai 	只修改	c=3 d=2.14175 t=16941
+zhi xu 	只需	c=1 d=1.51514e-06 t=16941
+zhi xu yao 	只需要	c=7 d=0.000682328 t=16941
+zhi yao 	制药	c=1 d=1 t=16941
+zhi yao 	只要	c=1 d=0.97531 t=16941
+zhi yi bu 	之一部	c=1 d=3.10684e-13 t=16941
+zhi yong 	只用	c=1 d=1.45772e-22 t=16941
+zhi yong guo 	值用过	c=1 d=6.10194e-13 t=16941
+zhi you 	只有	c=31 d=2.74236 t=16941
+zhi yuan 	支援	c=1 d=1.50058e-10 t=16941
+zhi zhi chi 	只支持	c=1 d=0.66034 t=16941
+zhi zhi dao 	只知道	c=1 d=3.98167e-20 t=16941
+zhong 	中	c=103 d=9.73825 t=16941
+zhong 	种	c=1 d=0.965605 t=16941
+zhong dian 	重点	c=2 d=0.0150476 t=16941
+zhong duan 	终端	c=36 d=5.27705 t=16941
+zhong duan mo ni qi 	终端模拟器	c=1 d=3.75695e-13 t=16941
+zhong guo 	中国	c=8 d=0.737695 t=16941
+zhong ji 	中继	c=3 d=0.000201931 t=16941
+zhong ji lu you qi 	中继路由器	c=1 d=1.26685e-18 t=16941
+zhong ji mo shi 	终极模式	c=1 d=5.67858e-20 t=16941
+zhong jian 	中间	c=2 d=8.34046e-16 t=16941
+zhong wen 	中文	c=43 d=6.06908 t=16941
+zhong yin 	中音	c=1 d=7.68774e-25 t=16941
+zhong ying wen 	中英文	c=2 d=1.636e-18 t=16941
+zhong yu 	终于	c=1 d=2.28025e-21 t=16941
+zhou 	洲	c=1 d=6.59196e-10 t=16941
+zhou er fu shi 	周而复始	c=1 d=1.06274e-10 t=16941
+zhu 	住	c=1 d=0.0833256 t=16941
+zhu 	朱	c=1 d=0.000280202 t=16941
+zhu ban 	主板	c=3 d=4.98836e-16 t=16941
+zhu cai dan 	主菜单	c=1 d=5.90731e-14 t=16941
+zhu se 	主色	c=1 d=0.778801 t=16941
+zhu se diao 	主色调	c=2 d=0.755784 t=16941
+zhu shi 	注释	c=13 d=4.08341 t=16941
+zhu shou 	助手	c=1 d=1.43085e-09 t=16941
+zhu ti 	主题	c=16 d=5.46527 t=16941
+zhu tu 	主图	c=1 d=0.83527 t=16941
+zhu xiao 	注销	c=34 d=1.71191 t=16941
+zhu xiao zhong 	注销中	c=1 d=8.69654e-05 t=16941
+zhu yao 	主要	c=1 d=0.0916297 t=16941
+zhu yi 	注意	c=5 d=2.41854 t=16941
+zhu you 	猪油	c=1 d=2.49415e-17 t=16941
+zhu zhi 	主旨	c=1 d=0.774916 t=16941
+zhuan 	转	c=1 d=2.89976e-25 t=16941
+zhuan huan 	转换	c=1 d=0.869358 t=16941
+zhuan ma 	转码	c=2 d=0.0123185 t=16941
+zhuan ye 	专业	c=1 d=6.04019e-11 t=16941
+zhuang 	装	c=7 d=1.80601e-09 t=16941
+zhuang hao 	装好	c=6 d=0.794534 t=16941
+zhuang le 	装了	c=1 d=0.826959 t=16941
+zhuang shang 	装上	c=1 d=4.8365e-14 t=16941
+zhuang shi 	装饰	c=1 d=0.965605 t=16941
+zhuang tai 	状态	c=36 d=8.78759 t=16941
+zhuang tai lan 	状态栏	c=28 d=4.37347 t=16941
+zhuang ti an le 	装提案了	c=1 d=4.13066e-11 t=16941
+zhuang xi tong 	装系统	c=2 d=4.96435e-13 t=16941
+zhun 	准	c=2 d=1.38832e-07 t=16941
+zhun bei 	准备	c=1 d=4.90959e-14 t=16941
+zhun que 	准确	c=2 d=0.869358 t=16941
+zhuo mian 	桌面	c=15 d=2.78547 t=16941
+zhuo mian shang 	桌面上	c=1 d=0.923116 t=16941
+zhuo mu niao 	啄木鸟	c=8 d=0.0787563 t=16941
+zhuo se qi 	着色器	c=1 d=0.737123 t=16941
+zhuo shi 	着实	c=1 d=4.12069e-12 t=16941
+zhuo xiao ji 	捉小鸡	c=1 d=1.30117e-09 t=16941
+zi 	子	c=1 d=0.004573 t=16941
+zi 	字	c=10 d=3.4239 t=16941
+zi cai dan 	子菜单	c=1 d=5.59119e-14 t=16941
+zi dai 	自带	c=16 d=3.04885 t=16941
+zi dian 	字典	c=1 d=0.965605 t=16941
+zi ding yi 	自定义	c=12 d=0.0208921 t=16941
+zi dong 	自动	c=20 d=1.53429 t=16941
+zi ji 	自己	c=19 d=5.49371 t=16941
+zi mei ti 	自媒体	c=1 d=0.272532 t=16941
+zi mu 	字幕	c=1 d=0.955997 t=16941
+zi mu 	字母	c=2 d=1.34845 t=16941
+zi mu lu 	子目录	c=11 d=0.000223746 t=16941
+zi qi dong 	自启动	c=2 d=1.48514e-06 t=16941
+zi ran 	自然	c=3 d=0.88692 t=16941
+zi shu 	字数	c=2 d=0.000108794 t=16941
+zi ti 	字体	c=47 d=8.50488 t=16941
+zi wang yan ma 	子网掩码	c=1 d=1.9718e-17 t=16941
+zi xing che 	自行车	c=1 d=0.185444 t=16941
+zi you 	自由	c=1 d=1.64591e-10 t=16941
+zi yuan 	资源	c=8 d=0.891437 t=16941
+zong bu neng 	总不能	c=1 d=0.932394 t=16941
+zong shi 	总是	c=1 d=2.27282e-12 t=16941
+zou 	走	c=4 d=4.92228e-06 t=16941
+zou chu 	走出	c=1 d=1.37143e-10 t=16941
+zou qin qi 	走亲戚	c=1 d=0.101774 t=16941
+zu 	卒	c=1 d=1.22182e-05 t=16941
+zu 	组	c=1 d=1.31832e-16 t=16941
+zu cheng 	组成	c=1 d=2.68886e-19 t=16941
+zu jian 	组件	c=1 d=5.69425e-23 t=16941
+zu xi ai o 	卒喜爱哦	c=1 d=0.000122794 t=16941
+zu ye 	卒业	c=1 d=8.85685e-14 t=16941
+zu zhi 	组织	c=1 d=3.84603e-24 t=16941
+zu zhi 	阻止	c=1 d=3.86531e-24 t=16941
+zui 	最	c=2 d=0.909373 t=16941
+zui chu 	最初	c=5 d=2.55555e-09 t=16941
+zui da 	最大	c=5 d=0.846516 t=16941
+zui di bu 	最底部	c=1 d=0.927743 t=16941
+zui hao 	最好	c=4 d=1.71856 t=16941
+zui huo 	最火	c=1 d=0.951229 t=16941
+zui jin 	最近	c=1 d=8.03339e-13 t=16941
+zui kuai 	最快	c=1 d=8.87827e-13 t=16941
+zui o 	最哦	c=1 d=4.66936e-12 t=16941
+zui o ge 	最哦个	c=1 d=9.78833e-14 t=16941
+zui qin mi 	最亲密	c=1 d=4.28886e-12 t=16941
+zui shao 	最少	c=2 d=0.109154 t=16941
+zui shu xi 	最熟悉	c=1 d=4.31036e-12 t=16941
+zui xia fang 	最下方	c=1 d=0.900325 t=16941
+zui xiao 	最小	c=1 d=1.08952e-24 t=16941
+zui xiao an zhuang 	最小安装	c=1 d=8.2865e-25 t=16941
+zui xin 	最新	c=12 d=2.70416 t=16941
+zui xin ban ben 	最新版本	c=1 d=0.0788664 t=16941
+zun shou 	遵守	c=1 d=9.53012e-23 t=16941
+zuo 	做	c=34 d=4.06044 t=16941
+zuo 	左	c=3 d=1.29697 t=16941
+zuo bi ji 	做笔记	c=1 d=0.00232276 t=16941
+zuo bian 	左边	c=2 d=0.83527 t=16941
+zuo ce 	左侧	c=6 d=0.0867261 t=16941
+zuo cheng 	做成	c=1 d=0.918512 t=16941
+zuo dao 	做到	c=1 d=5.98416e-19 t=16941
+zuo ge 	做个	c=5 d=0.00836692 t=16941
+zuo hao 	做好	c=12 d=3.7827 t=16941
+zuo jian 	左键	c=2 d=0.95192 t=16941
+zuo le 	做了	c=4 d=0.00548002 t=16941
+zuo na xie 	做哪些	c=2 d=1.6319 t=16941
+zuo shan ai 	佐山爱	c=3 d=5.66786e-14 t=16941
+zuo shen me 	做什么	c=15 d=3.79222 t=16941
+zuo wei 	作为	c=1 d=0.0057994 t=16941
+zuo yi ge 	做一个	c=1 d=0.932394 t=16941
+zuo yong 	作用	c=5 d=1.52994 t=16941
+zuo you 	左右	c=7 d=1.79136 t=16941
+zuo zhe 	作者	c=8 d=0.00725486 t=16941
