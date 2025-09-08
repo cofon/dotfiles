@@ -1,35 +1,35 @@
+# 使用方法
+    win默认目录：%APPDATA%\mpv\
+    linux默认目录：~/.config/mpv/
+    删除默认mpv目录，复制mpv目录替代
+    linux：mv mpv_linux.conf mpv.conf
 
-
-# mpv config record mpv配置记录
-
+# mpv配置记录
 
 # 基础配置
 1. 播放器配置 mpv.conf
 2. 快捷键配置 input.conf
 
-
 # 播放列表
 mpv-playlistmanager
 https://github.com/jonniek/mpv-playlistmanager
 配置记录
-1. 复制 playlistmanager.lua 到 ~/.config/mpv/scripts/
-2. 复制 playlistmanager.conf 到 ~/.config/mpv/script-opts/
-3. 打开 ~/.config/mpv/script-opts/playlistmanager.conf 配置"打开播放列表"快捷键 F6
-
+    1. 复制 playlistmanager.lua 到 ~/.config/mpv/scripts/
+    2. 复制 playlistmanager.conf 到 ~/.config/mpv/script-opts/
+    3. 打开 ~/.config/mpv/script-opts/playlistmanager.conf 配置"打开播放列表"快捷键 F6
 
 # 屏幕控制器
 osc [on screen controller 屏幕控制器]
 https://github.com/Samillion/ModernZ
 配置记录
-1. mpv.conf 中配置 osc=no, 禁用mpv自带osc
-2. 复制 modernz.lua 到 ~/.config/mpv/scripts/
-3. 复制 modernz.conf 到 ~/.config/mpv/script-opts/
-4. 复制 fluent-system-icons.ttf 和 material-design-icons.ttf 到 ~/.config/mpv/fonts/
-5. 复制 modernz-locale.json 到 ~/.config/mpv/script-opts/
-6. 打开 modernz.conf, 设置 language=zh (默认en), 设置 icon_theme=material (默认fluent, 可以不修改)
+    1. mpv.conf 中配置 osc=no, 禁用mpv自带osc
+    2. 复制 modernz.lua 到 ~/.config/mpv/scripts/
+    3. 复制 modernz.conf 到 ~/.config/mpv/script-opts/
+    4. 复制 fluent-system-icons.ttf 和 material-design-icons.ttf 到 ~/.config/mpv/fonts/
+    5. 复制 modernz-locale.json 到 ~/.config/mpv/script-opts/
+    6. 打开 modernz.conf, 设置 language=zh (默认en), 设置 icon_theme=material (默认fluent, 可以不修改)
 
 # 菜单
-1. ai写 menu.lua, 修改
-2. 写配置文件 menu.conf
-3. 写数据文件 menu.json, 根据 input.conf 配置菜单命令
-
+    1. ai写 menu.lua, 修改
+    2. 写配置文件 menu.conf
+    3. (根据input.conf)写数据文件 menu.json

@@ -1,0 +1,28 @@
+全新安装
+1. 配置好debian之后, 安装 dwm, 自带suck-tools, dmenu, 这一步不是必须的, tty不好用, 先进入wm环境方便操作
+    sudo apt install dwm
+
+2. 进入dwm, 下载编译dwm dmenu dwmblocks
+    地址：
+        https://suckless.org
+        https://github.com/torrinfail/dwmblocks/
+    下载：
+        git clone https://git.suckless.org/dwm
+        git clone https://git.suckless.org/st
+        git clone https://git.suckless.org/dmenu
+        git clone https://github.com/torrinfail/dwmblocks.git
+    编译
+        cd dwm
+        make && sudo make clean install
+        cd st
+        make && sudo make clean install
+        cd dmenu
+        make && sudo make clean install
+        cd dwmblocks
+        make && sudo make clean install
+
+使用备份
+    复制目录 dwm_conf 到 ~/.config/, 编译运行
+    放在其他目录也是一样的
+
+st放弃, 使用alacritty

@@ -1,0 +1,39 @@
+1. install fcitx & rime
+    sudo apt install fcitx5 fcitx5-chinese-addons fcitx5-frontend-gtk2 fcitx5-rime
+2. rime配置 (白霜拼音 https://github.com/gaboolic/rime-frost)
+    复制rime目录到  ~/.local/share/fcitx5/, 如果已有默认的rime目录, 删除然后复制
+3. theme 配置
+    复制themes目录到  ~/.local/share/fcitx5/, 如果已有默认的themes目录, 删除然后复制
+4. 配置 fcitx 变量
+    [dwm]
+    vim ~/.xinitrc
+    # 设置中文
+    LANG=zh_CN.UTF-8
+    LANGUAGE=zh_CN:zh
+    LC_CTYPE=zh_CN.UTF-8
+    LC_ALL=zh_CN.UTF-8
+    # fcitx5
+    export GTK_IM_MODULE=fcitx
+    export QT_IM_MODULE=fcitx
+    export SDL_IM_MODULE=fcitx
+    export XIM=fcitx
+    export XIM_PROGRAM=fcitx
+    export XMODIFIERS="@im=fcitx"
+    [hyprland]
+    # 设置中文
+    env = LANG,zh_CN.UTF-8
+    env = LANGUAGE,zh_CN:zh
+    env = LC_ALL,zh_CN.UTF-8
+    # fcitx5
+    env = GTK_IM_MODULE,fcitx5
+    env = QT_IM_MODULE,fcitx5
+    env = XMODIFIERS,@im=fcitx5
+    env = INPUT_METHOD,fcitx5
+    env = FCITX5_USE_WAYLAND,1  # Force Fcitx5 to use Wayland backend
+5. 部署(编译)rime
+    cd 到 rime 目录
+    执行: rime_deployer --build
+6. 配置fcitx5
+    终端执行: fcitx5-configtool 或者 fcitx5-config-qt
+    全局选项: 临时在当前和第一个输入法之间切换 默认(左)shift, 删除这个快捷键
+    附加组件: 经典用户界面 配置字体和主题
