@@ -1,0 +1,113 @@
+#!/bin/bash
+
+# 异常状态
+nf_md_battery_out="󰂃"
+
+# 未知状态
+nf_md_battery_unknown="󰂑"
+
+# 充满状态
+nf_md_battery_charging="󰂄"
+
+# 充电状态
+nf_md_battery_charging_100="󰂅"
+nf_md_battery_charging_90="󰂋"
+nf_md_battery_charging_80="󰂊"
+nf_md_battery_charging_70="󰢞"
+nf_md_battery_charging_60="󰂉"
+nf_md_battery_charging_50="󰢝"
+nf_md_battery_charging_40="󰂈"
+nf_md_battery_charging_30="󰂇"
+nf_md_battery_charging_20="󰂆"
+nf_md_battery_charging_10="󰢜"
+nf_md_battery_charging_0="󰢟"
+
+# 放电状态
+nf_md_battery_100="󰁹"
+nf_md_battery_90="󰂂"
+nf_md_battery_80="󰂁"
+nf_md_battery_70="󰂀"
+nf_md_battery_60="󰁿"
+nf_md_battery_50="󰁾"
+nf_md_battery_40="󰁽"
+nf_md_battery_30="󰁼"
+nf_md_battery_20="󰁻"
+nf_md_battery_10="󰁺"
+nf_md_battery_0="󰂎"
+
+# 获取电池状态信息
+# 三种状态
+# 电量 =100% 接入电源 -->  Battery 0: Not charging, 100%
+# 电量 <100% 接入电源 -->  Battery 0: Charging, 89%, 00:22:03 until charged  需要充电时长
+# 电量 <100% 不接电源 -->  Battery 0: Discharging, 90%, 01:56:17 remaining   电池可用时长
+battery_info=$(acpi -b)
+
+# 提取电池状态、是否正在充电和电池电量
+charging_state=$(echo "$battery_info" | awk -F', ' '{print $1}' | awk -F ":"  '{print $2}' | sed "s/^ *//")
+battery_percentage=$(echo "$battery_info" | grep -o '[0-9]*%' |  grep -o '[0-9]\+')
+
+# 电池电量 取后缀 转数字
+pe=$((battery_percentage))
+
+if [ "${charging_state}" = "Not charging" ]; then 
+    icon=${nf_md_battery_charging}
+elif [ "${charging_state}" = "Charging" ]; then 
+    if [ pe -eq 100 ]; then
+        icon="${nf_md_battery_charging_100}"
+    elif [ pe -gt 90 ]; then
+        icon="${nf_md_battery_charging_90}"
+    elif [ pe -gt 80 ]; then
+        icon="${nf_md_battery_charging_80}"
+    elif [ pe -gt 70 ]; then
+        icon="${nf_md_battery_charging_70}"
+    elif [ pe -gt 60 ]; then
+        icon="${nf_md_battery_charging_60}"
+    elif [ pe -gt 50 ]; then
+        icon="${nf_md_battery_charging_50}"
+    elif [ pe -gt 40 ]; then
+        icon="${nf_md_battery_charging_40}"
+    elif [ pe -gt 30 ]; then
+        icon="${nf_md_battery_charging_30}"
+    elif [ pe -gt 20 ]; then
+        icon="${nf_md_battery_charging_20}"
+    elif [ pe -gt 10 ]; then
+        icon="${nf_md_battery_charging_10}"
+    elif [ pe -gt 0 ]; then
+        icon="${nf_md_battery_charging_0}"
+    else
+        icon="${nf_md_battery_out}"
+    fi
+elif [ "${charging_state}" = "Discharging" ]; then
+    if [ pe -eq 100 ]; then
+        icon="${nf_md_battery_100}"
+    elif [ pe -gt 90 ]; then
+        icon="${nf_md_battery_90}"
+    elif [ pe -gt 80 ]; then
+        icon="${nf_md_battery_80}"
+    elif [ pe -gt 70 ]; then
+        icon="${nf_md_battery_70}"
+    elif [ pe -gt 60 ]; then
+        icon="${nf_md_battery_60}"
+    elif [ pe -gt 50 ]; then
+        icon="${nf_md_battery_50}"
+    elif [ pe -gt 40 ]; then
+        icon="${nf_md_battery_40}"
+    elif [ pe -gt 30 ]; then
+        icon="${nf_md_battery_30}"
+    elif [ pe -gt 20 ]; then
+        icon="${nf_md_battery_20}"
+    elif [ pe -gt 10 ]; then
+        icon="${nf_md_battery_10}"
+    elif [ pe -gt 0 ]; then
+        icon="${nf_md_battery_0}"
+    else
+        icon="${nf_md_battery_out}"
+    fi
+else 
+    icon=${nf_md_battery_unknown}
+fi
+
+# 输出提取的信息
+#echo "充电状态: $charging_state"
+#echo "电池电量: $battery_percentage"
+echo "${icon}${battery_percentage}%"
