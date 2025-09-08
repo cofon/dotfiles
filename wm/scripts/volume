@@ -1,0 +1,139 @@
+
+#!/bin/bash
+# PipeWire音量控制脚本 (兼容dwm/Hyprland)
+# 图标：󰕿 󰖀 󰕾    󰝟 󰸈
+
+#######################################
+# 获取当前音量百分比 (0-100)
+# Globals:
+#   None
+# Arguments:
+#   None
+# Outputs:
+#   写入音量百分比数值
+#######################################
+get_volume() {
+    pactl get-sink-volume @DEFAULT_SINK@ | \
+        grep -oP '\d+%' | \
+        head -1 | \
+        tr -d '%'
+}
+
+#######################################
+# 获取静音状态
+# Globals:
+#   None
+# Arguments:
+#   None
+# Outputs:
+#   写入 "yes" 或 "no"
+#######################################
+get_muted() {
+    pactl get-sink-mute @DEFAULT_SINK@ | \
+        grep -oP 'Mute: \K\w+'
+}
+
+#######################################
+# 生成状态栏显示内容
+# Globals:
+#   None
+# Arguments:
+#   None
+# Outputs:
+#   写入格式化字符串 (图标+百分比)
+#######################################
+res() {
+    vol=$(get_volume || echo 0)
+    muted=$(get_muted || echo "yes")
+    
+    # 图标选择逻辑
+    if [ "$muted" = "yes" ]; then
+        if [ "$vol" -eq 0 ]; then
+            icon="M-X "  # 完全静音
+        else
+            icon="-M- "  # 静音但保留音量值
+        fi
+    else
+        if [ "$vol" -gt 66 ]; then
+            icon="VOL "  # 高音量
+        elif [ "$vol" -gt 33 ]; then
+            icon="Vol "  # 中音量
+        elif [ "$vol" -gt 0 ]; then
+            icon="vol "  # 低音量
+        else
+            icon="-X- "  # 零音量
+        fi
+    fi
+
+    echo "${icon}${vol}%"
+}
+
+#######################################
+# 音量增加5%
+# Globals:
+#   None
+# Arguments:
+#   None
+#######################################
+add() {
+    pactl set-sink-volume @DEFAULT_SINK@ +5%
+    update_status
+}
+
+#######################################
+# 音量减少5%
+# Globals:
+#   None
+# Arguments:
+#   None
+#######################################
+sub() {
+    pactl set-sink-volume @DEFAULT_SINK@ -5%
+    update_status
+}
+
+#######################################
+# 切换静音状态
+# Globals:
+#   None
+# Arguments:
+#   None
+#######################################
+mute() {
+    pactl set-sink-mute @DEFAULT_SINK@ toggle
+    update_status
+}
+
+#######################################
+# 更新状态栏显示
+# Globals:
+#   None
+# Arguments:
+#   None
+#######################################
+update_status() {
+    # 更新dwm状态栏
+    pkill -RTMIN+10 dwmblocks 2>/dev/null
+    
+    # 兼容Hyprland环境
+    [ "$XDG_SESSION_TYPE" = "wayland" ] && \
+        pkill -RTMIN+10 waybar 2>/dev/null
+}
+
+#######################################
+# 主执行逻辑
+# Globals:
+#   None
+# Arguments:
+#   $1 - 操作类型 (add/sub/mute)
+#######################################
+case "$1" in
+    "") res ;;
+    "add") add ;;
+    "sub") sub ;;
+    "mute") mute ;;
+    *) echo "无效参数: $1" >> ~/.log ;;
+esac
+
+exit 0
+

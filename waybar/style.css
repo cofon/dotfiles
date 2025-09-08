@@ -1,0 +1,166 @@
+
+/* 全局样式设置（所有元素共享） */
+* {
+    font-family: "JetBrains Mono Nerd Font", "FontAwesome", "forkawesome", "JetBrains Mono";
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 10px;
+    transition-property: background, color;
+    transition-duration: 0.2s;
+}
+
+/* Waybar 主窗口样式 */
+window#waybar {
+    background-color: transparent;
+}
+
+/* Waybar 隐藏状态样式 */
+window#waybar.hidden {
+    opacity: 0.2;
+}
+
+/* 工作区模块容器样式 */
+#workspaces {
+    margin-top: 0px;
+    background: rgba(16, 20, 24, 0);
+    transition: none;
+    font-size: 12px;
+}
+
+/* === 高对比度鲜艳主题 === */
+#workspaces button {
+    padding: 0 10px;
+    background-color: transparent;
+    color: #000000;
+}
+
+#workspaces button.active {
+    background: #f3bd5d; 
+    color: #000000;
+    padding: 0 16px;
+}
+
+#workspaces button.active.empty {
+    background: #ffb7b2;
+    color: #000000;
+    padding: 0 16px;
+}
+
+#workspaces button:not(.active):not(.empty):not(.urgent) {
+    background: #ffdac1;
+    color: #000000;
+    padding: 0 10px;
+}
+
+#workspaces button.empty {
+    background: transparent;
+    color: #666666;
+}
+
+#workspaces button:hover {
+    background: #f3bd5d;
+    color: #000000;
+}
+
+#workspaces button.active:hover {
+    background: #f3bd5d;
+}
+
+#workspaces button.empty:hover {
+    background: #f3bd5d;
+    color: #000000;
+}
+
+#workspaces button.active.empty:hover {
+    background: #f3bd5d;
+}
+
+#workspaces button:not(.active):not(.empty):not(.urgent):hover {
+    background: #f3bd5d;
+}
+
+#workspaces button.urgent {
+    background-color: #ff7675;
+    color: #000000;
+}
+
+#mode {
+    background-color: #a29bfe;
+    border-bottom: 3px solid #fdcb6e;
+    color: #000000;
+}
+
+#clock,
+#cpu,
+#memory,
+#network,
+#pulseaudio,
+#tray,
+#mode,
+#window {
+    margin-top: 0px;
+    padding: 0 12px;
+}
+
+.modules-left > widget:first-child > * {
+    margin-left: 8px;
+}
+
+.modules-right > widget:last-child > * {
+    margin-right: 8px;
+}
+
+#clock {
+    background-color: #ffeaa7;
+    color: #000000;
+}
+
+/*
+#cpu {
+    background-color: #ff9aa2;
+    color: #000000;
+}
+*/
+
+#memory {
+    background-color: #a29bfe;
+    color: #000000;
+}
+
+#pulseaudio {
+    background-color: #74b9ff;
+    color: #000000;
+}
+
+#network {
+    background-color: #55a3ff;
+    color: #000000;
+}
+
+#tray {
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 0 0px;
+    background-color: rgba(16, 20, 24, 0);
+    border-radius: 10px;
+}
+
+#tray image {
+    margin: 0 0px;
+    padding: 8px;
+    background-color: #fdcb6e;
+    border-radius: 6px;
+    min-width: 24px;
+    min-height: 24px;
+}
+
+#tray image:hover {
+    background-color: #e17055;
+}
+
+#window {
+    font-family: "JetBrains Mono Nerd Font", "FontAwesome", "forkawesome", "JetBrains Mono";
+    font-weight: 400;
+    background-color: #f2fa88;
+    color: #000000;
+}

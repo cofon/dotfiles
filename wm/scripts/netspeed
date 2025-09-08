@@ -1,0 +1,78 @@
+#!/bin/bash
+
+# 网卡名称，根据你的实际情况修改
+#INTERFACE="wlan0"  
+#INTERFACE="enp2s0" 
+INTERFACE="wlp3s0" 
+
+# 临时文件路径，用于保存上次的流量数据
+TEMP_FILE="/tmp/netspeed_prev"
+
+# 刷新间隔时间（秒）
+INTERVAL=1
+
+# 获取网络接口的流量信息
+line=$(grep -m 1 "^ *$INTERFACE:" /proc/net/dev)
+if [ -z "$line" ]; then
+    echo "No data for interface $INTERFACE"
+    exit 1
+fi
+
+# 提取接收和发送的数据
+curr_rx=$(echo $line | awk '{print $2}')
+curr_tx=$(echo $line | awk '{print $10}')
+
+# 如果是第一次运行或临时文件不存在，初始化 prev_rx 和 prev_tx
+if [ ! -f "$TEMP_FILE" ]; then
+    echo "$curr_rx $curr_tx" > "$TEMP_FILE"
+    echo "0.00KB/s ↓ 0.00KB/s ↑"
+    exit 0
+fi
+
+# 读取上一次的流量值
+read prev_rx prev_tx < "$TEMP_FILE"
+
+# 计算差值（即这段时间内的流量变化）
+rx_diff=$(( (curr_rx - prev_rx) / INTERVAL ))
+tx_diff=$(( (curr_tx - prev_tx) / INTERVAL ))
+
+# 如果差值为负数（例如网络接口重启），重置为零
+if [ $rx_diff -lt 0 ]; then
+    rx_diff=0
+fi
+if [ $tx_diff -lt 0 ]; then
+    tx_diff=0
+fi
+
+# 将字节数转换为合适的单位
+convert_to_unit() {
+    local bytes=$1
+    if (( bytes < 1024 )); then
+        printf "%d B/s" "$bytes"
+    elif (( bytes < 1048576 )); then
+        printf "%.2f KB/s" "$(echo "scale=2; $bytes / 1024" | bc)"
+    elif (( bytes < 1073741824 )); then
+        printf "%.2f MB/s" "$(echo "scale=2; $bytes / 1048576" | bc)"
+    else
+        printf "%.2f GB/s" "$(echo "scale=2; $bytes / 1073741824" | bc)"
+    fi
+}
+
+rx_speed=$(convert_to_unit $rx_diff)
+tx_speed=$(convert_to_unit $tx_diff)
+
+# 更新前一次的流量值
+echo "$curr_rx $curr_tx" > "$TEMP_FILE"
+
+# icon
+# nf-fa-arrow_up_long=""
+# nf-fa-arrow_down_long=""
+# nf-fa-long_arrow_up=""
+# nf-fa-long_arrow_down=""
+#up_arrow=""
+#down_arrow=""
+up_arrow="↑"
+down_arrow="↓"
+
+# 输出格式化后的结果
+printf "${up_arrow} %s ${down_arrow} %s" "$tx_speed" "$rx_speed"

@@ -1,0 +1,22 @@
+# ~/.config/wofi/config
+columns=1
+lines=10
+// width=1000
+// height=500
+width=75%
+location=0
+x-offset=0
+y-offset=0
+show=drun
+prompt=Search...
+filter-rate=100
+allow-images=true
+image-size=32
+insensitive=true
+sort-order=alphabetical
+parse-search=true
+hide-scroll=true
+no-actions=true
+layer=overlay
+terminal=alacritty
+key-monitor=keyboard

@@ -1,0 +1,3 @@
+#!/bin/bash
+mem=$(free -h | awk '/^(Mem|内存)/ { print $3"/"$2 }' | sed s/i//g)
+echo "Mem ${mem}"

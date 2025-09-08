@@ -1,0 +1,16 @@
+#!/bin/bash
+WALLPAPER_DIR="/home/cofon/.local/share/background"
+MONITOR="eDP-1"  # 修改为你的显示器名称
+
+while true; do
+    # 随机选择一张壁纸
+    WALLPAPER=$(find "$WALLPAPER_DIR" -type f | shuf -n 1)
+    
+    # 设置新壁纸
+    hyprctl hyprpaper preload "$WALLPAPER"
+    hyprctl hyprpaper wallpaper "$MONITOR,$WALLPAPER"
+    
+    # 等待5分钟
+    sleep 30
+done
+

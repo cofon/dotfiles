@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# set en env fcitx5 env
+export LANG=zh_CN.UTF-8
+export LANGUAGE=zh_CN:zh
+export LC_CTYPE=zh_CN.UTF-8
+export LC_ALL=zh_CN.UTF-8
+
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS="@im=fictx"
+export SDL_IM_MODULE=fcitx
+export XIM=fcitx
+export XIN_PROGRAM=fcitx
+
+# set background image
+feh --bg-scale ~/.config/feh/tree_ai_4000x2248.jpeg &
+
+# start fcitx5
+fcitx5 &
+
+# start nm-applet
+nm-applet &
+
+# start picom
+picom -b --experimental-backends
+
+# start dwmblocks
+dwmblocks &
+
+# start dwm
+exec dwm
+

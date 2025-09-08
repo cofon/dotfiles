@@ -1,0 +1,26 @@
+dwm rule 配置 方法
+用于配置某个app在固定的tag打开
+比如：无论在哪里打开firefox，firerfox都会显示在tag2
+
+dwm rule 描述
+暂时只用到 WM_CLASS 的第二个值：class
+WM_CLASS(STRING) = instance, class
+WM_NAME(STRING) = title
+
+获取 WM_CLASS WM_NAME 的方法
+执行命令：xprop
+鼠标变成十字形
+点击app窗口
+终端打印app窗口信息
+
+firefox
+WM_CLASS(STRING) = "Navigator", "firefox-esr"
+WM_NAME(COMPOUND_TEXT) = "Dwm rules array explanation · GitHub Copilot — Mozilla Firefox"
+
+thunar
+WM_CLASS(STRING) = "thunar", "Thunar"
+WM_NAME(STRING) = "cofon - Thunar"
+
+mousepad
+WM_CLASS(STRING) = "mousepad", "Mousepad"
+WM_NAME(COMPOUND_TEXT) = "未命名 1 - Mousepad"

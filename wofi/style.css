@@ -1,0 +1,67 @@
+/* ~/.config/wofi/style.css */
+* {
+    font-family: "JetBrains Mono", "FontAwesome", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#window {
+    margin: 0px;
+    border: 2px solid #a29bfe;
+    border-radius: 15px;
+    background-color: rgba(236, 240, 241, 0.95);
+    color: #2d3436;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+#input {
+    margin: 20px;
+    padding: 12px 15px;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #2d3436;
+    border-radius: 10px;
+    border: 2px solid #74b9ff;
+    outline: none;
+    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#input:focus {
+    border-color: #a29bfe;
+}
+
+#scroll {
+    margin: 0 20px 20px 20px;
+    background-color: transparent;
+}
+
+#entry {
+    margin: 5px 0;
+    padding: 10px 15px;
+    border-radius: 8px;
+    background-color: transparent;
+    transition: all 0.2s ease-in-out;
+}
+
+#entry:selected {
+    background-color: #3498db;
+    color: #ffffff;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+}
+
+#entry > box {
+    margin-left: 10px;
+}
+
+#entry image {
+    padding-right: 12px;
+}
+
+#text {
+    color: #2d3436;
+}
+
+#text:selected {
+    color: #ffffff;
+}
