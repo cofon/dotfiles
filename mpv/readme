@@ -2,6 +2,7 @@
     win默认目录：%APPDATA%\mpv\
     linux默认目录：~/.config/mpv/
     删除默认mpv目录，复制mpv目录替代
+    win：mpv.conf 和 mpv_win.conf 是一样的，不用任何操作
     linux：mv mpv_linux.conf mpv.conf
 
 # mpv配置记录
