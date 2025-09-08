@@ -1,0 +1,73 @@
+
+# Alacritty Terminal Configuration (TOML format)
+# Generated on 2025-08-10
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "JetBrains Mono"
+
+[font.bold]
+family = "JetBrains Mono"
+
+[font.italic]
+family = "JetBrains Mono"
+
+[font.bold_italic]
+family = "JetBrains Mono"
+
+[colors.primary]
+background = "0x303030"
+foreground = "0xc5c8c6"
+
+[colors.normal]
+black = "0x1d1f21"
+red = "0xcc6666"
+green = "0xb5bd68"
+yellow = "0xf0c674"
+blue = "0x81a2be"
+magenta = "0xb294bb"
+cyan = "0x8abeb7"
+white = "0xc5c8c6"
+
+[colors.bright]
+black = "0x666666"
+red = "0xd54e53"
+green = "0xb9ca4a"
+yellow = "0xe7c547"
+blue = "0x7aa6da"
+magenta = "0xc397d8"
+cyan = "0x70c0ba"
+white = "0xffffff"
+
+[window]
+decorations = "none"
+opacity = 0.8
+startup_mode = "Windowed"
+padding = { x = 5, y = 1 }
+
+[window.dimensions]
+columns = 80
+lines = 24
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[terminal]
+shell = { program = "/bin/bash" }
+
+[[keyboard.bindings]]
+key = "C"
+mods = "Control|Shift"
+action = "Copy"
+
+[[keyboard.bindings]]
+key = "V"
+mods = "Control|Shift"
+action = "Paste"
+
